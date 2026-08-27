@@ -19,7 +19,7 @@ Consultoría técnica de inteligencia artificial aplicada, automatización e int
 | Nombre provisional | Allsetic AI Automation Studio | [CONFIRMADO] |
 | Promotor | Kevin Joel Valdivieso Ordóñez | [CONFIRMADO] |
 | Actividad | Consultoría tecnológica, desarrollo de software, automatización de procesos, integración de sistemas e implantación de inteligencia artificial aplicada | [CONFIRMADO] |
-| Modalidad | Prestación principalmente remota, con reuniones en línea y sesiones presenciales puntuales | [CONFIRMADO] |
+| Modalidad | Prestación principalmente en persona, con reuniones en línea y sesiones presenciales | [CONFIRMADO] |
 | Ámbito | España y mercado internacional, con especial atención a empresas europeas usuarias de Microsoft 365, Dynamics 365, Power Platform, Azure o CRM | [CONFIRMADO] |
 | Forma inicial prevista | Profesional autónomo | [CONFIRMADO] como intención de inicio; alta y encuadramiento [PENDIENTE] |
 | Evolución posible | Microagencia o sociedad mercantil cuando facturación, contratación e ingresos recurrentes lo justifiquen | [HIPÓTESIS] |
@@ -55,7 +55,7 @@ La misión se traduce en reducir tareas manuales, facilitar el acceso al conocim
 
 ## 5. Visión
 
-[HIPÓTESIS] Construir progresivamente una consultoría boutique con servicios productizados, clientes recurrentes, metodología propia, colaboradores especializados, activos reutilizables y capacidad de prestación remota.
+[HIPÓTESIS] Construir progresivamente una consultoría boutique con servicios productizados, clientes recurrentes, metodología propia, colaboradores especializados, activos reutilizables y capacidad de prestación en persona.
 
 La evolución se plantea por etapas: primero, validar la oferta y el proceso comercial; después, consolidar proyectos y mantenimiento recurrente; finalmente, valorar una microagencia, componentes reutilizables o productos propios cuando exista evidencia de demanda y capacidad financiera. Ninguna de estas líneas se presenta como ya desarrollada.
 
@@ -236,7 +236,7 @@ La selección dependerá de requisitos, licencias, seguridad, coste y arquitectu
 | CRM y prospección | Gestión de oportunidades, seguimiento y contacto comercial lícito | [PENDIENTE] herramienta y coste |
 | Personas y colaboradores | Apoyo especializado sujeto a demanda, alcance y capacidad financiera | [HIPÓTESIS] sin contratación comprometida |
 
-La actividad se plantea principalmente remota y no requiere un local comercial para su puesta en marcha. Cualquier espacio puntual se contratará según necesidad y no se presenta como inversión inicial necesaria.
+La actividad se plantea principalmente de manera presencial y por lo tanto requiere de un local comercial para su puesta en marcha. 
 
 ## 15. Inversión prevista
 
@@ -297,11 +297,10 @@ Las fechas concretas dependen de alta, financiación, disponibilidad del promoto
 La viabilidad cualitativa se apoya en:
 
 - [CONFIRMADO] experiencia previa del promotor directamente relacionada con el servicio;
-- estructura inicial ligera, remota y sin necesidad declarada de local comercial;
 - posibilidad de mantener costes fijos controlados y contratar capacidad externa solo cuando exista demanda;
 - especialización en un ecosistema empresarial implantado, sin cuantificar el mercado mediante estadísticas no verificadas;
 - combinación prevista de proyectos y servicios recurrentes;
-- prestación remota para España y clientes internacionales;
+- prestación para clientes de España y clientes internacionales;
 - reutilización prudente de componentes, documentación y metodología sin vender activos futuros como productos existentes.
 
 La viabilidad económica final está [PENDIENTE]. Antes de presentar el expediente deberán completarse inversión, fuentes de financiación, costes mensuales, capacidad facturable, hipótesis comerciales, previsión de tesorería y escenarios. Esta memoria no afirma rentabilidad, punto de equilibrio ni facturación sin esos datos.
@@ -353,7 +352,7 @@ Su priorización dependerá de demanda demostrable, compatibilidad con la activi
 
 Allsetic AI Automation Studio se plantea como una consultoría técnica especializada en inteligencia artificial aplicada a procesos empresariales, automatización e integración sobre Microsoft 365, Dynamics 365, Power Platform, Azure y CRM.
 
-El proyecto responde a un problema concreto: organizaciones digitalizadas que aún mantienen tareas manuales, conocimiento disperso y sistemas poco conectados. La experiencia declarada del promotor está directamente relacionada con el diseño y la ejecución de las soluciones previstas, lo que permite iniciar con una estructura ligera y principalmente remota.
+El proyecto responde a un problema concreto: organizaciones digitalizadas que aún mantienen tareas manuales, conocimiento disperso y sistemas poco conectados. La experiencia declarada del promotor está directamente relacionada con el diseño y la ejecución de las soluciones previstas, lo que permite iniciar con una estructura ligera y rápidamente escalable.
 
 El modelo combina auditorías, sprints, implantaciones, desarrollos e integraciones con soporte recurrente. La evolución hacia microagencia, colaboradores y activos propios se mantiene como posibilidad condicionada a resultados reales. El enfoque será práctico, seguro, documentado e integrado; no se prometen clientes, ahorros, facturación ni concesiones administrativas.
 
