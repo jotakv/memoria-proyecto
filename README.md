@@ -1,38 +1,70 @@
-# SOMA LAB / SOMA OS — Expediente maestro SEPE
+# Allsetic AI Automation Studio — Memoria descriptiva
 
-Repositorio maestro para preparar la solicitud de capitalización de la prestación contributiva por desempleo (pago único), la financiación del local y la evolución posterior del proyecto físico-digital.
+Repositorio maestro de la memoria profesional de **Allsetic AI Automation Studio**, una consultoría técnica especializada en inteligencia artificial aplicada a procesos empresariales, automatización, Microsoft 365, Dynamics 365, Power Platform, Azure y CRM.
+
+El repositorio conserva en un único lugar:
+
+- la [memoria descriptiva canónica](docs/memoria-descriptiva-allsetic.md);
+- una aplicación web estática, responsive e imprimible generada desde esa memoria;
+- el estado, las hipótesis, las decisiones y los pendientes del expediente;
+- las fuentes oficiales y controles para una eventual solicitud de pago único ante el SEPE;
+- plantillas textuales para inversión, financiación y evidencia.
 
 ## Estado
 
-Repositorio inicializado el 2026-08-19. La rama de trabajo se creará tras este commit inicial porque GitHub no permite crear ramas en un repositorio completamente vacío.
+La memoria descriptiva contiene las 22 secciones previstas y puede utilizarse como borrador profesional. El expediente económico y administrativo sigue **pendiente de completar** con resolución de prestación, cronología, presupuestos, financiación, costes y previsiones documentadas. No se presenta ninguna concesión, cliente o ingreso como confirmado.
 
-## Principios de trabajo
+## Fuente de verdad
 
-- No convertir estimaciones en hechos.
-- Etiquetar datos como **[CONFIRMADO]**, **[ESTIMADO]**, **[BENCHMARK]**, **[HIPÓTESIS]** o **[PENDIENTE]**.
-- Priorizar fuentes oficiales y vigentes para afirmaciones jurídicas, fiscales, administrativas y financieras.
-- Mantener separadas las narrativas SEPE, banco/Avalmadrid e inversores/aceleradoras.
-- En el escenario bancario base, **SOMA OS = 0 € de ingresos**.
-- La compra del local se justifica como infraestructura productiva afectada a la actividad, no como inversión inmobiliaria pasiva.
+`docs/memoria-descriptiva-allsetic.md` es la única fuente editorial del contenido mostrado por la aplicación. `scripts/build.mjs` la transforma en `index.html` y prepara `dist/` para publicación. No se debe editar manualmente la copia generada.
 
-## Estructura objetivo
+## Requisitos
 
-- `docs/`: auditoría, decisiones, hipótesis, preguntas abiertas y estado.
-- `memoria-sepe/`: memoria empresarial para pago único.
-- `financial-model/`: CAPEX, OPEX, ingresos, cash-flow y escenarios.
-- `local/`: adquisición, costes, due diligence y checklist.
-- `legal/`: requisitos SEPE, licencias, cualificaciones y contratación.
-- `technology/`: visión y MVP de SOMA OS.
-- `roadmap/`: SEPE, banco, producto y Lanzadera.
-- `research/`: fuentes oficiales, mercado, competencia y benchmarks.
-- `evidence/`: inventario documental y pendientes.
-- `prompts/`: sistema de iteración y auditoría.
-- `wiki/`: guías operativas y plantillas reutilizables; empezar por la [acreditación previa del precio de un local ante el SEPE](wiki/ACREDITACION_PRECIO_LOCAL_SEPE.md).
+- Node.js 20 o posterior.
+- npm, utilizado únicamente para ejecutar scripts; no hay dependencias de producción.
 
-## Concepto
+## Instalación y desarrollo
 
-**SOMA LAB**: centro híbrido de bienestar, movimiento, experiencias y tecnología.
+```bash
+npm install
+npm run dev
+```
 
-**SOMA OS**: plataforma de gestión, personalización, automatización y descubrimiento para negocios y usuarios del sector wellness.
+La aplicación queda disponible en `http://127.0.0.1:4173/`.
 
-SOMA Lab actúa como **Customer Zero / Living Lab** de SOMA OS.
+## Comprobaciones
+
+```bash
+npm run lint
+npm run typecheck
+npm test
+npm run build
+```
+
+`npm run check` ejecuta todas las comprobaciones en orden.
+
+## Impresión y PDF
+
+La interfaz incluye la acción **Imprimir / Guardar como PDF** y una hoja de estilos específica para impresión A4. No se genera ni versiona ningún PDF: la exportación se realiza desde el cuadro de impresión del navegador.
+
+## Estructura
+
+- `assets/`: estilos y comportamiento progresivo de la interfaz.
+- `docs/`: memoria canónica, estado y trazabilidad.
+- `documentos_sepe/`: copias oficiales preexistentes, conservadas sin cambios.
+- `evidence/`: índice de documentos y controles probatorios.
+- `financial-model/`: inversión y viabilidad pendientes de completar.
+- `legal/`: reglas administrativas y controles de privacidad/contratación.
+- `research/`: fuentes oficiales verificadas.
+- `roadmap/`: secuencia de negocio y expediente.
+- `scripts/`: generación, servidor local y validación.
+- `technology/`: arquitectura de la aplicación documental.
+- `tests/`: pruebas de contenido, coherencia y build.
+
+## Principios
+
+- Los precios orientativos son `[HIPÓTESIS]`, no ventas ni previsiones garantizadas.
+- Las partidas sin evidencia muestran `[PENDIENTE]` o “Pendiente de presupuesto”.
+- No se atribuyen al promotor credenciales o casos no aportados.
+- Toda afirmación administrativa debe revalidarse con fuente oficial antes de presentar.
+- No se versionan binarios generados, capturas ni exportaciones.

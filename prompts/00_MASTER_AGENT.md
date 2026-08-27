@@ -1,51 +1,34 @@
-# MASTER AGENT — Nueva iteración completa del expediente
-
-Actúa como un equipo formado por abogado laboral/SEPE, gestor administrativo, CFO, analista bancario, consultor de emprendimiento, product manager, CTO y auditor documental.
+# Agente maestro · nueva iteración Allsetic
 
 ## Misión
 
-Ejecutar una nueva iteración integral del repositorio `capitalizarParo` sin inventar datos.
+Actualizar el expediente y la aplicación de Allsetic AI Automation Studio sin inventar datos y sin romper la fuente canónica.
 
-## Secuencia obligatoria
+## Secuencia
 
-1. Leer todo el repositorio.
-2. Leer primero:
-   - `docs/STATUS.md`
-   - `docs/OPEN_QUESTIONS.md`
-   - `docs/ASSUMPTIONS.md`
-   - `docs/DECISION_LOG.md`
-   - `docs/CHANGELOG.md`
-   - `research/FUENTES_OFICIALES.md`
-3. Buscar todos los marcadores `[PENDIENTE]`, `[HIPÓTESIS]`, `[ESTIMADO]` y `[BENCHMARK]`.
-4. Detectar contradicciones entre memoria, finanzas, local, legal y tecnología.
-5. Revisar que toda cifra financiera no confirmada tenga una hipótesis asociada.
-6. Revisar que el escenario bancario base mantenga `SOMA OS = 0 €`.
-7. Revisar que el local se describa como infraestructura productiva y no inversión pasiva.
-8. Verificar con fuentes oficiales cualquier afirmación jurídica, administrativa, fiscal o financiera susceptible de cambio.
-9. Resolver automáticamente sólo los huecos que puedan cerrarse con:
-   - documentación existente;
-   - fuentes oficiales;
-   - cálculos reproducibles;
-   - inferencias claramente etiquetadas.
-10. No inventar datos personales, presupuestos, financiación, licencias, clientes o demanda.
-11. Actualizar los archivos afectados.
-12. Actualizar `docs/STATUS.md`.
-13. Actualizar `docs/OPEN_QUESTIONS.md`.
-14. Actualizar `docs/ASSUMPTIONS.md`.
-15. Actualizar `docs/DECISION_LOG.md` cuando haya decisiones nuevas.
-16. Añadir entrada a `docs/CHANGELOG.md`.
-17. Generar las siguientes 10 acciones priorizadas por `impacto × urgencia × dependencia`.
+1. Leer `AGENTS.md` y la estructura completa.
+2. Leer, por orden, `docs/STATUS.md`, `docs/OPEN_QUESTIONS.md`, `docs/ASSUMPTIONS.md`, `docs/DECISION_LOG.md`, `research/FUENTES_OFICIALES.md` y `docs/memoria-descriptiva-allsetic.md`.
+3. Buscar `[PENDIENTE]`, `[HIPÓTESIS]`, `[ESTIMADO]` y `[BENCHMARK]`.
+4. Contrastar memoria, inversión, viabilidad, legal, evidencia y roadmap.
+5. Comprobar que cada cifra no confirmada tenga hipótesis identificada.
+6. Verificar en fuentes oficiales cualquier regla susceptible de cambio.
+7. Resolver solo con documentos existentes, fuentes primarias, cálculos reproducibles o declaración expresa.
+8. Actualizar los archivos afectados, `docs/STATUS.md`, `docs/OPEN_QUESTIONS.md`, `docs/ASSUMPTIONS.md`, `docs/DECISION_LOG.md` y `docs/CHANGELOG.md`.
+9. Ejecutar `npm run check` y revisar el diff completo.
+10. Verificar navegación, responsive, impresión, consola, enlaces y referencias incompatibles.
 
-## Salida mínima de cada iteración
+## Reglas
 
-- Resumen de cambios.
-- Contradicciones encontradas.
-- Huecos resueltos.
-- Huecos que requieren al promotor.
-- Riesgos nuevos.
-- Top 10 siguientes acciones.
-- Lista exacta de archivos modificados.
+- No inventar clientes, experiencia, presupuestos, licencias, financiación, demanda, facturación o métricas.
+- No editar a mano el contenido generado de `index.html`; modificar la memoria y ejecutar el build.
+- No crear ni modificar archivos binarios.
+- No considerar el expediente listo mientras falten resolución, cronología, presupuestos, financiación o viabilidad.
 
-## Regla de calidad
+## Salida
 
-No cierres una pregunta abierta cambiando una hipótesis por un supuesto silencioso. Si no hay evidencia, mantener `[PENDIENTE]`.
+- resumen de cambios;
+- huecos resueltos y pendientes;
+- riesgos;
+- validaciones ejecutadas;
+- archivos modificados;
+- siguiente acción concreta.

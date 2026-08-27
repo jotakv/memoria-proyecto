@@ -1,83 +1,54 @@
-# DECISION LOG
+# Registro de decisiones
 
-Última actualización: 2026-08-20
+**Última actualización:** 2026-08-27
 
-## DEC-001
+## DEC-A01 · Identidad y posicionamiento
 
-**Fecha:** 2026-08-19  
-**Decisión:** estructurar el proyecto como negocio híbrido `SOMA LAB + SOMA OS`, no como estudio de yoga aislado.  
-**Motivo:** permite justificar el local como infraestructura productiva multifunción y separar la tesis de escalabilidad tecnológica.  
-**Alternativas consideradas:** estudio de yoga puro; centro wellness sin tecnología; SaaS sin local.  
-**Impacto:** alto en memoria SEPE, financiación, producto y narrativa futura de inversión.  
-**Estado:** APROBADA PROVISIONALMENTE.  
-**Fuente:** mandato del promotor.
+- **Fecha:** 2026-08-27.
+- **Decisión:** adaptar el repositorio completo a Allsetic AI Automation Studio y posicionarlo como consultoría técnica especializada.
+- **Motivo:** representar la actividad real declarada y evitar una descripción genérica.
+- **Estado:** APROBADA.
+- **Fuente:** mandato del promotor.
 
-## DEC-002
+## DEC-A02 · Modelo inicial
 
-**Fecha:** 2026-08-19  
-**Decisión:** en el escenario bancario base, SOMA OS aporta 0 € de ingresos.  
-**Motivo:** demostrar que el negocio físico puede soportar el inmueble sin depender de una startup aún no validada.  
-**Alternativas consideradas:** incluir SaaS desde año 1.  
-**Impacto:** alto en DSCR, break-even y credibilidad bancaria.  
-**Estado:** APROBADA.  
-**Fuente:** mandato del promotor.
+- **Fecha:** 2026-08-27.
+- **Decisión:** actividad inicial como profesional autónomo, principalmente remota y sin necesidad declarada de local comercial.
+- **Motivo:** fuente de verdad empresarial y estructura ligera del proyecto.
+- **Estado:** APROBADA COMO PLAN; altas y datos administrativos pendientes.
+- **Fuente:** mandato del promotor.
 
-## DEC-003
+## DEC-A03 · Fuente canónica única
 
-**Fecha:** 2026-08-19  
-**Decisión:** modelo operativo preferente con promotor como propietario/gerente.  
-**Motivo:** su función principal será estrategia, producto, tecnología, marketing, ventas, operaciones, partnerships y comunidad.  
-**Alternativas consideradas:** promotor como instructor principal.  
-**Impacto:** alto en RRHH, cualificaciones y capacidad de escalar.  
-**Estado:** APROBADA PROVISIONALMENTE.  
-**Fuente:** mandato del promotor.
+- **Fecha:** 2026-08-27.
+- **Decisión:** usar `docs/memoria-descriptiva-allsetic.md` como fuente editorial y generar la aplicación desde ella.
+- **Motivo:** evitar divergencias entre memoria y web.
+- **Estado:** APROBADA.
 
-## DEC-004
+## DEC-A04 · Arquitectura estática
 
-**Fecha:** 2026-08-19  
-**Decisión:** no presentar la adquisición del local como inversión inmobiliaria pasiva.  
-**Motivo:** el argumento SEPE debe ser afectación directa a la actividad y necesidad productiva.  
-**Alternativas consideradas:** tesis patrimonial/revalorización.  
-**Impacto:** crítico para elegibilidad y narrativa.  
-**Estado:** APROBADA.  
-**Fuente:** estrategia jurídica-administrativa del expediente.
+- **Fecha:** 2026-08-27.
+- **Decisión:** utilizar HTML, CSS y JavaScript nativos con scripts Node sin dependencias de producción.
+- **Motivo:** el repositorio no contenía framework, lockfile ni aplicación; la memoria no requiere estado persistente ni backend.
+- **Estado:** APROBADA.
 
-## DEC-005
+## DEC-A05 · Identidad visual sin binarios
 
-**Fecha:** 2026-08-19  
-**Decisión:** limitar el MVP físico y tecnológico.  
-**Motivo:** evitar una memoria sobredimensionada y poco creíble.  
-**Alternativas consideradas:** lanzar todas las actividades y funcionalidades desde el inicio.  
-**Impacto:** alto en CAPEX, OPEX, licencias, roadmap y viabilidad.  
-**Estado:** APROBADA PROVISIONALMENTE.  
-**Fuente:** mandato del promotor.
+- **Fecha:** 2026-08-27.
+- **Decisión:** utilizar el wordmark tipográfico `ALLSETIC`, CSS y componentes textuales; no crear logotipo gráfico, imágenes, capturas o favicon binario.
+- **Motivo:** no existe identidad oficial y el encargo excluye binarios del cambio.
+- **Estado:** APROBADA.
 
-## DEC-006 — ABIERTA
+## DEC-A06 · Tratamiento de precios
 
-**Fecha:** 2026-08-19  
-**Decisión pendiente:** autónomo individual vs SL.  
-**Motivo:** afecta pago único, financiación, responsabilidad patrimonial, fiscalidad y entrada futura de socios.  
-**Alternativas consideradas:** autónomo; SL; otras formas societarias.  
-**Impacto:** crítico.  
-**Estado:** ABIERTA.  
-**Fuente:** pendiente de análisis jurídico-fiscal y bancario.
+- **Fecha:** 2026-08-27.
+- **Decisión:** registrar los tres rangos de precio como hipótesis HYP-A01 a HYP-A03.
+- **Motivo:** son precios orientativos iniciales, no ventas ni ingresos garantizados.
+- **Estado:** APROBADA.
 
-## DEC-007 — ABIERTA
+## DEC-A07 · Limpieza documental
 
-**Fecha:** 2026-08-19  
-**Decisión pendiente:** comprar local concreto vs mantener búsqueda.  
-**Motivo:** la inversión principal sólo debe cerrarse tras due diligence y financiación completa.  
-**Alternativas consideradas:** compra del candidato actual; alquiler inicial; otro local más barato.  
-**Impacto:** crítico.  
-**Estado:** ABIERTA.  
-**Fuente:** documentación inmobiliaria pendiente.
-
-## DEC-008
-
-**Fecha:** 2026-08-20
-**Decisión:** solicitar como soporte previo preferente una propuesta económica no vinculante del local y no firmar arras únicamente para fabricar evidencia para el SEPE.
-**Motivo:** la plantilla oficial enumera por separado presupuestos/proformas, arras/precontratos y otros documentos justificativos en su caso; un compromiso prematuro añade riesgo mientras faltan due diligence y financiación.
-**Alternativas consideradas:** exigir una «factura proforma» inmobiliaria; firmar reserva/arras; aportar sólo anuncio.
-**Impacto:** alto en evidencia, cronología y gestión de riesgo de compra.
-**Estado:** APROBADA COMO ESTRATEGIA DOCUMENTAL; la suficiencia del soporte queda sujeta a valoración/requerimiento del SEPE.
-**Fuente:** SRC-012 y mandato del promotor.
+- **Fecha:** 2026-08-27.
+- **Decisión:** retirar del árbol de trabajo los documentos textuales incompatibles y conservar el pasado únicamente en el historial Git.
+- **Motivo:** impedir que convivan dos proyectos empresariales contradictorios.
+- **Estado:** APROBADA.
