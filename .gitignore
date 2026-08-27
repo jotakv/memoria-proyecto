@@ -1,0 +1,15 @@
+node_modules/
+dist/
+artifacts/
+output/
+tmp/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.zip
+*.docx
+*.xlsx
+*.xls
+*.pptx
+*.log

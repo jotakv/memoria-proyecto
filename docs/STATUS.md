@@ -1,111 +1,56 @@
 # Estado del proyecto
 
-Última actualización: 2026-08-20 — guía para acreditar el precio del local sin compromiso prematuro
+**Última actualización:** 2026-08-27
+**Proyecto:** Allsetic AI Automation Studio
+**Rama de trabajo:** `feat/allsetic-ai-memoria`
 
 ## Estado general
 
-38 %
+**MEMORIA DESCRIPTIVA ESTRUCTURADA · EXPEDIENTE ECONÓMICO NO LISTO PARA PRESENTACIÓN**
 
-## SEPE
+La fuente canónica incorpora las 22 secciones solicitadas, diferencia hechos, hipótesis y pendientes, y genera una aplicación web responsive e imprimible. La adaptación técnica está completa y las comprobaciones automatizadas disponibles han superado la validación.
 
-40 %
+## Alcance confirmado
 
-## Local
+- [CONFIRMADO] Nombre provisional, promotor, actividad, modalidad remota, ámbito y forma inicial prevista.
+- [CONFIRMADO] Experiencia técnica declarada por el promotor.
+- [CONFIRMADO] Seis servicios y tres ofertas iniciales definidos como propuesta.
+- [HIPÓTESIS] Precios orientativos, roadmap comercial, recurrencia y evolución futura.
+- [PENDIENTE] Presupuestos, financiación, costes, previsiones, datos fiscales y cronología administrativa.
 
-22 %
+## Bloqueadores antes de presentar al SEPE
 
-## Financiación
+1. Resolución de prestación contributiva y saldo pendiente verificable.
+2. Cronología personal compatible con solicitud, alta e inicio.
+3. Domicilio, fecha de alta, IAE y CNAE verificados.
+4. Presupuestos a nombre del promotor y plan de inversión definitivo.
+5. Fuentes y usos reconciliados sin doble financiación.
+6. Costes mensuales, capacidad facturable, previsión prudente y tesorería.
+7. Evidencia documental y medios de pago previstos.
 
-15 %
+## Próximas acciones
 
-## Legal
+1. Revisar manualmente la interfaz en un navegador disponible, incluidos escritorio, móvil e impresión.
+2. Incorporar la resolución de prestación cuando exista, sin publicar datos sensibles.
+3. Confirmar cronología de solicitud e inicio.
+4. Verificar IAE y CNAE en la fecha relevante.
+5. Inventariar equipo ya disponible para evitar inversión innecesaria.
+6. Obtener presupuestos reales de cada partida de inversión.
+7. Reconciliar fuentes y usos.
+8. Acordar hipótesis comerciales y capacidad facturable.
+9. Completar el modelo de viabilidad y tesorería.
+10. Preparar la versión administrativa final y sus anexos.
 
-32 %
+## Validación técnica de esta iteración
 
-## Modelo financiero
+- [CONFIRMADO] `npm run check`: lint, sintaxis, 7 pruebas y build superados.
+- [CONFIRMADO] Ruta principal, CSS, JavaScript, manifest y memoria Markdown: HTTP 200.
+- [CONFIRMADO] Ruta inexistente: HTTP 404.
+- [CONFIRMADO] Navegación interna, 22 IDs, metadatos, acción de impresión y recursos comprobados por tests.
+- [CONFIRMADO] Búsqueda editorial: ninguna referencia incompatible en los archivos de texto activos.
+- [CONFIRMADO] No se han creado ni modificado binarios.
+- [PENDIENTE] Revisión visual real, responsive, consola e impresión: el navegador integrado no estaba disponible en la sesión.
 
-25 %
+## Criterio de cierre
 
-## Producto
-
-45 %
-
-## Tecnología
-
-40 %
-
-## Lanzadera
-
-20 %
-
-## Estado de auditoría
-
-**NO LISTO PARA PRESENTACIÓN.**
-
-La estructura y narrativa han mejorado, pero la viabilidad física y la proporcionalidad de la compra del local aún no están acreditadas documental ni cuantitativamente.
-
-## Avance de la iteración 2026-08-20
-
-- Inventariadas 435 apariciones de `[PENDIENTE` en 270 líneas y 38 archivos; 13 son metamarcadores de reglas/prompts.
-- Resuelta la secuencia general SEPE con fuentes oficiales actuales.
-- Creada la matriz general de elegibilidad de inversión, sin declarar admisible ninguna partida concreta.
-- Creada la conciliación reproducible de fuentes y usos, separando cifras verificadas de hipótesis.
-- Creados el índice de anexos y la matriz de cumplimiento por actividad.
-- No se añadieron hipótesis nuevas ni se completó ningún dato del promotor.
-- La completitud porcentual se mantiene sin cambio porque no entró evidencia material nueva.
-- Creada una guía wiki con teoría probatoria, procedimiento, plantillas, contingencias y controles para solicitar una propuesta económica no vinculante.
-- Incorporada SRC-012 a las fuentes y sincronizados los pendientes y capítulos de local/justificación; no se presupone que una oferta aislada garantice aceptación por el SEPE.
-
-## Bloqueadores críticos
-
-1. Resolución oficial del SEPE con prestación reconocida y cuantía pendiente.
-2. Cierre del procedimiento de despido/SMAC antes de fijar el orden definitivo de capitalización.
-3. Decisión autónomo vs SL.
-4. Local definitivo y due diligence técnica/urbanística.
-5. Comparación cuantitativa compra vs alquiler.
-6. Presupuestos verificables de adquisición, obra, licencias, equipamiento y fondo de maniobra.
-7. Preestudio bancario/Avalmadrid.
-8. Pricing, capacidad operativa y horarios del MVP físico.
-9. Modelo mensual año 1 y break-even con SOMA OS = 0 €.
-10. DSCR/cobertura de deuda y stress test con ingresos físicos únicamente.
-
-## Próximas 10 acciones
-
-1. Obtener y archivar la resolución de prestación contributiva.
-2. Incorporar el acta/resultado del SMAC después del 25/08/2026 y cualquier resolución posterior relevante.
-3. Reunir el paquete mínimo de documentos mediante `siguiente paso/PROMPT_IMPLEMENTACION.md`.
-4. Resolver autónomo vs SL desde perspectiva SEPE, titularidad del inmueble, banco y fiscalidad.
-5. Cerrar definición del MVP físico, responsables, horarios, aforo y precios.
-6. Auditar el local candidato y validar compatibilidad técnica/urbanística antes de compromiso irreversible.
-7. Obtener comparables de alquiler y cuantificar compra frente a alquiler.
-8. Solicitar propuesta económica no vinculante del local principal y presupuestos de adquisición, obra, licencias, mobiliario, equipos, seguros y profesionales.
-9. Solicitar preestudio a banco/Avalmadrid y acreditar fondos propios.
-10. Con inputs documentados, completar año 1 mensual, break-even, DSCR y stress test sin ingresos SOMA OS.
-
-## Información que debe aportar el promotor
-
-- Resolución oficial de prestación.
-- Acta SMAC cuando exista.
-- Finiquito e indemnización definitivos.
-- Fondos propios realmente disponibles y acreditables.
-- Forma jurídica preferida si ya existe una inclinación.
-- Documentación del local candidato.
-- Presupuestos obtenidos.
-- Comparables de alquiler de locales equivalentes.
-- Pricing deseado y/o referencias comerciales.
-- Capacidad y horarios previstos.
-- Coste previsto de profesores/colaboradores.
-- CV y certificaciones que deban figurar en la memoria.
-
-## Hallazgos clave de la auditoría
-
-- La narrativa sí apunta a autoempleo real, pero una compra inmobiliaria de gran peso puede parecer patrimonial sin actividad y números suficientes.
-- La parte peor justificada es, hoy, **por qué comprar en vez de alquilar**.
-- La memoria todavía no demuestra viabilidad física independiente de SOMA OS; sólo establece esa regla.
-- La versión SEPE debe priorizar servicios físicos, autoempleo, inversión, mercado local, números y evidencias; la narrativa de startup debe quedar en segundo plano.
-- Las cifras 100.000 €, ~28.000 €, ~12.000 € y 60.000–70.000 € siguen siendo hipótesis/estimaciones.
-
-## Criterio de avance
-
-Los porcentajes son una estimación de completitud documental, no una probabilidad de concesión. El expediente no se considerará listo para presentar hasta que los principales `[PENDIENTE]` económicos y jurídicos estén sustituidos por evidencia verificable y el modelo físico demuestre sostenibilidad sin ingresos de SOMA OS.
-
+La aplicación representa fielmente la memoria y supera las validaciones automatizadas; queda pendiente una revisión visual manual por indisponibilidad del navegador integrado. El expediente SEPE solo podrá considerarse listo cuando los bloqueadores económicos, cronológicos y probatorios estén resueltos con documentos verificables.

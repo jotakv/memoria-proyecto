@@ -1,46 +1,48 @@
-# ARCHITECTURE — SOMA OS
+# Arquitectura de la memoria web
 
-Última actualización: 2026-08-19
+## Contexto
 
-## Principio
+El repositorio no contenía aplicación, framework, gestor de paquetes ni lockfile. La solución se implementa como sitio estático sin dependencias de producción y respeta el carácter documental del proyecto.
 
-Arquitectura incremental. El objetivo del MVP no es demostrar sofisticación técnica, sino reducir trabajo operativo y generar datos fiables.
+## Fuente y flujo
 
-## Capas
+```text
+docs/memoria-descriptiva-allsetic.md
+              |
+              v
+       scripts/build.mjs
+        /            \
+       v              v
+ index.html         dist/
+       |
+       +-- assets/styles.css
+       +-- assets/app.js
+```
 
-1. **Experience** — web/app/portal y canales conversacionales.
-2. **CRM & Operations** — leads, clientes, membresías, reservas y asistencia.
-3. **Automation** — workflows, notificaciones, follow-up y reglas de retención.
-4. **AI** — recepción asistida, clasificación, resumen, recomendaciones y scoring.
-5. **Data** — modelo de datos, eventos, consentimientos, métricas y auditoría.
-6. **Analytics** — dashboards de adquisición, ocupación, retención y unit economics.
+`docs/memoria-descriptiva-allsetic.md` es la única fuente editorial. El generador interpreta los elementos Markdown utilizados, crea la navegación de 22 secciones y añade metadatos y controles de impresión.
 
-## Stack
+## Componentes
 
-[PENDIENTE] Decidir entre:
+- **Shell editorial:** cabecera, wordmark, metadatos del expediente y acciones.
+- **Navegación:** índice de secciones, menú móvil y estado activo progresivo.
+- **Contenido:** secciones, subsecciones, listas, tablas, destacados y línea temporal.
+- **Leyenda documental:** estados confirmado, hipótesis y pendiente.
+- **Impresión:** cabecera documental, ocultación de controles, A4, contraste y control de cortes.
 
-- Power Platform/Dataverse como back-office inicial aprovechando experiencia del promotor;
-- stack SaaS independiente desde el principio;
-- enfoque híbrido que permita validar rápido y desacoplar después.
+## Decisiones técnicas
 
-La decisión deberá ponderar coste, velocidad, lock-in, escalabilidad, experiencia existente y facilidad de comercialización B2B.
+- HTML semántico, CSS y JavaScript nativos.
+- JavaScript como mejora progresiva; los enlaces internos funcionan sin él.
+- Sin almacenamiento, autenticación, backend ni datos de terceros.
+- Sin imágenes, iconos binarios, fuentes remotas ni telemetría.
+- `manifest.webmanifest` textual y metadatos SEO/Open Graph sin imagen inventada.
+- Tests Node para estructura, coherencia, referencias y build.
 
-## IA
+## Accesibilidad y responsive
 
-Primera etapa:
-
-- RAG/knowledge base controlada para FAQs;
-- function calling/herramientas para disponibilidad y reservas;
-- scoring basado en reglas para retención/recomendación;
-- handoff humano.
-
-No utilizar modelos predictivos de churn sin volumen suficiente de datos.
-
-## Seguridad y privacidad
-
-- minimizar datos personales;
-- evitar datos de salud especiales salvo necesidad expresa;
-- consentimiento y base jurídica documentados;
-- roles y least privilege;
-- logs de acciones automatizadas;
-- separación entre datos operativos y prompts/telemetría cuando sea posible.
+- enlace para saltar al contenido;
+- navegación y controles con etiquetas accesibles;
+- foco visible y respeto a `prefers-reduced-motion`;
+- tablas con desplazamiento horizontal en pantallas estrechas;
+- menú móvil controlable por teclado;
+- contraste revisable y estilos independientes de impresión.

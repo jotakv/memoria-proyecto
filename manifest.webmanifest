@@ -1,0 +1,10 @@
+{
+  "name": "Allsetic AI Automation Studio — Memoria descriptiva",
+  "short_name": "Allsetic",
+  "description": "Memoria profesional de la consultoría técnica Allsetic AI Automation Studio.",
+  "lang": "es",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#08111f"
+}
