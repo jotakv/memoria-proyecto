@@ -5,6 +5,7 @@ Repositorio maestro de la memoria profesional de **Allsetic AI Automation Studio
 El repositorio conserva en un único lugar:
 
 - la [memoria descriptiva canónica](docs/memoria-descriptiva-allsetic.md);
+- el [plan de empresa para jurado y financiación](plan-empresa/README.md);
 - una aplicación web estática, responsive e imprimible generada desde esa memoria;
 - el estado, las hipótesis, las decisiones y los pendientes del expediente;
 - las fuentes oficiales y controles para una eventual solicitud de pago único ante el SEPE;
@@ -55,6 +56,7 @@ La interfaz incluye la acción **Imprimir / Guardar como PDF** y una hoja de est
 - `evidence/`: índice de documentos y controles probatorios.
 - `financial-model/`: inversión y viabilidad pendientes de completar.
 - `legal/`: reglas administrativas y controles de privacidad/contratación.
+- `plan-empresa/`: plan integral, resumen ejecutivo, modelo financiero y trazabilidad de plantillas.
 - `research/`: fuentes oficiales verificadas.
 - `roadmap/`: secuencia de negocio y expediente.
 - `scripts/`: generación, servidor local y validación.
