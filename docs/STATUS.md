@@ -1,33 +1,42 @@
 # Estado del proyecto
 
-**Última actualización:** 2026-08-29
+**Última actualización:** 2026-08-27
 **Proyecto:** Allsetic AI Automation Studio
+**Rama de trabajo:** `feat/plan-empresa-allsetic`
 
 ## Estado general
 
-**BORRADOR INTEGRAL ADAPTADO A LOCAL PROPIO · EXPEDIENTE NO LISTO PARA PRESENTACIÓN**
+**PLAN DE EMPRESA INTEGRAL DISPONIBLE · ESCENARIOS ECONÓMICOS PENDIENTES DE VALIDACIÓN Y EXPEDIENTE NO LISTO PARA PRESENTACIÓN ADMINISTRATIVA**
 
-[CONFIRMADO] El proyecto se plantea como actividad de profesional autónomo, sin empleados, con un local comercial propio como sede operativa y profesional en Águilas y prestación parcialmente remota. Esta decisión sustituye el inicio sin local.
+La memoria canónica y la aplicación permanecen como fuente pública. `plan-empresa/` añade un plan autosuficiente para jurado, un resumen ejecutivo, modelo revisable a 36 meses, fuentes/pendientes y cobertura de plantillas.
 
-[CONFIRMADO] La prestación contributiva se solicitó el 26/08/2026 y el SMAC terminó por acuerdo el 25/08/2026, sin procedimiento judicial pendiente. [ESTIMADO — PENDIENTE DE RESOLUCIÓN] La capitalización prevista para solicitar el 02/09/2026 asciende aproximadamente a 29.000 €, en abono único, y se destinará al precio del local. El alta fiscal, RETA e inicio se orientan al 15/10/2026, condicionados al expediente.
+## Alcance de esta iteración
 
-## Situación de la operación
+- `[CONFIRMADO]` Se mantiene identidad, promotor, experiencia declarada, forma autónoma prevista y modalidad principalmente remota.
+- `[HIPÓTESIS]` Modelo con 12.000 € de inversión/fondo, ventas base de 63.000/88.200/113.400 €, costes, caja y escenarios HYP-A08–A17.
+- `[CONFIRMADO]` Las cifras son supuestos, no ventas, contratos, financiación ni resultados obtenidos.
+- `[PENDIENTE]` Aprobación del promotor, presupuestos, financiación acreditada, fiscalidad, capacidad y validación comercial.
 
-A fecha de elaboración de la memoria, el promotor no ha adquirido, reservado ni pagado el local; tampoco ha firmado arras, contrato de compraventa o compromiso vinculante. Las restantes partidas se apoyan únicamente en presupuestos, fichas comerciales o facturas proforma. No se ha adquirido, encargado, recibido ni pagado ningún equipo, mobiliario o servicio incluido en el plan de inversión.
+## Bloqueadores antes de presentar
 
-El candidato es una ficha comercial, referencia 00286, en el centro de Águilas: [ESTIMADO — FICHA COMERCIAL] 40.000 €, 60 m² construidos, un baño y antigüedad indicada de 1960. No acredita reserva, derecho, precio pactado ni compromiso del vendedor. Existe una referencia incompatible a 41 m² que requiere Catastro, nota simple, plano o documentación del vendedor.
+1. Resolución/modalidad SEPE y cronología, si se utiliza esta financiación.
+2. Domicilio, alta, IAE/CNAE y obligaciones fiscales.
+3. Inventario, presupuestos y fuentes/usos acreditados.
+4. Aprobación de capacidad, unidades, precios, cobro y retiradas personales.
+5. IVA, IRPF, retenciones, cuota y caja fiscal validados.
+6. Contratos, privacidad, seguridad, seguros y licencias.
+7. Evidencia comercial: entrevistas, propuestas, pipeline y primeras entregas.
+8. Estadística oficial de mercado concreta si el jurado la exige.
 
-## Bloqueadores críticos
+## Próximas acciones
 
-1. Resolución y saldo reconocido de prestación; cuantía final capitalizable.
-2. Documento inmobiliario suficiente, titularidad/cargas, superficie y precio negociado.
-3. Inspección, instalaciones, humedades, presupuesto de obras y plazo de disponibilidad.
-4. Compatibilidad urbanística, título habilitante, accesibilidad, incendios y ventilación.
-5. ITP, notaría, Registro, agencia, comunidad, IBI, seguro y suministros.
-6. Acreditación bancaria de 12.000 € propios y cobertura de la brecha: con 41.000 € identificados solo quedan 1.000 € tras completar el precio, frente a 2.738,84 € de proformas y costes inmobiliarios/operativos aún desconocidos.
-7. Proforma informática corregida: el documento actual aparenta pedido y entrega anterior al 02/09/2026, pese a la declaración de que nada fue encargado, recibido o pagado.
-8. Conciliar domicilio fiscal actual declarado en Madrid con domicilio profesional/local y municipio efectivo en Águilas.
+1. Revisar narración y supuestos con el promotor.
+2. Obtener presupuestos e inventario; sustituir HYP-A09.
+3. Validar fiscalidad y reconstruir tesorería neta.
+4. Ejecutar entrevistas y registrar resultados en CRM.
+5. Recalcular trimestralmente escenarios y capacidad.
+6. Preparar anexos privados fuera de la versión pública.
 
-## Próxima acción
+## Criterio de cierre
 
-Antes del 02/09/2026: obtener cálculo/resolución disponible, declaración bancaria, ficha comercial completa y aclaración del vendedor, proforma informática corregida y consultas documentadas al SEPE sobre el inmueble. No firmar ni pagar por anticipado sin validar secuencia y resolución aplicable.
+El plan es una base profesional y coherente para discusión, no evidencia de solvencia ni expediente definitivo. Solo se considerará presentable cuando los bloqueadores se resuelvan con documentos verificables y revisión profesional cuando corresponda.

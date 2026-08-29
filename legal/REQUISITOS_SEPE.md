@@ -1,24 +1,47 @@
 # Requisitos y controles SEPE
 
-**Revisión:** 29/08/2026 · Fuentes primarias en `research/FUENTES_OFICIALES.md`.
+**Vigencia revisada:** 2026-08-27
+**Fuentes:** `research/FUENTES_OFICIALES.md`
 
-## Regla oficial
+> Resumen operativo de fuentes oficiales. No sustituye la resolución del SEPE ni asesoramiento sobre la cronología concreta.
 
-Las páginas del SEPE y el artículo 34 de la Ley 20/2007 vinculan el abono único de una persona autónoma a la inversión necesaria y gastos de puesta en funcionamiento, dentro del límite reconocido; la solicitud debe preceder al inicio y el 100 % del importe líquido debe justificarse conforme a la documentación y medios de pago exigidos. La memoria oficial pide actividad, inversión y financiación.
+## Acceso ordinario
 
-## Aplicación prudencial
+[CONFIRMADO — fuente oficial] Para el supuesto ordinario, el portal del SEPE exige, entre otros controles:
 
-La mención general a inversión necesaria no constituye confirmación de que el candidato inmobiliario será aceptado. Deben probarse necesidad, proporcionalidad, afectación, titularidad futura, coste, fecha y pago. Se consultará al SEPE la aplicación concreta y se atenderá la resolución.
+- prestación contributiva derivada de cese total y definitivo, con al menos tres mensualidades pendientes en la fecha de solicitud;
+- no haber obtenido pago único en los cuatro años inmediatamente anteriores;
+- solicitud anterior al inicio o alta relevante;
+- si se impugnó el cese que originó la prestación, solicitud posterior a la resolución del procedimiento;
+- no haber compatibilizado, en los 24 meses anteriores, trabajo por cuenta propia con prestación contributiva cuando se pretende esta vía de capitalización.
 
-La solicitud de prestación fue presentada 26/08/2026 y la capitalización se prevé el 02/09/2026. El SMAC terminó por acuerdo 25/08/2026, sin proceso judicial pendiente `[CONFIRMADO POR DECLARACIÓN]`. Altas/inicio 15/10/2026 `[ESTIMADO]`. Deben conservarse justificantes.
+La aplicación al promotor está `[PENDIENTE]` de resolución, antecedentes y cronología documentada.
 
-## Justificación y secuencia
+## Secuencia
 
-1. Registrar solicitud antes del alta/inicio aplicable.
-2. No considerar concedidos los aproximadamente 29.000 € `[ESTIMADO — PENDIENTE DE RESOLUCIÓN]`.
-3. Contratar/adquirir en futuro solo tras validar resolución y secuencia.
-4. Usar medios bancarios trazables y conservar escritura/factura, impuestos y justificantes.
-5. Justificar el 100 % del líquido según resolución; no duplicar fuentes.
-6. Corregir el documento informático que aparenta pedido/entrega previa.
+1. [PENDIENTE] Cerrar y documentar cualquier procedimiento que condicione la solicitud.
+2. [PENDIENTE] Obtener resolución y saldo de prestación.
+3. Preparar memoria, presupuestos y modalidad.
+4. Registrar la solicitud antes del alta/inicio que conste en Seguridad Social.
+5. Valorar el riesgo económico de iniciar después de solicitar y antes de resolver: la presentación no garantiza concesión.
+6. Cumplir el inicio y la justificación conforme a la resolución y reglas vigentes.
 
-**Riesgo administrativo:** iniciar tras solicitar puede ser jurídicamente posible según la información general, pero no garantiza concesión. La falta de reserva/contrato, la brecha y el soporte solo comercial del inmueble pueden motivar requerimiento o rechazo.
+## Inversión y servicios específicos
+
+[CONFIRMADO — fuente oficial] Para una persona trabajadora autónoma, el importe a tanto alzado se vincula a la inversión necesaria, cargas tributarias y puesta en funcionamiento, con el límite aplicable de la prestación pendiente. Hasta el 15 % de la cuantía capitalizada puede destinarse a servicios específicos de asesoramiento, formación e información relacionados con la actividad.
+
+Cada partida Allsetic deberá demostrar necesidad, proporcionalidad, titularidad, fecha y pago. No se concluye de antemano que todo software, marketing, formación, teléfono o suscripción sea admisible.
+
+## Justificación
+
+[CONFIRMADO — fuente oficial] Debe justificarse el 100 % del importe líquido abonado. El SEPE exige documentos de la operación y prueba del traspaso efectivo mediante medios bancarios admitidos. No computa pagos directos en efectivo, medios al portador ni tarjetas prepago.
+
+## Controles pendientes
+
+- modalidad y cuantía solicitada;
+- cronología personal;
+- necesidad y presupuesto de cada inversión;
+- titular correcto de facturas y contratos;
+- conciliación de fuentes y usos;
+- medios de pago y archivo probatorio;
+- versión vigente del formulario y documentación en la fecha de registro.
