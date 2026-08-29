@@ -1,64 +1,21 @@
 # Fuentes oficiales
 
-**Última verificación:** 2026-08-27
+**Fecha de consulta:** 2026-08-29 · Solo fuentes primarias. La consulta web automatizada confirmó respuesta HTTP 200 para SEPE y BOE; la aplicación individual permanece pendiente.
 
-> Estas fuentes respaldan reglas administrativas generales. Antes de presentar, debe comprobarse la redacción vigente, la modalidad solicitada y su aplicación a la cronología y documentación reales del promotor.
+| ID | Organismo y fuente | Regla/uso | Cautela |
+|---|---|---|---|
+| SRC-A01 | SEPE, [Capitaliza tu prestación](https://www.sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion.html) | requisitos, secuencia, destino y obligaciones | regla general, no concesión |
+| SRC-A02 | SEPE, [Persona trabajadora autónoma](https://www.sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion/trabajador-autonomo.html) | inversión necesaria y puesta en funcionamiento | no confirma este inmueble |
+| SRC-A03 | SEPE, [Memoria explicativa oficial](https://www.sepe.es/dam/jcr%3A7ea9b6eb-549a-4e2f-bb49-84c338caf914/memoria%20explicativa.pdf) | campos de proyecto, inversión, financiación y documentación | usar versión vigente al registrar |
+| SRC-A04 | SEPE, [Justificación](https://www.sepe.es/HomeSepe/es/autonomos/capitaliza-tu-prestacion/documentacion-justificacion.html) | justificación del líquido y trazabilidad | atender resolución individual |
+| SRC-A05 | BOE, [Ley 20/2007, art. 34](https://www.boe.es/eli/es/l/2007/07/11/20/con) | marco legal de capitalización e inversión necesaria | texto consolidado; aplicación pendiente |
+| SRC-A06 | BOE, [Real Decreto 1044/1985](https://www.boe.es/eli/es/rd/1985/06/19/1044/con) | marco reglamentario | verificar vigencia/aplicación concreta |
+| SRC-F01 | AEAT, [Censos, NIF y domicilio fiscal](https://sede.agenciatributaria.gob.es/Sede/censos-nif-domicilio-fiscal.html) | altas y domicilio | modelo/censo [PENDIENTE] |
+| SRC-S01 | Seguridad Social, [Trabajo autónomo](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Altas%2C+bajas+y+modificaciones/Altas+y+afiliacion+de+trabajadores/Alta_trabajo_autonomo) | alta RETA | cuota individual [PENDIENTE] |
+| SRC-U01 | Ayuntamiento de Águilas, [sede electrónica](https://sede.ayuntamientodeaguilas.org/) | consulta/título de actividad y obras | trámite concreto [PENDIENTE] |
+| SRC-R01 | Región de Murcia, [sede electrónica](https://sede.carm.es/) | tributos/trámites autonómicos | ITP y procedimiento [PENDIENTE] |
+| SRC-I01 | INE, [INEbase](https://www.ine.es/dyngs/INEbase/es/index.htm) | contexto estadístico si se incorpora | no prueba demanda propia |
 
-## SRC-A01 · Portal de capitalización del SEPE
+## Inmueble como activo necesario
 
-- **Institución:** Servicio Público de Empleo Estatal.
-- **Título:** Capitaliza tu prestación.
-- **URL:** https://sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion.html
-- **Consulta:** 2026-08-27.
-- **Contenido verificado:** requisitos generales, solicitud anterior al alta/inicio, posibilidad de iniciar después de solicitar, documentación, destino y obligaciones.
-- **Afecta a:** `legal/REQUISITOS_SEPE.md`, `roadmap/ROADMAP.md` y memoria canónica.
-
-## SRC-A02 · Persona trabajadora autónoma
-
-- **Institución:** Servicio Público de Empleo Estatal.
-- **Título:** Persona trabajadora autónoma — Capitaliza tu prestación.
-- **URL:** https://www.sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion/trabajador-autonomo.html
-- **Consulta:** 2026-08-27.
-- **Contenido verificado:** inversión necesaria y gastos de puesta en funcionamiento hasta el límite aplicable; posibilidad de abono mensual del resto para cuotas; límite del 15 % para servicios específicos relacionados.
-- **Afecta a:** inversión y financiación.
-
-## SRC-A03 · Memoria explicativa oficial
-
-- **Institución:** Servicio Público de Empleo Estatal.
-- **Título:** Memoria explicativa del pago único.
-- **URL:** https://www.sepe.es/dam/jcr%3A7ea9b6eb-549a-4e2f-bb49-84c338caf914/memoria%20explicativa.pdf
-- **Copia local intacta:** `documentos_sepe/memoria explicativa (1).pdf`.
-- **Consulta:** 2026-08-27.
-- **Contenido verificado:** datos personales y del proyecto, inversión, financiación, experiencia, servicios, contratación, categorías de gasto y documentación justificativa.
-- **Afecta a:** `memoria-sepe/MEMORIA_COMPLETA_SEPE.md`, plan de inversión y evidencia.
-
-## SRC-A04 · Justificación del pago único
-
-- **Institución:** Servicio Público de Empleo Estatal.
-- **Título:** Justificación.
-- **URL:** https://www.sepe.es/HomeSepe/es/autonomos/capitaliza-tu-prestacion/documentacion-justificacion.html
-- **Consulta:** 2026-08-27.
-- **Contenido verificado:** justificación del 100 % del importe líquido abonado, documentos contables y trazabilidad bancaria; exclusión de pagos directos en efectivo, medios al portador o tarjetas prepago.
-- **Afecta a:** `evidence/INDICE_ANEXOS_Y_TRAZABILIDAD.md` y `legal/REQUISITOS_SEPE.md`.
-
-## SRC-A05 · Estatuto del trabajo autónomo
-
-- **Institución:** Boletín Oficial del Estado.
-- **Título:** Ley 20/2007, de 11 de julio, artículo 34.
-- **URL:** https://www.boe.es/eli/es/l/2007/07/11/20/con
-- **Consulta:** 2026-08-27.
-- **Contenido verificado:** reglas de capitalización para actividad autónoma, inversión necesaria, puesta en funcionamiento, tasas y tributos, servicios específicos y solicitud anterior al inicio.
-- **Afecta a:** requisitos y secuencia administrativa.
-
-## SRC-A06 · Reglamento de pago único
-
-- **Institución:** Boletín Oficial del Estado.
-- **Título:** Real Decreto 1044/1985, de 19 de junio.
-- **URL:** https://www.boe.es/eli/es/rd/1985/06/19/1044/con
-- **Consulta:** 2026-08-27.
-- **Contenido verificado:** marco reglamentario consolidado del abono de la prestación por desempleo en su modalidad de pago único.
-- **Afecta a:** control jurídico general.
-
-## Resultado de la revalidación
-
-[CONFIRMADO — fuente oficial] Las reglas operativas recogidas en `legal/REQUISITOS_SEPE.md` coinciden con las páginas y el texto consolidado consultados el 27 de agosto de 2026. No se ha fijado CNAE, IAE, cuantía de prestación, cuota, interés, fiscalidad ni plazo personal sin documento o verificación específica.
+Las fuentes generales consultadas hablan de inversión necesaria y puesta en funcionamiento, pero la revisión no localizó una garantía oficial específica de aceptación automática de un local comprado. Por ello se separan: **regla oficial** (inversión necesaria), **criterio prudencial** (probar afectación, necesidad, proporcionalidad y pago) y **riesgo administrativo** (requerimiento o denegación en el caso concreto).
