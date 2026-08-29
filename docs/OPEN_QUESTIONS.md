@@ -1,32 +1,55 @@
 # Preguntas y datos pendientes
 
-**Última actualización:** 2026-08-29
+**Última actualización:** 2026-08-27
 
-## Antes de registrar la solicitud prevista el 02/09/2026
+> Una respuesta no debe convertirse en hecho sin evidencia o declaración expresa del promotor. Al resolver un punto, actualizar también `ASSUMPTIONS.md`, `DECISION_LOG.md`, `STATUS.md` y los documentos afectados.
 
-1. [PENDIENTE] ¿Qué cuantía, duración y saldo reconoce el SEPE? Aportar resolución/certificado y cálculo; 29.000 € es solo [ESTIMADO — PENDIENTE DE RESOLUCIÓN].
-2. [PENDIENTE] ¿Confirma el SEPE, aplicado a este expediente, la secuencia, documentación y justificación exigibles para destinar el pago único a un inmueble necesario? La memoria no presume admisibilidad.
-3. [PENDIENTE] Obtener proforma informática corregida, pendiente de aceptación y pago, sin apariencia de pedido/entrega anterior al 02/09/2026.
-4. [PENDIENTE] Acreditar mediante extracto/certificado bancario los 12.000 € propios declarados.
-5. [PENDIENTE] Confirmar que formulario, memoria, cuantía y destino único al precio del local coinciden.
+## Prioridad crítica · expediente administrativo
 
-## Inmueble candidato de Águilas, referencia 00286
+1. [PENDIENTE] ¿Cuál es la resolución de prestación contributiva, fecha, duración y saldo pendiente verificable?
+2. [PENDIENTE] ¿Existe impugnación del cese u otra circunstancia que condicione la fecha de solicitud?
+3. [PENDIENTE] ¿Qué fecha se prevé para solicitud, alta fiscal, alta en Seguridad Social e inicio efectivo?
+4. [PENDIENTE] ¿Cuál será el domicilio fiscal o profesional de la actividad?
+5. [PENDIENTE] ¿Qué epígrafe IAE y código CNAE corresponden a la actividad en la fecha del alta?
+6. [PENDIENTE] ¿Qué modalidad de capitalización se solicitará y por qué importe?
 
-6. [PENDIENTE] ¿Son 60 m² construidos o 41 m²? Obtener Catastro, nota simple, plano y documento del vendedor.
-7. [PENDIENTE] Obtener nota simple vigente, identidad/capacidad del titular, cargas, referencia catastral, cuota y estatutos/deudas de comunidad.
-8. [PENDIENTE] Obtener oferta o contrato no vinculante suficiente que detalle precio, impuestos, agencia y vigencia; la ficha comercial no acredita derecho de compra.
-9. [PENDIENTE] Inspección técnica de humedades/deterioro, estructura e instalaciones; presupuesto y calendario de acondicionamiento.
-10. [PENDIENTE] Informe/consulta municipal sobre compatibilidad urbanística y título habilitante para consultoría/oficina, accesibilidad, incendios, ventilación y obras.
-11. [PENDIENTE] Importes de ITP u otros tributos, notaría, Registro, gestoría, agencia, licencias y altas de suministros.
-12. [PENDIENTE] Costes recurrentes: electricidad, agua, internet, comunidad, IBI, seguro y mantenimiento.
-13. [PENDIENTE] Separación suelo/construcción, base amortizable, vida útil, afectación, IVA/ITP y tratamiento fiscal, a validar por asesor.
-14. [PENDIENTE] Comparables de alquiler y locales alternativos para acreditar necesidad, proporcionalidad y decisión comprar/alquilar.
+## Prioridad crítica · inversión y financiación
 
-## Operación, caja y domicilio
+7. [PENDIENTE] ¿Qué equipamiento ya posee el promotor y qué compras son realmente necesarias?
+8. [PENDIENTE] ¿Qué presupuestos verificables existen para equipos, licencias, cloud, web, CRM, formación y asesoría?
+9. [PENDIENTE] ¿Qué fondos propios están disponibles y acreditados?
+10. [PENDIENTE] ¿Qué parte se pretende financiar con pago único, fondos propios u otras fuentes?
+11. [PENDIENTE] ¿Cómo se justificará titularidad, necesidad, fecha y pago de cada partida?
 
-15. [PENDIENTE] ¿Qué domicilio fiscal conservará el promotor (actualmente declarado en Madrid), cuál será el domicilio profesional y desde qué municipio se prestará efectivamente la actividad? Aportar decisión, títulos y modelos censales.
-16. [PENDIENTE] ¿Cómo se cubrirá la brecha por accesorios, 2.738,84 € de proformas, obras y fondo de maniobra, dado que solo queda 1.000 € propio tras completar el precio?
-17. [PENDIENTE] Validar ventas, costes variables y calendario HYP-A10/A12; no existen clientes o ventas acreditados.
-18. [PENDIENTE] Confirmar cuota RETA y costes mensuales del local; hasta entonces el punto de equilibrio y tesorería son condicionales.
-19. [PENDIENTE] Confirmar que las funciones presenciales (reuniones, demos, formación, colaboradores/proveedores y archivo) se realizarán efectivamente en el primer año.
-20. [PENDIENTE] Documentar seguro, protección de datos, seguridad física, contratos, IAE/CNAE y licencias/cloud.
+## Prioridad alta · viabilidad
+
+12. [PENDIENTE] ¿Cuál es la capacidad facturable mensual realista del promotor?
+13. [PENDIENTE] ¿Qué costes fijos y variables mensuales tendrá la actividad?
+14. [PENDIENTE] ¿Qué hipótesis de captación, conversión, duración y recurrencia acepta el promotor para los escenarios?
+15. [PENDIENTE] ¿Qué tratamiento fiscal y cotizaciones deben incorporarse al modelo?
+16. [PENDIENTE] ¿Qué fondo de maniobra se considera necesario?
+
+## Prioridad alta · comercial, marca y cumplimiento
+
+17. [PENDIENTE] ¿Qué dominio y canales de contacto se utilizarán?
+18. [PENDIENTE] ¿Existe una identidad visual definitiva más allá del wordmark tipográfico?
+19. [PENDIENTE] ¿Qué cuentas y segmentos formarán la primera muestra de validación comercial?
+20. [PENDIENTE] ¿Qué contratos, condiciones, acuerdo de tratamiento y medidas de seguridad se utilizarán?
+21. [PENDIENTE] ¿Qué licencias de demostración y entornos cloud serán necesarios?
+
+## Pendientes que no bloquean el borrador descriptivo
+
+- [PENDIENTE] CV público revisado para anexar cuando proceda.
+- [PENDIENTE] Documentos que acrediten formación o certificaciones, solo si el promotor desea alegarlos.
+- [PENDIENTE] Casos propios de demostración claramente separados de casos de cliente.
+- [PENDIENTE] Criterios para activar colaboradores o evolución societaria.
+
+## Pendientes incorporados por el plan de empresa
+
+25. [PENDIENTE] ¿Aprueba el promotor los escenarios HYP-A08 a HYP-A17, incluida la capacidad de 120 h/mes, el 70 % facturable y el calendario comercial?
+26. [PENDIENTE] ¿Qué retiradas personales mínimas deben añadirse a tesorería sin confundirlas con gasto de explotación?
+27. [PENDIENTE] ¿Qué tratamiento de IVA, IRPF, retenciones y operaciones exteriores valida el asesor para cada línea?
+28. [PENDIENTE] ¿Qué anticipo, hitos y plazo de cobro se aplicarán contractualmente?
+29. [PENDIENTE] ¿Qué muestra, objetivos y métricas de validación comercial se aprobarán para segmento, precio y conversión?
+30. [PENDIENTE] ¿Qué umbrales de recurrencia, margen, caja y saturación autorizarán colaboradores o cambio societario?
+31. [PENDIENTE] ¿Qué estadísticas oficiales, con tabla, fecha y metodología, se incorporarán a la versión presentada al jurado?
