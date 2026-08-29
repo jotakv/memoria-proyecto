@@ -43,3 +43,13 @@
 - [PENDIENTE] Documentos que acrediten formación o certificaciones, solo si el promotor desea alegarlos.
 - [PENDIENTE] Casos propios de demostración claramente separados de casos de cliente.
 - [PENDIENTE] Criterios para activar colaboradores o evolución societaria.
+
+## Pendientes incorporados por el plan de empresa
+
+25. [PENDIENTE] ¿Aprueba el promotor los escenarios HYP-A08 a HYP-A17, incluida la capacidad de 120 h/mes, el 70 % facturable y el calendario comercial?
+26. [PENDIENTE] ¿Qué retiradas personales mínimas deben añadirse a tesorería sin confundirlas con gasto de explotación?
+27. [PENDIENTE] ¿Qué tratamiento de IVA, IRPF, retenciones y operaciones exteriores valida el asesor para cada línea?
+28. [PENDIENTE] ¿Qué anticipo, hitos y plazo de cobro se aplicarán contractualmente?
+29. [PENDIENTE] ¿Qué muestra, objetivos y métricas de validación comercial se aprobarán para segmento, precio y conversión?
+30. [PENDIENTE] ¿Qué umbrales de recurrencia, margen, caja y saturación autorizarán colaboradores o cambio societario?
+31. [PENDIENTE] ¿Qué estadísticas oficiales, con tabla, fecha y metodología, se incorporarán a la versión presentada al jurado?

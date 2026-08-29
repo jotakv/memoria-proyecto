@@ -52,3 +52,31 @@
 - **Decisión:** retirar del árbol de trabajo los documentos textuales incompatibles y conservar el pasado únicamente en el historial Git.
 - **Motivo:** impedir que convivan dos proyectos empresariales contradictorios.
 - **Estado:** APROBADA.
+
+## DEC-A08 · Plan de empresa separado y autosuficiente
+
+- **Fecha:** 2026-08-27.
+- **Decisión:** crear `plan-empresa/` como capa de evaluación empresarial, manteniendo la memoria descriptiva como fuente canónica pública.
+- **Motivo:** ampliar marketing, operaciones, gobierno y finanzas sin duplicar `index.html`.
+- **Estado:** APROBADA POR ENCARGO; contenido pendiente de revisión del promotor.
+
+## DEC-A09 · Adaptación del simulador a persona autónoma
+
+- **Fecha:** 2026-08-27.
+- **Decisión:** excluir local, plantilla, capital social e Impuesto sobre Sociedades; tratar el balance como control de gestión y no como cuentas societarias.
+- **Motivo:** forma inicial y actividad remota confirmadas.
+- **Estado:** APROBADA COMO CRITERIO DE MODELIZACIÓN; fiscalidad pendiente.
+
+## DEC-A10 · Escenarios financieros explícitos
+
+- **Fecha:** 2026-08-27.
+- **Decisión:** incorporar un modelo `[HIPÓTESIS]` a 36 meses con conservador, base, crecimiento y sensibilidad, sin pago único, deuda ni ayudas no documentadas.
+- **Motivo:** permitir revisión manual y evitar presentar financiación inexistente.
+- **Estado:** PROPUESTA PENDIENTE DE APROBACIÓN DEL PROMOTOR.
+
+## DEC-A11 · Modalidad remota reconciliada
+
+- **Fecha:** 2026-08-27.
+- **Decisión:** corregir cuatro restos contradictorios en la memoria canónica para describir prestación principalmente remota, sin local comercial inicial.
+- **Motivo:** regla del repositorio y fuente empresarial expresa del encargo.
+- **Estado:** APROBADA.

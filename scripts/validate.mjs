@@ -76,7 +76,7 @@ async function listTextFiles(directory) {
   const result = [];
   const entries = await readdir(directory, { withFileTypes: true });
   for (const entry of entries) {
-    if (['.git', 'dist', 'node_modules'].includes(entry.name)) continue;
+    if (['.git', 'dist', 'node_modules', 'referencias'].includes(entry.name)) continue;
     const path = join(directory, entry.name);
     if (entry.isDirectory()) result.push(...await listTextFiles(path));
     else if (['.css', '.html', '.js', '.json', '.md', '.mjs', '.txt', '.webmanifest'].includes(extname(entry.name))) result.push(path);
