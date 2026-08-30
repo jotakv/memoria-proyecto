@@ -1,38 +1,55 @@
 # Plan de inversión y financiación
 
-**Estado:** [PENDIENTE] de presupuestos y decisiones
+**Estado:** `[PENDIENTE]` de resolución, verificación del inmueble, presupuestos y cobertura completa
 **Fuente narrativa:** sección 15 de la memoria canónica
 
-## Usos previstos
+## Situación previa y alcance documental
 
-| ID | Partida | Importe sin impuestos | Impuestos | Total | Titular | Documento | Estado |
-|---|---|---:|---:|---:|---|---|---|
-| INV-01 | Portátil profesional | Pendiente | Pendiente | Pendiente | Promotor | Presupuesto pendiente | [PENDIENTE] |
-| INV-02 | Monitor y periféricos | Pendiente | Pendiente | Pendiente | Promotor | Presupuesto pendiente | [PENDIENTE] |
-| INV-03 | Teléfono y accesorios | Pendiente | Pendiente | Pendiente | Promotor | Presupuesto pendiente | [PENDIENTE] |
-| INV-04 | Software y licencias | Pendiente | Pendiente | Pendiente | Promotor | Oferta pendiente | [PENDIENTE] |
-| INV-05 | Servicios cloud e IA | Pendiente | Pendiente | Pendiente | Promotor | Estimación/propuesta pendiente | [PENDIENTE] |
-| INV-06 | Web, dominio y marca | Pendiente | Pendiente | Pendiente | Promotor | Presupuesto pendiente | [PENDIENTE] |
-| INV-07 | CRM y prospección | Pendiente | Pendiente | Pendiente | Promotor | Oferta pendiente | [PENDIENTE] |
-| INV-08 | Formación | Pendiente | Pendiente | Pendiente | Promotor | Programa y presupuesto pendientes | [PENDIENTE] |
-| INV-09 | Asesoría fiscal, contable, legal y privacidad | Pendiente | Pendiente | Pendiente | Promotor | Alcance y presupuesto pendientes | [PENDIENTE] |
+A fecha de elaboración de la memoria, el promotor no ha adquirido, reservado ni pagado el local; tampoco ha firmado arras, contrato de compraventa o compromiso vinculante. Las restantes partidas se apoyan únicamente en presupuestos, fichas comerciales o facturas proforma. No se ha adquirido, encargado, recibido ni pagado ningún equipo, mobiliario o servicio incluido en el plan de inversión.
 
-**Total de usos:** Pendiente de presupuesto.
+La ficha comercial de inmueble candidato, referencia 00286, sitúa el local en el centro de Águilas y anuncia un **precio ofertado** de 40.000 €, 60 m² construidos, un baño y antigüedad de 1960. No es proforma ni acredita reserva, arras, compraventa, derecho de adquisición, precio pactado, compromiso del vendedor o compra. La superficie y el estado se verificarán documental y técnicamente; cualquier referencia a 41 m² u otra cifra constituye una discrepancia pendiente.
 
-## Fuentes de financiación
+## Usos previstos ampliados
 
-| Fuente | Importe | Documento | Estado |
-|---|---:|---|---|
-| Pago único solicitado | Pendiente | Resolución/cálculo pendiente | [PENDIENTE] |
-| Fondos propios | Pendiente | Acreditación pendiente | [PENDIENTE] |
-| Otras fuentes | Pendiente | No declaradas | [PENDIENTE] |
+| ID | Partida | Importe total provisional | Documento | Estado / fuente prevista |
+|---|---|---:|---|---|
+| INV-00 | Inmueble candidato | 40.000,00 € | Ficha comercial ref. 00286 | `[CONFIRMADO como precio ofertado]`; operación futura y condicionada |
+| INV-01 | Impuestos de adquisición (incluido ITP si procede) | Pendiente | Liquidación/cálculo profesional | `[PENDIENTE]` |
+| INV-02 | Notaría | Pendiente | Presupuesto/factura | `[PENDIENTE]` |
+| INV-03 | Registro | Pendiente | Presupuesto/factura | `[PENDIENTE]` |
+| INV-04 | Intermediación inmobiliaria | Pendiente | Condiciones de agencia | `[PENDIENTE]` incluso su existencia |
+| INV-05 | Inspección y acondicionamiento | Pendiente | Informe y presupuesto | `[PENDIENTE]` electricidad, telecomunicaciones, agua, ventilación, accesibilidad e incendios |
+| INV-06 | Mobiliario | 477,56 € | Factura proforma existente | `[CONFIRMADO como proforma]`; no encargado, recibido ni pagado |
+| INV-07 | Equipo informático | 1.317,48 € | Documento a subsanar | `[PENDIENTE]`; apariencia de pedido/fecha de entrega incompatible con la declaración |
+| INV-08 | Asesoramiento/gestoría | 943,80 € | Factura proforma existente | `[CONFIRMADO como proforma]`; no contratado ni pagado |
+| INV-09 | Software, licencias, cloud y telecomunicaciones | Pendiente | Ofertas/estimación trazable | `[PENDIENTE]` |
+| INV-10 | Licencias/título habilitante, altas, seguro y puesta en marcha | Pendiente | Ayuntamiento/proveedores | `[PENDIENTE]` |
+| INV-11 | Fondo de maniobra | Pendiente | Tesorería revisada | `[PENDIENTE]` |
+|  | **Subtotal proformas INV-06 a INV-08** | **2.738,84 €** |  | No financiado con el pago único reservado al precio |
+|  | **Coste total del proyecto de inversión** | **Más de 42.738,84 €** |  | Mínimo aritmético conocido; faltan INV-01 a 05 y 09 a 11 |
 
-**Total de fuentes:** Pendiente.
+Los 40.000 € representan únicamente el precio ofertado, no el coste total de adquisición ni puesta en marcha.
 
-## Control de conciliación
+## Financiación prevista del precio ofertado
 
-La versión final debe cumplir:
+| Fuente | Aplicación exclusiva | Importe | Documento | Estado |
+|---|---|---:|---|---|
+| Pago único SEPE | Precio del inmueble | ≈29.000 € | Solicitud prevista 02/09/2026; resolución pendiente | `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` |
+| Fondos propios | Parte restante del precio | ≈11.000 € | Acreditación bancaria pendiente | `[CONFIRMADO por declaración / PENDIENTE de acreditar]` |
+| **Total aplicado al precio** |  | **≈40.000 €** |  | Condicionado a concesión y fondos |
+| Fondos propios declarados totales | Precio y eventual remanente | 12.000 € | Acreditación pendiente | `[CONFIRMADO por declaración / PENDIENTE]` |
+| Remanente provisional tras completar solo el precio | Otros usos | ≈1.000 € | Cálculo: 12.000 − 11.000 | `[ESTIMADO]` |
+| Financiación bancaria concedida | — | 0 € | Ninguna | `[CONFIRMADO por declaración]` |
+| Otras ayudas concedidas | — | 0 € | Ninguna | `[CONFIRMADO por declaración]` |
 
-`usos totales = pago único + fondos propios + otras fuentes`
+El pago único aproximado no se asigna a mobiliario, informática o gestoría: se prevé destinar el 100 % del importe finalmente concedido al precio del inmueble, evitando doble contabilización.
 
-Cada fila deberá identificar necesidad, titular, proveedor, fecha, impuestos, forma de pago y fuente de financiación. Una partida no puede financiarse dos veces. La presencia en esta tabla no acredita por sí sola admisibilidad ante el SEPE.
+## **BRECHA DE FINANCIACIÓN PENDIENTE**
+
+La financiación identificada de aproximadamente 41.000 € cubre, si se materializa, el precio ofertado y deja solo unos 1.000 € provisionales. No acredita cobertura de las proformas por 2.738,84 € ni de impuestos, notaría, Registro, agencia, inspección, acondicionamiento, licencias, seguro, suministros o fondo de maniobra. Por tanto, existe una brecha mínima ya visible de **1.738,84 €** respecto de las proformas después de consumir aquel remanente, **más todos los costes todavía sin cuantificar**. Esta cifra no es el déficit total definitivo.
+
+## Control de conciliación y secuencia
+
+Cada fila deberá identificar necesidad, afectación, titular, proveedor, fecha, impuestos, medio bancario y fuente. La inclusión no acredita admisibilidad SEPE. La compra se pretende formalizar únicamente si se preserva la secuencia administrativa aplicable, existe disponibilidad de fondos y se supera la revisión jurídica, urbanística, técnica y financiera.
+
+El documento informático debe sustituirse por una proforma inequívoca: pendiente de aceptación, pedido y pago, y sin entrega realizada. Hasta entonces permanece como incidencia documental no ocultada.

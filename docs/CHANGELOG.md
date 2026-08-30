@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026-08-29 · Incorporación conservadora de sede profesional
+
+### Ampliado
+
+- Memoria canónica, memoria SEPE, plan de empresa y modelos de inversión/viabilidad con la necesidad empresarial del local, análisis compra frente a alquiler y cautelas sobre el inmueble candidato.
+- Fuentes y usos con precio ofertado de 40.000 €, pago único aproximado de 29.000 € `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]`, fondos propios declarados de 12.000 € pendientes de acreditar y **BRECHA DE FINANCIACIÓN PENDIENTE**.
+- Proformas de mobiliario, equipo informático y gestoría por 2.738,84 €, sin reutilizar el pago único previsto para el inmueble.
+- Preguntas, hipótesis, riesgos administrativos y auditoría interna de “Administración hostil”.
+
+### Corregido
+
+- Referencias vigentes a actividad sin local, manteniendo el componente remoto y la trazabilidad de las decisiones anteriores.
+- Tratamiento de la retirada de 800 €/mes exclusivamente como salida personal de tesorería, no gasto operativo ni salario.
+
+### Control
+
+- No se modificaron binarios ni se incorporaron documentos ajenos al inmueble candidato de Águilas.
+
 ## 2026-08-27 · Transformación integral a Allsetic AI Automation Studio
 
 ### Añadido

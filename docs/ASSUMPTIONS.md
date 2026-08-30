@@ -1,6 +1,6 @@
 # Registro de hipótesis
 
-**Última actualización:** 2026-08-27
+**Última actualización:** 2026-08-29
 
 > Toda cifra no confirmada debe conservar su identificador y sustituirse por datos documentados cuando exista evidencia. Ninguna hipótesis equivale a venta, facturación, concesión o compromiso contractual.
 
@@ -62,3 +62,14 @@ No existen en esta versión hipótesis cuantitativas de clientes, conversión, f
 - **HYP-A17:** `[HIPÓTESIS]` años 2–3 con coste variable del 15 %, costes fijos desembolsables de 24.000/30.000 € y amortización de 1.500 €/año.
 
 Todas permanecen **ABIERTAS** y requieren aprobación expresa del promotor; no equivalen a presupuesto, cliente, venta, financiación ni resultado garantizado.
+
+## Hipótesis y datos provisionales del local · HYP-A18 a HYP-A23
+
+- **HYP-A18:** `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` pago único aproximado de 29.000 €; se prevé destinar el 100 % de lo finalmente concedido exclusivamente al precio del local. No existe resolución.
+- **HYP-A19:** `[CONFIRMADO por declaración / PENDIENTE de acreditación]` fondos propios comprometidos de 12.000 €. Aproximadamente 11.000 € completarían solo el precio ofertado y quedaría un remanente provisional aproximado de 1.000 €.
+- **HYP-A20:** `[PENDIENTE]` ITP, notaría, Registro, intermediación, licencias, seguro, acondicionamiento, altas de suministros y fondo de maniobra no tienen importe acreditado. No se incorpora un total ficticio.
+- **HYP-A21:** `[CONFIRMADO por documentos comerciales]` proformas: mobiliario 477,56 €, equipo informático 1.317,48 € y gestoría 943,80 €; total 2.738,84 €. Son operaciones futuras, no ejecutadas, y su financiación no puede proceder de los aproximadamente 29.000 € `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` previstos íntegramente para el precio del inmueble.
+- **HYP-A22:** `[PENDIENTE]` electricidad, agua, internet, comunidad, IBI, seguro y mantenimiento del local deben sustituir o ampliar HYP-A11 cuando existan contratos, recibos u ofertas. El modelo histórico de 18.000 €/año no demuestra su cobertura.
+- **HYP-A23:** `[CONFIRMADO por declaración]` retirada personal prevista de 800 €/mes (9.600 €/año), tratada solo como salida personal de tesorería; no es salario, gasto operativo ni coste laboral.
+
+El precio de 40.000 € es el **precio ofertado** en una ficha comercial del inmueble candidato, no el coste total ni un precio pactado. La diferencia entre usos conocidos y financiación identificada se mantiene como **BRECHA DE FINANCIACIÓN PENDIENTE**.

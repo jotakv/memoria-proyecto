@@ -1,18 +1,22 @@
 # Estado del proyecto
 
-**Última actualización:** 2026-08-27
+**Última actualización:** 2026-08-29
 **Proyecto:** Allsetic AI Automation Studio
 **Rama de trabajo:** `feat/plan-empresa-allsetic`
 
 ## Estado general
 
-**PLAN DE EMPRESA INTEGRAL DISPONIBLE · ESCENARIOS ECONÓMICOS PENDIENTES DE VALIDACIÓN Y EXPEDIENTE NO LISTO PARA PRESENTACIÓN ADMINISTRATIVA**
+**PLAN AMPLIADO CON SEDE PROFESIONAL PREVISTA · BRECHA DE FINANCIACIÓN PENDIENTE · EXPEDIENTE NO LISTO PARA PRESENTACIÓN ADMINISTRATIVA**
 
 La memoria canónica y la aplicación permanecen como fuente pública. `plan-empresa/` añade un plan autosuficiente para jurado, un resumen ejecutivo, modelo revisable a 36 meses, fuentes/pendientes y cobertura de plantillas.
 
 ## Alcance de esta iteración
 
-- `[CONFIRMADO]` Se mantiene identidad, promotor, experiencia declarada, forma autónoma prevista y modalidad principalmente remota.
+- `[CONFIRMADO]` Se mantiene identidad, promotor, experiencia declarada, forma autónoma sin empleados y componente principalmente remota; desde DEC-A12 se requiere además sede profesional propia.
+- `[CONFIRMADO]` Solicitud de prestación presentada el 26/08/2026; SMAC cerrado por acuerdo el 25/08/2026 y sin procedimiento judicial pendiente, según declaración del promotor.
+- `[PENDIENTE]` Solicitud de capitalización y memoria prevista el 02/09/2026; alta fiscal, RETA e inicio orientativos el 15/10/2026, condicionados al expediente.
+- `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` Pago único aproximado de 29.000 €, previsto íntegramente para el precio del local; fondos propios declarados 12.000 €, pendientes de acreditación.
+- `[PENDIENTE]` El precio ofertado de 40.000 € no incluye costes accesorios. Tras completar aproximadamente 11.000 € del precio con fondos propios quedaría un remanente provisional aproximado de 1.000 €, insuficiente para afirmar cobertura de proformas (2.738,84 €), tributos, formalización, acondicionamiento y circulante: **BRECHA DE FINANCIACIÓN PENDIENTE**.
 - `[HIPÓTESIS]` Modelo con 12.000 € de inversión/fondo, ventas base de 63.000/88.200/113.400 €, costes, caja y escenarios HYP-A08–A17.
 - `[CONFIRMADO]` Las cifras son supuestos, no ventas, contratos, financiación ni resultados obtenidos.
 - `[PENDIENTE]` Aprobación del promotor, presupuestos, financiación acreditada, fiscalidad, capacidad y validación comercial.

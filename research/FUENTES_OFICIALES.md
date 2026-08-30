@@ -62,3 +62,9 @@
 ## Resultado de la revalidación
 
 [CONFIRMADO — fuente oficial] Las reglas operativas recogidas en `legal/REQUISITOS_SEPE.md` coinciden con las páginas y el texto consolidado consultados el 27 de agosto de 2026. No se ha fijado CNAE, IAE, cuantía de prestación, cuota, interés, fiscalidad ni plazo personal sin documento o verificación específica.
+
+## Revalidación específica de la sede · 2026-08-29
+
+- `[CONFIRMADO — fuente primaria]` Se reconsultaron por HTTP las páginas SEPE SRC-A01, SRC-A02 y SRC-A04 y el texto consolidado BOE SRC-A05. Respaldan inversión necesaria/puesta en funcionamiento, solicitud previa, justificación íntegra y pagos bancarios; **no contienen una aprobación individual anticipada del local candidato**.
+- `[PENDIENTE]` Obtener del Ayuntamiento de Águilas información oficial aplicable a compatibilidad urbanística, declaración responsable/licencia, accesibilidad e incendios según actividad y local concretos.
+- `[PENDIENTE]` Confirmar con la Agencia Tributaria de la Región de Murcia el ITP aplicable y su base, y con AEAT el tratamiento de afectación/amortización. No se incorpora tipo ni importe sin caso y fecha.

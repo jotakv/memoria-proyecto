@@ -4,7 +4,7 @@
 
 **Consultoría técnica de inteligencia artificial aplicada, automatización e integración empresarial**
 **Promotor:** Kevin Joel Valdivieso Ordóñez `[CONFIRMADO]`
-**Versión:** 1.0 · 27 de agosto de 2026
+**Versión:** 1.1 · 29 de agosto de 2026
 **Estado:** borrador profesional; previsiones `[HIPÓTESIS]`, datos administrativos y evidencia `[PENDIENTE]`
 **Audiencia principal:** jurado de emprendimiento; base adaptable para financiación, apoyo empresarial, partners y administración
 
@@ -22,7 +22,7 @@
 
 Allsetic AI Automation Studio es un proyecto de autoempleo cualificado para ayudar a pymes B2B a convertir procesos fragmentados en flujos conectados, automatizados y, cuando aporte valor, asistidos por inteligencia artificial. Muchas organizaciones trabajan con ERP, CRM, Microsoft 365, correos y hojas de cálculo, pero carecen de capacidad interna para identificar casos útiles e integrarlos con seguridad. La oportunidad comercial concreta es `[HIPÓTESIS]` hasta validarla.
 
-`[CONFIRMADO]` El promotor aporta experiencia en Dynamics 365, Power Platform, Dataverse, C#, .NET, JavaScript, APIs, automatización, integración empresarial, Azure DevOps y ALM. Comenzará como profesional autónomo, principalmente en remoto y sin local ni empleados presupuestados. Su evolución a colaboradores, microagencia o sociedad queda condicionada a ingresos, recurrencia, capacidad y análisis jurídico-fiscal.
+`[CONFIRMADO]` El promotor aporta experiencia en Dynamics 365, Power Platform, Dataverse, C#, .NET, JavaScript, APIs, automatización, integración empresarial, Azure DevOps y ALM. Comenzará como profesional autónomo, sin empleados, con una importante componente remota y una sede profesional propia prevista. Su evolución a colaboradores, microagencia o sociedad queda condicionada a ingresos, recurrencia, capacidad y análisis jurídico-fiscal.
 
 La oferta parte de auditorías, sprints, implantaciones, desarrollos e integraciones, y soporte recurrente. Los precios de Audit (`[HIPÓTESIS]` 2.500–4.000 €), Sprint (`[HIPÓTESIS]` 5.000–9.000 €) y Managed (`[HIPÓTESIS]` 2.000–5.000 €/mes) no representan demanda ni facturación demostrada.
 
@@ -36,7 +36,7 @@ El escenario base `[HIPÓTESIS HYP-A12]` modeliza ventas sin IVA de 63.000 €, 
 | Promotor | Kevin Joel Valdivieso Ordóñez `[CONFIRMADO]` |
 | Actividad | Consultoría, software, automatización, integración e IA aplicada `[CONFIRMADO]` |
 | Forma inicial | Profesional autónomo `[CONFIRMADO como intención; alta PENDIENTE]` |
-| Modalidad | Principalmente remota; sesiones presenciales si el proyecto lo requiere `[CONFIRMADO]` |
+| Modalidad | Componente remota y sede profesional propia para operación, custodia, reuniones, demostraciones y formación `[CONFIRMADO como decisión; adquisición PENDIENTE]` |
 | Mercado | España, con foco inicial operativo en Madrid y clientes europeos potenciales `[HIPÓTESIS]` |
 | Domicilio, alta, IAE/CNAE | `[PENDIENTE — dato privado no versionable]` / `[PENDIENTE]` |
 
@@ -85,7 +85,7 @@ Fortalezas propuestas: combinación de arquitectura y entrega; conocimiento Micr
 
 ## 9. Forma jurídica inicial
 
-Se prevé persona empresaria individual/profesional autónomo. Es coherente con una prestación personal, remota y sin plantilla inicial. Alta censal, RETA, epígrafes, fecha, obligaciones, retenciones y posible compatibilidad/capitalización están `[PENDIENTE]` de asesoría y documentos. No se presupone sociedad mercantil; se evaluaría con recurrencia, riesgo contractual, contratación y análisis fiscal.
+Se prevé persona empresaria individual/profesional autónomo. Es coherente con una prestación personal, una importante componente remota, sede profesional y sin plantilla inicial. Alta censal, RETA, epígrafes, fecha, obligaciones, retenciones y posible compatibilidad/capitalización están `[PENDIENTE]` de asesoría y documentos. No se presupone sociedad mercantil; se evaluaría con recurrencia, riesgo contractual, contratación y análisis fiscal.
 
 ## 10. Business Model Canvas
 
@@ -219,9 +219,15 @@ No se inicia tratamiento de datos ni acceso técnico antes de contrato y control
 
 ## 25. Plan de operaciones
 
-La prestación será remota por defecto con herramientas del cliente o entornos segregados. No hay almacén, producción física ni local. Entradas: problema, datos autorizados, responsables y criterio de éxito. Salidas: solución, pruebas, documentación, formación, inventario y plan de operación.
+La prestación seguirá siendo remota cuando convenga al proyecto, con herramientas del cliente o entornos segregados, y se organizará desde una sede profesional propia. No hay almacén ni producción física. Entradas: problema, datos autorizados, responsables y criterio de éxito. Salidas: solución, pruebas, documentación, formación, inventario y plan de operación.
 
 Controles: capacidad semanal, backlog, riesgos, cambios, coste cloud, calidad, seguridad, aceptación y cierre de accesos. La continuidad se apoya en documentación, repositorios, backups según contrato y plan de sustitución futuro.
+
+### 25.1 Sede, funciones y decisión de adquisición
+
+La sede se vincula exclusivamente a Allsetic: puesto técnico permanente; instalación y custodia de equipos, periféricos y documentación; archivo y administración; separación vivienda/actividad; reuniones, demostraciones, análisis de procesos, implantaciones y formación; recepción puntual de colaboradores o proveedores; imagen profesional y continuidad operativa. No se plantea para uso residencial, alquiler, reventa o inversión patrimonial.
+
+La compra se estudia por estabilidad y horizonte largo, incluida la posibilidad de acondicionar técnicamente el espacio. No se afirma que sea mejor que alquilar: se documentarán alternativas, rentas, coste total de compra, obras, liquidez, proporcionalidad y concentración de capital. La decisión final queda condicionada a inspección, compatibilidad urbanística, financiación suficiente y comparación documentada. La ficha comercial ref. 00286 solo acredita oferta de 40.000 €, 60 m² construidos anunciados, un baño y antigüedad indicada de 1960; no acredita operación ni estado, y cualquier superficie distinta queda pendiente de contraste.
 
 ## 26. Metodología de prestación
 
@@ -268,11 +274,13 @@ SEPE: importe y modalidad son `[PENDIENTE]`. La solicitud debe seguir la fuente 
 
 ## 34. Plan de inversión
 
-`[HIPÓTESIS HYP-A09]` Total 12.000 €: equipo 2.400; monitor/periféricos 500; teléfono 400; software 600; cloud 600; web/marca 600; CRM/prospección 600; formación 1.200; asesoría 1.100; fondo de maniobra 4.000. Todos sin presupuesto y sujetos a inventario; no se presupone local. Detalle y tratamiento en el modelo.
+Se amplía HYP-A09 sin eliminar el escenario histórico: inmueble 40.000 € de **precio ofertado**; impuestos, notaría, Registro, intermediación, inspección/acondicionamiento, licencias, seguro, suministros, puesta en marcha y fondo de maniobra `[PENDIENTE]`; mobiliario 477,56 €, equipo informático 1.317,48 € y gestoría 943,80 € según proformas/documento comercial (total 2.738,84 €). Ninguna operación está ejecutada. El documento informático con apariencia de pedido y entrega anterior al 02/09/2026 debe corregirse antes de presentarse.
 
 ## 35. Plan de financiación
 
-Escenario técnico: `[HIPÓTESIS]` 12.000 € de fondos propios para cuadrar usos, aunque disponibilidad está `[PENDIENTE]`. Pago único SEPE, préstamo y ayudas: 0 € incorporados hasta evidencia. Si se documentan, se sustituye la fuente sin doble financiación, se añade coste y tabla de deuda, y se conserva prueba bancaria.
+Se prevé destinar el 100 % del pago único finalmente concedido al precio del local: aproximadamente 29.000 € `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]`. Los fondos propios declarados son 12.000 € `[PENDIENTE de acreditación]`; aproximadamente 11.000 € completarían solo el precio y dejarían ≈1.000 € `[ESTIMADO]`. No hay préstamo ni ayudas concedidas.
+
+**BRECHA DE FINANCIACIÓN PENDIENTE:** el remanente no cubre las proformas de 2.738,84 € (déficit mínimo visible 1.738,84 €) ni costes accesorios aún desconocidos. El pago único no vuelve a asignarse a esas partidas. La adquisición y el inicio quedan condicionados a resolución, fondos y preservación de caja.
 
 ## 36. Modelo económico-financiero
 
@@ -328,7 +336,7 @@ Puertas: evidencia comercial, margen/caja, calidad y cumplimiento.
 
 ## 41. Conclusiones
 
-El proyecto tiene coherencia entre problema, experiencia y oferta, y una estructura fija contenida. Es defendible como estrategia de entrada si mantiene foco, gobierno y disciplina de caja. No está listo como expediente financiero definitivo: faltan presupuestos, financiación acreditada, fiscalidad, capacidad y validación de demanda. El siguiente paso no es escalar, sino confirmar esos datos y convertir una primera oportunidad en evidencia medible.
+El proyecto tiene coherencia entre problema, experiencia y oferta; la sede prevista refuerza continuidad, pero eleva estructura, inmovilización y riesgo de liquidez. Es defendible como estrategia de entrada si mantiene foco, gobierno y disciplina de caja. No está listo como expediente financiero definitivo: faltan presupuestos, financiación acreditada, fiscalidad, capacidad y validación de demanda. El siguiente paso no es escalar, sino confirmar esos datos y convertir una primera oportunidad en evidencia medible.
 
 ## 42. Fuentes
 

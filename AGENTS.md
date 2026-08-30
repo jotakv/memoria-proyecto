@@ -30,7 +30,7 @@ Mantener **Allsetic AI Automation Studio** como expediente maestro para:
 - Toda modificación importante debe actualizar `docs/CHANGELOG.md` y `docs/STATUS.md`.
 - Priorizar fuentes oficiales para normativa, fiscalidad, procedimientos y financiación pública.
 - No afirmar admisibilidad de una inversión ante el SEPE sin fuente y aplicación al caso concreto.
-- La actividad inicial se describe como consultoría técnica principalmente remota; no se presupone un local comercial.
+- La actividad inicial se describe como consultoría técnica con una importante componente remota y sede profesional propia prevista; la adquisición y afectación exclusiva del local permanecen condicionadas a verificación y financiación.
 - Mantener `docs/memoria-descriptiva-allsetic.md` como fuente canónica del contenido público.
 - No incorporar secretos ni documentación personal sensible a la versión pública.
 - No crear, modificar ni incluir binarios en cambios, commits o Pull Requests. Los PDF oficiales ya versionados permanecen intactos.

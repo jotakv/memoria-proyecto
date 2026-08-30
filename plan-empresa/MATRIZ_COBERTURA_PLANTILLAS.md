@@ -19,9 +19,9 @@
 | 11 Evolución mercado | §15 | fuentes oficiales; sin extrapolar demanda |
 | 12 Competencia | §§17–20 | fuerzas, matriz, DAFO/CAME |
 | 13 Comunicación/captación | §§21–24 | red, contenido, outbound, partners |
-| 14 Operaciones | §§25–26 | servicio remoto por puertas de control |
+| 14 Operaciones | §§25–26 | servicio híbrido organizado desde sede profesional |
 | 15 Medios | §§27, 30–31 | tecnología, promotor y proveedores |
-| 16 Localización | §§2 y 25 | remoto; local `[NO APLICA]` |
+| 16 Localización | §§2 y 25 | sede profesional prevista; inmueble y ubicación pendientes |
 | 17 Compras/proveedores | §§30 y 34 | selección y presupuestos pendientes |
 | 18 Costes | §36 y modelo §§6–7 | variables/fijos/amortización |
 | 19 Organización/puestos | §§31–32 | una persona; colaboradores condicionados |
@@ -38,12 +38,12 @@
 | Hoja/lógica analizada | Traslado | Adaptación/decisión |
 |---|---|---|
 | Datos previos | plan §§2–3; modelo §1 | identidad, forma y cautelas |
-| Plan de marketing | plan §§11–24 | B2B, no comercio/local |
-| Plan de operaciones | plan §§25–30 | prestación tecnológica remota |
+| Plan de marketing | plan §§11–24 | B2B consultivo; sede no altera la oferta |
+| Plan de operaciones | plan §§25–30 | prestación tecnológica híbrida con sede |
 | Recursos humanos | plan §§31–32 | promotor único; no 5 trabajadores |
 | Jurídico-mercantil | plan §§9 y 33 | persona física; órgano societario `[NO APLICA]` |
 | Plan comercial mensual | modelo §§3–5 | cinco líneas, A1 por línea y 36 meses |
-| Inversión/financiación | modelo §2 | sin local, existencias, patentes ni capital social |
+| Inversión/financiación | modelo §2 | con inmueble previsto; sin existencias, patentes ni capital social |
 | Amortización inversión | modelo §§2 y 7 | 1.500 €/año, criterio fiscal pendiente |
 | Amortización préstamos | modelo §§2 y 12 | `[NO APLICA]` sin deuda; fórmula prevista |
 | Ventas/costes | modelo §§3–7 | unidades, variable y fijo |

@@ -53,3 +53,14 @@
 ## Fuentes estructurales no probatorias
 
 `Plantilla_plan-empresa-CAST.doc`, `SimuladorPlanEmpresa_nueva versión.xlsm`, `Manual-Plan-de-Empresa-2010-Madrid-Emprende.md`, `Plan Empresa 4.md`, `Plan Empresa 5.md`, `PlanEmpresa 2.md`, `PlanEmpresa 3.md` y `ANEXO II - PLAN DE EMPRESA.md` se usaron solo para estructura. Sus personas, empresas, cifras, ubicaciones y conclusiones fueron excluidas.
+
+## Adenda de sede profesional · 29 de agosto de 2026
+
+- `HYP-A18`: pago único ≈29.000 € `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]`, destinado íntegramente al precio.
+- `HYP-A19`: 12.000 € propios declarados `[PENDIENTE de acreditación]`; ≈11.000 € al precio y ≈1.000 € remanente.
+- `HYP-A20`: costes accesorios, acondicionamiento y fondo de maniobra `[PENDIENTE]`, sin importe inventado.
+- `HYP-A21`: proformas por 2.738,84 €; informática pendiente de subsanación documental.
+- `HYP-A22`: costes recurrentes del local y tratamiento fiscal/amortización `[PENDIENTE]`.
+- `HYP-A23`: 800 €/mes de retirada personal, únicamente salida de tesorería.
+
+Pendientes críticos: superficie y estado; Catastro/nota simple/escritura/plano/medición; compatibilidad y título habilitante; ITP, notaría, Registro, agencia, IBI, comunidad, seguro y suministros; comparación compra/alquiler; domicilio Madrid/Águilas; fecha de adquisición; financiación de la brecha.

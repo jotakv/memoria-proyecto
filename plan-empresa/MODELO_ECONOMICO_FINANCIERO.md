@@ -1,12 +1,12 @@
 # Modelo económico-financiero
 
-**Versión:** 1.0 · 27 de agosto de 2026
+**Versión:** 1.1 · 29 de agosto de 2026
 **Unidad:** euros sin IVA, salvo indicación · redondeo al euro en tablas
 **Evidencia:** todos los importes son `[HIPÓTESIS]` (HYP-A08–A17) y no ventas, presupuestos ni financiación confirmados.
 
 ## 1. Alcance, datos previos y criterio
 
-El modelo adapta el simulador de Madrid Emprende a una persona autónoma, sin local, plantilla ni existencias. Separa ventas, cobros y caja; no incluye retribución salarial del promotor como gasto: su remuneración procede del rendimiento neto y su fiscalidad personal queda `[PENDIENTE]`. IVA e IRPF no forman parte del resultado operativo. Antes de entregar a un financiador se sustituirán supuestos por presupuestos, contratos y criterio fiscal.
+El modelo adapta el simulador de Madrid Emprende a una persona autónoma, con sede profesional prevista, sin plantilla ni existencias. Separa ventas, cobros y caja; no incluye retribución salarial del promotor como gasto: su remuneración procede del rendimiento neto y su fiscalidad personal queda `[PENDIENTE]`. IVA e IRPF no forman parte del resultado operativo. Antes de entregar a un financiador se sustituirán supuestos por presupuestos, contratos y criterio fiscal.
 
 ### Fórmulas
 
@@ -26,31 +26,27 @@ El modelo adapta el simulador de Madrid Emprende a una persona autónoma, sin lo
 
 ## 2. Inversión y financiación inicial
 
-| Uso | Base imponible `[HIPÓTESIS HYP-A09]` | Tratamiento de gestión | Evidencia necesaria |
-|---|---:|---|---|
-| Equipo informático | 2.400 | Inmovilizado, 3 años | Inventario y presupuesto |
-| Monitor y periféricos | 500 | Inmovilizado, 3 años | Presupuesto |
-| Teléfono y accesorios | 400 | Inmovilizado, 3 años | Necesidad y presupuesto |
-| Software/licencias de arranque | 600 | Gasto anticipado/inmovilizado según asesor | Oferta |
-| Servicios cloud de arranque | 600 | Circulante/gasto | Estimación por uso |
-| Web y marca | 600 | Gasto o intangible según asesor | Presupuesto |
-| CRM y prospección | 600 | Gasto anticipado | Oferta |
-| Formación | 1.200 | Gasto de puesta en marcha | Programa y factura |
-| Asesoría fiscal, legal y privacidad | 1.100 | Gasto de puesta en marcha | Alcance y oferta |
-| Fondo de maniobra | 4.000 | Tesorería inicial | Necesidad reconciliada |
-| **Total usos** | **12.000** |  |  |
+El escenario HYP-A09 de 12.000 € se conserva como base histórica, pero queda **sustituido para decisiones de inversión** por el plan ampliado. No debe sumarse ni financiarse en paralelo.
 
-La amortización se modeliza en `[HIPÓTESIS HYP-A11]` **1.500 €/año** durante tres años como aproximación revisable. No determina el criterio fiscal.
-
-| Fuente | Importe del escenario | Estado |
+| Uso vigente | Importe | Estado |
 |---|---:|---|
-| Fondos propios | 12.000 | `[HIPÓTESIS]`; disponibilidad `[PENDIENTE]` |
-| Pago único SEPE | 0 | `[PENDIENTE]`; no documentado ni asumido |
-| Préstamo | 0 | `[NO APLICA]` en escenarios actuales |
-| Ayudas | 0 | `[NO APLICA]`; ninguna concedida |
-| **Total fuentes** | **12.000** | `[HIPÓTESIS]` |
+| Inmueble candidato | 40.000 € | precio ofertado; no adquirido ni reservado |
+| Impuestos, notaría, Registro, agencia | Pendiente | `[PENDIENTE]` |
+| Inspección y acondicionamiento | Pendiente | `[PENDIENTE]` |
+| Mobiliario | 477,56 € | proforma; operación no ejecutada |
+| Equipo informático | 1.317,48 € | documento a subsanar; operación no ejecutada |
+| Gestoría | 943,80 € | proforma; operación no ejecutada |
+| Licencias, suministros, seguro y puesta en marcha | Pendiente | `[PENDIENTE]` |
+| Fondo de maniobra | Pendiente | `[PENDIENTE]` |
+| **Mínimo conocido** | **42.738,84 €** | faltan costes materiales |
 
-`12.000 usos = 12.000 fuentes`. Ninguna fila se declara admisible ante el SEPE; requiere aplicación de la fuente oficial al caso, presupuesto, fecha y medio de pago.
+| Fuente | Importe | Aplicación / estado |
+|---|---:|---|
+| Pago único SEPE | ≈29.000 € | solo precio; `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` |
+| Fondos propios declarados | 12.000 € | `[PENDIENTE]` acreditación; ≈11.000 € al precio |
+| Préstamo / ayudas | 0 € | ninguno concedido |
+
+Tras el precio quedaría ≈1.000 € `[ESTIMADO]`: **BRECHA DE FINANCIACIÓN PENDIENTE** mínima de 1.738,84 € frente a las proformas, más todos los costes sin cuantificar. El coste total, base amortizable, terreno/construcción y tratamiento fiscal se revisarán con escritura y asesor; no se inventa amortización.
 
 ## 3. Supuestos comerciales y capacidad
 
@@ -135,12 +131,14 @@ La estacionalidad es una secuencia prudencial de arranque, no un pipeline. El mo
 | Formación | 1.200 | `[HIPÓTESIS]` |
 | Jurídico, privacidad y seguridad | 1.500 | `[HIPÓTESIS]` |
 | Marketing | 2.400 | `[HIPÓTESIS]` |
-| Oficina/local | 0 | `[NO APLICA]` actividad remota |
+| Local: electricidad, agua, internet, comunidad, IBI, seguro y mantenimiento | Pendiente | `[PENDIENTE]` contratos, recibos y tratamiento fiscal |
 | Otros generales/contingencia | 1.800 | `[HIPÓTESIS]` |
 | **Total desembolsable** | **18.000** | `[HIPÓTESIS HYP-A11]` |
 | Amortización no desembolsable | 1.500 | `[HIPÓTESIS]` |
 
 Años 2 y 3: `[HIPÓTESIS HYP-A17]` costes fijos desembolsables de 24.000 € y 30.000 €, respectivamente, por mayor comercialización, soporte y colaboración puntual. No se presupone plantilla.
+
+El total histórico de 18.000 € del año 1 y los resultados derivados **no incorporan todavía los costes del local** y dejan de ser escenario completo para presentar. Deben recalcularse cuando existan importes. La compra también modifica amortización y activos; no se fuerza el cálculo sin desglose fiscal.
 
 ## 7. Cuenta de explotación a tres años
 
@@ -183,6 +181,8 @@ Supone fondo disponible de 4.000 €, inversión de puesta en marcha pagada ante
 | **Total flujo** |  | **55.000** | **9.450** | **18.000** |  |
 
 La necesidad máxima al cierre es 950 €, pero se fija `[HIPÓTESIS]` **1.950 €** incluyendo un colchón de 1.000 €. El fondo de 4.000 € ofrece **2,67 meses** de autonomía sobre costes fijos desembolsables de 1.500 €/mes, antes de variables e impuestos. Un descubierto no es financiación aprobada: si no se elevan fondos, deben anticiparse cobros o retrasarse costes.
+
+Esta tabla histórica tampoco incorpora la retirada personal prevista de 800 €/mes (9.600 €/año). Es una **salida personal de tesorería del promotor**, nunca salario, gasto operativo o coste laboral. Si se aplicara sin modificar las demás hipótesis, reduciría la caja final mostrada en 9.600 €, además de los costes del local y adquisición aún pendientes. La concentración de recursos en el inmueble impide afirmar hoy que exista liquidez suficiente para gastos accesorios, acondicionamiento, equipo, actividad corriente y primeros meses.
 
 ## 10. Tesorería anual años 2 y 3
 

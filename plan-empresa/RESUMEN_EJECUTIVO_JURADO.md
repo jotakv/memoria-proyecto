@@ -1,7 +1,7 @@
 # Allsetic AI Automation Studio · Resumen para jurado
 
 **Promotor:** Kevin Joel Valdivieso Ordóñez `[CONFIRMADO]`
-**Forma inicial:** profesional autónomo, actividad principalmente remota `[CONFIRMADO como intención; alta PENDIENTE]`
+**Forma inicial:** profesional autónomo sin empleados, componente remota y sede profesional propia prevista `[CONFIRMADO como intención; alta y adquisición PENDIENTES]`
 **Versión:** 1.0 · 27 de agosto de 2026 · borrador sujeto a validación
 
 ## Una necesidad operativa, no una moda tecnológica
@@ -23,6 +23,12 @@ El proceso reduce riesgo: descubrimiento, diagnóstico, diseño y criterios de �
 `[CONFIRMADO]` El promotor aporta experiencia profesional en Dynamics 365, Power Platform, Dataverse, C#, .NET, JavaScript, APIs, automatización, integración empresarial, Azure DevOps y ALM. No se alegan titulaciones, certificaciones, antigüedad, cartera ni casos no acreditados. Esta combinación permite unir conversación de proceso y ejecución técnica, con foco inicial estrecho y una estructura ligera.
 
 Frente a herramientas autoservicio, Allsetic aporta integración y responsabilidad de entrega; frente a grandes consultoras, proximidad y alcance acotado; frente a especialistas aislados, una metodología que cubre diagnóstico, construcción, gobierno y evolución. Estas ventajas son un **posicionamiento propuesto**, todavía pendiente de contraste comercial.
+
+## Sede profesional y cautela financiera
+
+Allsetic mantiene prestación remota, pero necesita una sede profesional para trabajo técnico, custodia, reuniones, demostraciones, formación y separación vivienda/actividad. Se contempla el candidato de Águilas exclusivamente como activo afecto: ficha comercial ref. 00286, precio ofertado 40.000 €, sin reserva, arras o compra. Comprar aporta estabilidad potencial, pero exige comparar alquiler, obras, costes accesorios, flexibilidad y concentración de capital.
+
+El pago único aproximado de 29.000 € está `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` y se aplicaría íntegramente al precio; 12.000 € propios están declarados y pendientes de acreditar. Tras ≈11.000 € para completar el precio quedarían ≈1.000 €, frente a proformas de 2.738,84 € y gastos aún desconocidos: **BRECHA DE FINANCIACIÓN PENDIENTE** y riesgo de liquidez.
 
 ## Viabilidad prudente y verificable
 
