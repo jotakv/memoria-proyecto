@@ -45,3 +45,11 @@ Cada partida Allsetic deberá demostrar necesidad, proporcionalidad, titularidad
 - conciliación de fuentes y usos;
 - medios de pago y archivo probatorio;
 - versión vigente del formulario y documentación en la fecha de registro.
+
+## Aplicación prudencial al inmueble previsto · revisión 2026-08-29
+
+**Regla oficial.** Las fuentes SEPE y el artículo 34 de la Ley 20/2007 permiten vincular el tanto alzado a la inversión necesaria y gastos de puesta en funcionamiento dentro del límite reconocido; exigen solicitud previa al inicio, destino conforme a memoria/resolución, justificación del 100 % y trazabilidad bancaria. La presentación permite iniciar después de solicitar, pero no garantiza concesión.
+
+**Interpretación prudencial.** Un inmueble exclusivamente afecto podría plantearse como inmovilizado necesario si la memoria acredita relación funcional, proporcionalidad, titularidad, coste y pago. Ni la norma general ni la ficha comercial prueban que este inmueble concreto será aceptado. Se solicitará confirmación del SEPE sobre compra, costes asociados, fecha admisible y evidencia antes de formalizar.
+
+**Riesgo administrativo.** Concentrar el 100 % del importe finalmente concedido en el precio, carecer todavía de resolución/contrato y no tener cubiertos costes accesorios puede provocar requerimiento, reducción o rechazo de partidas. Deben conservarse solicitud, resolución, memoria, escritura/factura, liquidaciones, extractos y justificantes bancarios; no usar efectivo, instrumentos al portador o tarjetas prepago. La operación queda condicionada a la concesión, disponibilidad de fondos y secuencia aplicable.

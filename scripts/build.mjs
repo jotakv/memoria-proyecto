@@ -112,7 +112,7 @@ function renderPage(documentSections) {
         <p class="hero__lead">Allsetic diseña e implanta automatización, agentes e integraciones sobre el ecosistema Microsoft para convertir trabajo manual e información dispersa en soluciones trazables.</p>
         <div class="hero__facts" aria-label="Datos principales del proyecto">
           <span>Consultoría técnica</span>
-          <span>Remoto por diseño</span>
+          <span>Sede profesional · alcance remoto</span>
           <span>España + Europa</span>
           <span>Inicio como autónomo</span>
         </div>

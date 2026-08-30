@@ -1,6 +1,6 @@
 # Registro de decisiones
 
-**Última actualización:** 2026-08-27
+**Última actualización:** 2026-08-29
 
 ## DEC-A01 · Identidad y posicionamiento
 
@@ -80,3 +80,12 @@
 - **Decisión:** corregir cuatro restos contradictorios en la memoria canónica para describir prestación principalmente remota, sin local comercial inicial.
 - **Motivo:** regla del repositorio y fuente empresarial expresa del encargo.
 - **Estado:** APROBADA.
+
+## DEC-A12 · Sede profesional propia
+
+- **Fecha:** 2026-08-29.
+- **Decisión:** sustituir el criterio anterior de inicio sin local por un planteamiento en el que Allsetic requiere una sede profesional propia, afecta exclusivamente a la consultoría tecnológica. Se contempla adquirir un inmueble candidato, sin alterar la forma inicial de profesional autónomo ni crear empleo inicial.
+- **Motivo:** disponer de puesto técnico estable, custodia de equipos y documentación, espacio de reuniones, demostraciones y formación, separación vivienda/actividad y continuidad operativa.
+- **Estado:** APROBADA COMO DECISIÓN EMPRESARIAL VIGENTE; inmueble, coste total, financiación y admisibilidad SEPE pendientes.
+- **Trazabilidad:** sustituye para el futuro DEC-A02, DEC-A09 y DEC-A11 solo en sus referencias a ausencia de local; las decisiones anteriores se conservan como histórico.
+- **Fuente:** mandato expreso del promotor de 29/08/2026.

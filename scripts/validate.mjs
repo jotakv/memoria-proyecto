@@ -21,7 +21,8 @@ const required = [
   '2.500–4.000 €',
   '5.000–9.000 €',
   '2.000–5.000 €/mes',
-  'Pendiente de presupuesto',
+  'BRECHA DE FINANCIACIÓN PENDIENTE',
+  'precio ofertado',
   'Copilot Studio',
   'Azure AI Foundry',
 ];

@@ -1,6 +1,6 @@
 # Preguntas y datos pendientes
 
-**Última actualización:** 2026-08-27
+**Última actualización:** 2026-08-29
 
 > Una respuesta no debe convertirse en hecho sin evidencia o declaración expresa del promotor. Al resolver un punto, actualizar también `ASSUMPTIONS.md`, `DECISION_LOG.md`, `STATUS.md` y los documentos afectados.
 
@@ -53,3 +53,16 @@
 29. [PENDIENTE] ¿Qué muestra, objetivos y métricas de validación comercial se aprobarán para segmento, precio y conversión?
 30. [PENDIENTE] ¿Qué umbrales de recurrencia, margen, caja y saturación autorizarán colaboradores o cambio societario?
 31. [PENDIENTE] ¿Qué estadísticas oficiales, con tabla, fecha y metodología, se incorporarán a la versión presentada al jurado?
+
+## Prioridad crítica · sede profesional e inmueble candidato
+
+32. [PENDIENTE] ¿Coinciden Catastro, nota simple, plano, escritura, documentación del vendedor y medición técnica? La ficha anuncia 60 m² construidos; debe investigarse cualquier referencia a 41 m² u otra superficie sin elegir una arbitrariamente.
+33. [PENDIENTE] ¿Qué revela la inspección técnica sobre humedades, estado, electricidad, telecomunicaciones, agua, ventilación, accesibilidad y protección contra incendios, y cuál es el presupuesto de acondicionamiento?
+34. [PENDIENTE] ¿Es compatible la actividad con el planeamiento y qué declaración responsable, licencia o título habilitante exige el Ayuntamiento de Águilas?
+35. [PENDIENTE] ¿Cuánto ascienden ITP, notaría, Registro, agencia, IBI, comunidad, seguro, suministros, licencias y gastos de puesta en marcha, con documentos a nombre correcto?
+36. [PENDIENTE] ¿Qué fuente cubrirá la **BRECHA DE FINANCIACIÓN PENDIENTE** sin duplicar el pago único, dado que no hay préstamo ni otras ayudas concedidas?
+37. [PENDIENTE] ¿Cómo se reconciliarán el domicilio fiscal previo referido en Madrid, el domicilio personal, el domicilio profesional y el local afecto en Águilas? Faltan decisión del promotor, documentación censal y criterio del asesor.
+38. [PENDIENTE] ¿En qué fecha podría formalizarse la adquisición, siempre después de la solicitud y conforme a la resolución y a la secuencia validada con el SEPE?
+39. [PENDIENTE] ¿Qué comparación documentada de compra y alquiler acredita coste total, alternativas disponibles, horizonte, adaptación, liquidez y proporcionalidad?
+40. [PENDIENTE] ¿Puede el proveedor sustituir el documento informático con apariencia de pedido y entrega anterior al 02/09/2026 por una proforma que diga pendiente de aceptación, pedido y pago, y sin entrega realizada?
+41. [PENDIENTE] ¿Qué caja queda para adquisición, acondicionamiento, proformas, actividad corriente y primeros meses tras una retirada personal de 800 €/mes?

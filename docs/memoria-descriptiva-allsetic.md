@@ -4,8 +4,8 @@
 Consultoría técnica de inteligencia artificial aplicada, automatización e integración empresarial
 
 **Promotor:** Kevin Joel Valdivieso Ordóñez
-**Versión:** 1.0
-**Fecha de revisión:** 27 de agosto de 2026
+**Versión:** 1.1
+**Fecha de revisión:** 29 de agosto de 2026
 **Estado:** borrador profesional pendiente de completar presupuestos y datos administrativos
 
 > **Criterio de lectura.** [CONFIRMADO] identifica información aportada como fuente de verdad por el promotor; [HIPÓTESIS] identifica precios, objetivos o desarrollos todavía no validados; [PENDIENTE] señala información que requiere documento, presupuesto o decisión. Ninguna hipótesis constituye una venta, ingreso, ayuda o concesión asegurada.
@@ -19,12 +19,12 @@ Consultoría técnica de inteligencia artificial aplicada, automatización e int
 | Nombre provisional | Allsetic AI Automation Studio | [CONFIRMADO] |
 | Promotor | Kevin Joel Valdivieso Ordóñez | [CONFIRMADO] |
 | Actividad | Consultoría tecnológica, desarrollo de software, automatización de procesos, integración de sistemas e implantación de inteligencia artificial aplicada | [CONFIRMADO] |
-| Modalidad | Prestación principalmente remota, con reuniones en línea y sesiones presenciales puntuales | [CONFIRMADO] |
+| Modalidad | Consultoría con importante componente remota y sede profesional propia prevista para operación, custodia, reuniones, demostraciones y formación | [CONFIRMADO como decisión; adquisición PENDIENTE] |
 | Ámbito | España y mercado internacional, con especial atención a empresas europeas usuarias de Microsoft 365, Dynamics 365, Power Platform, Azure o CRM | [CONFIRMADO] |
 | Forma inicial prevista | Profesional autónomo | [CONFIRMADO] como intención de inicio; alta y encuadramiento [PENDIENTE] |
 | Evolución posible | Microagencia o sociedad mercantil cuando facturación, contratación e ingresos recurrentes lo justifiquen | [HIPÓTESIS] |
 | Domicilio fiscal o profesional | Pendiente de confirmar | [PENDIENTE] |
-| Fecha prevista de alta e inicio | Pendiente de confirmar | [PENDIENTE] |
+| Fecha prevista de alta e inicio | 15/10/2026 orientativa, condicionada a la tramitación del expediente | [ESTIMADO] |
 | IAE y CNAE | Pendientes de verificar para la actividad y fecha de alta | [PENDIENTE] |
 
 Allsetic se define como una **consultoría técnica especializada**, no como una oferta genérica de servicios de inteligencia artificial. Su foco es diseñar e implantar soluciones conectadas con procesos, datos y herramientas empresariales reales.
@@ -236,25 +236,35 @@ La selección dependerá de requisitos, licencias, seguridad, coste y arquitectu
 | CRM y prospección | Gestión de oportunidades, seguimiento y contacto comercial lícito | [PENDIENTE] herramienta y coste |
 | Personas y colaboradores | Apoyo especializado sujeto a demanda, alcance y capacidad financiera | [HIPÓTESIS] sin contratación comprometida |
 
-La actividad se plantea principalmente remota y no requiere un local comercial para su puesta en marcha. Cualquier espacio puntual se contratará según necesidad y no se presenta como inversión inicial necesaria.
+Aunque una parte importante de la prestación continuará siendo remota, Allsetic necesita una sede profesional propia como base operativa. El espacio permitirá mantener un puesto técnico permanente, instalar y custodiar equipos y periféricos, archivar documentación, separar vivienda y actividad, organizar reuniones presenciales, demostraciones, análisis de procesos, implantaciones y formación a clientes, y recibir puntualmente a colaboradores o proveedores. Estas funciones son instrumentales a los servicios existentes; no añaden actividad inmobiliaria ni uso personal.
+
+### 14.1 Necesidad, afectación y compra frente a alquiler
+
+La sede aporta disponibilidad y continuidad para proyectos que combinan desarrollo, pruebas, documentación y sesiones con clientes. La compra se contempla a largo plazo por estabilidad del establecimiento y posibilidad de adaptar técnicamente el espacio, no como patrimonio, reventa, alquiler, vivienda o expectativa de revalorización. La afectación prevista es exclusivamente profesional.
+
+La adquisición no se presume superior al alquiler. Antes de comprometerla se compararán `[PENDIENTE]` precio y costes accesorios de compra, rentas y oferta disponible, horizonte de uso, obras, flexibilidad, liquidez, proporcionalidad para una persona autónoma y concentración financiera. La estabilidad potencial debe ponderarse frente al riesgo de inmovilizar casi todos los recursos y dejar insuficiente circulante.
+
+El candidato se documenta solo mediante una **ficha comercial de inmueble candidato** (ref. 00286): centro de Águilas, precio ofertado 40.000 €, 60 m² construidos anunciados, un baño y antigüedad indicada de 1960. No existe reserva, arras, contrato, derecho de adquisición, precio pactado, compromiso del vendedor o compra. Superficie, titularidad y estado quedan `[PENDIENTE]` de Catastro, nota simple, plano, escritura, documentación del vendedor, medición e inspección técnica; cualquier referencia a 41 m² u otra superficie se tratará como discrepancia, sin selección arbitraria.
 
 ## 15. Inversión prevista
 
-| Partida | Necesidad empresarial | Importe | Evidencia requerida |
-|---|---|---:|---|
-| Portátil profesional | Desarrollo, reuniones y ejecución técnica | Pendiente de presupuesto | Presupuesto o factura proforma |
-| Monitor y periféricos | Productividad y trabajo técnico | Pendiente de presupuesto | Presupuesto o factura proforma |
-| Teléfono y accesorios | Comunicación y pruebas cuando proceda | Pendiente de presupuesto | Presupuesto y justificación de afectación |
-| Software | Herramientas de desarrollo, documentación y operación | Pendiente de presupuesto | Plan y oferta de licencia |
-| Licencias Microsoft | Productividad, demostración o desarrollo | Pendiente de presupuesto | Modalidad, titular y presupuesto |
-| Servicios cloud | Desarrollo, pruebas y consumo de servicios | Pendiente de presupuesto | Estimación trazable y límites de consumo |
-| Herramientas de IA | Prototipado y prestación de servicios | Pendiente de presupuesto | Plan, titular y finalidad |
-| Web y marca | Dominio, presencia comercial y materiales | Pendiente de presupuesto | Presupuesto desglosado |
-| CRM y prospección | Organización comercial y captación | Pendiente de presupuesto | Plan, coste y finalidad |
-| Formación | Actualización técnica o empresarial vinculada a la actividad | Pendiente de presupuesto | Programa y presupuesto |
-| Asesoría | Fiscal, contable, contractual y protección de datos | Pendiente de presupuesto | Alcance y presupuesto profesional |
+El detalle conciliado se mantiene en `financial-model/PLAN_INVERSION.md`. El inmueble tiene un precio **ofertado**, no definitivo, de 40.000 €; no representa el coste total. Se prevé aplicar al precio aproximadamente 29.000 € de pago único `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` y aproximadamente 11.000 € de los 12.000 € propios declarados `[PENDIENTE de acreditación]`. El remanente provisional aproximado de 1.000 € no cubre por sí solo las proformas ni los costes accesorios.
 
-No se asigna un total porque no existen presupuestos verificables incorporados. La inclusión de una categoría en esta memoria no confirma por sí sola su admisibilidad, importe financiable o subvencionabilidad. Antes de una solicitud de pago único deberán reconciliarse inversión total, pago único, fondos propios y cualquier otra fuente, sin duplicidades y con titularidad y medios de pago trazables.
+| Bloque | Importe | Estado y evidencia |
+|---|---:|---|
+| Inmueble candidato | 40.000,00 € | precio ofertado en ficha comercial; operación futura y condicionada |
+| Impuestos, notaría, Registro y agencia | Pendiente | cálculo, presupuestos y condiciones `[PENDIENTE]` |
+| Inspección y acondicionamiento | Pendiente | instalaciones, humedades/estado, accesibilidad, incendios y presupuesto `[PENDIENTE]` |
+| Mobiliario | 477,56 € | proforma; no encargado, recibido ni pagado |
+| Equipo informático | 1.317,48 € | documento a subsanar; no encargado, recibido ni pagado según declaración |
+| Gestoría | 943,80 € | proforma; no contratada ni pagada |
+| Licencias, suministros, seguro y puesta en marcha | Pendiente | compatibilidad, título habilitante y ofertas `[PENDIENTE]` |
+| Fondo de maniobra | Pendiente | tesorería revisada `[PENDIENTE]` |
+| **Subtotal proformas** | **2.738,84 €** | fuente distinta del pago único reservado al precio |
+
+**BRECHA DE FINANCIACIÓN PENDIENTE:** tras completar solo el precio quedaría un remanente estimado de 1.000 € frente a 2.738,84 € de proformas, una diferencia mínima visible de 1.738,84 €, más todos los costes todavía sin cuantificar. No existe financiación bancaria ni otras ayudas concedidas.
+
+A fecha de elaboración de la memoria, el promotor no ha adquirido, reservado ni pagado el local; tampoco ha firmado arras, contrato de compraventa o compromiso vinculante. Las restantes partidas se apoyan únicamente en presupuestos, fichas comerciales o facturas proforma. No se ha adquirido, encargado, recibido ni pagado ningún equipo, mobiliario o servicio incluido en el plan de inversión.
 
 ## 16. Estrategia comercial
 
@@ -297,7 +307,7 @@ Las fechas concretas dependen de alta, financiación, disponibilidad del promoto
 La viabilidad cualitativa se apoya en:
 
 - [CONFIRMADO] experiencia previa del promotor directamente relacionada con el servicio;
-- estructura inicial ligera, remota y sin necesidad declarada de local comercial;
+- estructura inicial de una sola persona, con prestación remota y sede profesional propia prevista;
 - posibilidad de mantener costes fijos controlados y contratar capacidad externa solo cuando exista demanda;
 - especialización en un ecosistema empresarial implantado, sin cuantificar el mercado mediante estadísticas no verificadas;
 - combinación prevista de proyectos y servicios recurrentes;
@@ -353,7 +363,7 @@ Su priorización dependerá de demanda demostrable, compatibilidad con la activi
 
 Allsetic AI Automation Studio se plantea como una consultoría técnica especializada en inteligencia artificial aplicada a procesos empresariales, automatización e integración sobre Microsoft 365, Dynamics 365, Power Platform, Azure y CRM.
 
-El proyecto responde a un problema concreto: organizaciones digitalizadas que aún mantienen tareas manuales, conocimiento disperso y sistemas poco conectados. La experiencia declarada del promotor está directamente relacionada con el diseño y la ejecución de las soluciones previstas, lo que permite iniciar con una estructura ligera y principalmente remota.
+El proyecto responde a un problema concreto: organizaciones digitalizadas que aún mantienen tareas manuales, conocimiento disperso y sistemas poco conectados. La experiencia declarada del promotor está directamente relacionada con el diseño y la ejecución de las soluciones previstas, lo que permite iniciar como profesional autónomo, combinando prestación remota con una sede operativa propia.
 
 El modelo combina auditorías, sprints, implantaciones, desarrollos e integraciones con soporte recurrente. La evolución hacia microagencia, colaboradores y activos propios se mantiene como posibilidad condicionada a resultados reales. El enfoque será práctico, seguro, documentado e integrado; no se prometen clientes, ahorros, facturación ni concesiones administrativas.
 
