@@ -4,45 +4,42 @@
 
 | Fuente | Estado | Importe | Observaciones |
 |---|---|---:|---|
-| Pago único SEPE | `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` | ≈29.000 € | Destino prioritario previsto: financiar parcialmente el precio del inmueble |
-| Fondos propios declarados | `[CONFIRMADO por declaración / PENDIENTE de acreditación]` | 12.000 € | ≈11.000 € completarían el precio de referencia; ≈1.000 € quedarían provisionalmente |
-| Financiación bancaria concedida | `[CONFIRMADO por declaración]` | 0 € | Ninguna concedida |
-| Otras ayudas concedidas | `[CONFIRMADO por declaración]` | 0 € | Ninguna concedida |
-| **Total de fuentes identificadas** | Condicionado | **≈41.000 €** | No equivale a disponibilidad acreditada |
+| Pago único SEPE | Estimado; pendiente de resolución | ≈29.000 € | Destino prioritario previsto: precio del inmueble |
+| Fondos propios | Declarados por el promotor; evidencia a incorporar | 19.000 € | Aportación propia al proyecto |
+| Financiación bancaria concedida | No contemplada | 0 € | No se incorpora financiación bancaria al escenario |
+| Otras ayudas concedidas | No contempladas | 0 € | No se incorporan al escenario |
+| **Total de fuentes previstas** | Escenario de referencia | **≈48.000 €** | No equivale todavía a disponibilidad íntegramente acreditada |
 
 ## B. Aplicación de fondos
 
-| Concepto | Estado | Importe | Fuente/evidencia |
+| Concepto | Estado | Importe | Fuente o criterio |
 |---|---|---:|---|
-| Precio del local · presupuesto de referencia | `[ESTIMADO]` | 40.000,00 € | Cuatro ofertas anunciadas entre 32.900 y 45.000 € |
-| Fiscalidad de adquisición | `[PENDIENTE SEGÚN ACTIVO FINAL]` | Pendiente | Cálculo profesional/liquidación |
-| Notaría y Registro | `[PENDIENTE SEGÚN OPERACIÓN]` | Pendiente | Presupuesto/factura |
-| Intermediación, si existe | `[PENDIENTE]` | Pendiente | Condiciones de agencia |
-| Inspección y acondicionamiento | `[PENDIENTE]` | Pendiente | Informe y presupuesto |
-| Equipos informáticos | `[CONFIRMADO como documento / PENDIENTE de subsanación]` | 1.317,48 € | Documento comercial existente |
-| Mobiliario | `[CONFIRMADO como presupuesto]` | 477,56 € | Presupuesto existente |
-| Gestoría | `[CONFIRMADO como proforma]` | 943,80 € | Proforma existente |
-| Software, licencias y cloud | `[PENDIENTE]` | Pendiente | Sin proforma suficiente |
-| Suministros, seguro y puesta en marcha | `[PENDIENTE]` | Pendiente | Sin importes acreditados |
-| Fondo de maniobra | `[PENDIENTE]` | Pendiente | Tesorería revisada |
+| Precio del local · presupuesto de referencia | Estimación; no es precio contractual | 40.000,00 € | Cuatro ofertas anunciadas entre 32.900 y 45.000 € |
+| Fiscalidad de adquisición | Estimación sujeta al activo definitivo | 3.600,00 € | Escenario central del 9 %; rango territorial de planificación 2.800–4.000 € |
+| Notaría y Registro | Estimación sujeta a la operación | 700,00 € | Rango de planificación 500–900 € |
+| Intermediación | Escenario prudente con agencia | 1.452,00 € | 3 % más IVA sobre 40.000 €; compra directa: 0 € |
+| Inspección y acondicionamiento | Estimación inicial mínima | 1.500,00 € | Rango de planificación 1.000–2.000 €; sin reforma integral |
+| Equipos informáticos | Importe de documento comercial; actualización documental necesaria | 1.317,48 € | Documento comercial existente |
+| Mobiliario | Presupuesto disponible | 477,56 € | Presupuesto existente |
+| Gestoría | Proforma disponible | 943,80 € | Proforma existente |
 | **Subtotal de proformas/documentos conocidos** |  | **2.738,84 €** | Informática + mobiliario + gestoría |
-| **Total conocido del escenario de referencia** |  | **42.738,84 €** | 40.000 € + 2.738,84 €; faltan costes materiales |
+| **Total del escenario de referencia** |  | **49.990,84 €** | 40.000 € + 7.252 € + 2.738,84 € |
 
 ## C. Conciliación
 
-Con fuentes identificadas de aproximadamente 41.000 € y aplicaciones conocidas de 42.738,84 €, existe una **brecha mínima visible de 1.738,84 €**, más todos los costes pendientes de adquisición, acondicionamiento, puesta en marcha y circulante.
+- Fuentes previstas: aproximadamente **48.000 €**.
+- Aplicaciones del escenario de referencia: **49.990,84 €**.
+- Diferencia de planificación: **1.990,84 €** por encima de las fuentes previstas.
 
-**Estado:** `[PENDIENTE DE CUADRE FINAL]`.
+El escenario no se fuerza para cuadrar ni incorpora financiación adicional. Manteniendo fijos los demás importes, un precio del local de **38.009,16 €** equilibraría aritméticamente el cuadro. Si la fiscalidad se recalcula al 9 % sobre el precio reducido, el precio máximo aproximado sería **38.173,54 €**. Ambos valores son referencias de negociación, no ofertas ni precios contractuales.
 
-No se asigna dos veces el pago único: el escenario prevé destinar el importe finalmente concedido prioritariamente al precio del inmueble. Los fondos propios completarían el precio de referencia y cubrirían otros usos solo en la medida de su disponibilidad. La adquisición y el inicio requieren resolver la brecha y preservar caja suficiente.
+La horquilla de mercado ya contiene alternativas por debajo de esos umbrales. La selección deberá conciliar el precio negociado, la fiscalidad territorial, la existencia o no de comisión de intermediación y el acondicionamiento real.
 
-## D. Condiciones para cerrar el cuadro
+## D. Observaciones y condiciones
 
-- resolución y cuantía líquida del pago único;
-- acreditación de fondos propios;
-- inmueble definitivo, precio negociado y territorio;
-- fiscalidad y costes de formalización documentados;
-- inspección y acondicionamiento presupuestados;
-- proformas vigentes de los demás usos;
-- tesorería y fondo de maniobra revisados;
-- fuente adicional o ajuste documentado que elimine la brecha.
+- El pago único no se asigna dos veces: su destino prioritario previsto es el precio del inmueble.
+- Los 19.000 € de fondos propios son una aportación declarada cuya evidencia documental debe incorporarse.
+- Los costes asociados son estimaciones de planificación y se sustituirán por liquidaciones, minutas, facturas y presupuestos del activo definitivo.
+- No existe compra, reserva, arras, contrato de compraventa ni compromiso vinculante.
+- El inmueble definitivo podrá ser uno de los analizados u otro funcional y económicamente equivalente.
+- Las cuestiones abiertas se controlan en [PreguntasPendientes.md](PreguntasPendientes.md), documento interno previo.

@@ -5,7 +5,7 @@ Este índice enlaza los documentos originales sin copiarlos. Las notas simples p
 ## Águilas
 
 - [Ficha comercial ref. 00286](../locales/Aguilas%20Ficha.pdf).
-- **Estado:** `[CONFIRMADO como ficha comercial / PENDIENTE]` vigencia, nota simple, Catastro, inspección y compatibilidad.
+- **Estado:** ficha comercial disponible; deben verificarse vigencia, nota simple, Catastro, inspección y compatibilidad.
 - **Uso en el expediente:** oferta inmobiliaria y evidencia de mercado; no factura proforma ni compromiso.
 
 ## Castellón
@@ -13,20 +13,20 @@ Este índice enlaza los documentos originales sin copiarlos. Las notas simples p
 - [Ficha comercial ref. L040](../locales/Castellon%20ficha.pdf).
 - [Nota simple](../locales/Castellon%20NOTA%20SIMPLE.pdf).
 - [Certificación catastral](../locales/castellon%20catastro.pdf).
-- **Estado:** `[CONFIRMADO como documentación de contraste / PENDIENTE]` correspondencia entre finca, dirección, superficie, uso y oferta.
+- **Estado:** documentación de contraste disponible; debe comprobarse la correspondencia entre finca, dirección, superficie, uso y oferta.
 - **Uso en el expediente:** estudio previo jurídico-descriptivo; no acredita selección ni adquisición.
 
 ## San Fernando
 
 - [Ficha comercial](../locales/San%20Fernando%20ficha.pdf).
-- **Estado:** `[CONFIRMADO como ficha comercial / PENDIENTE]` identificación completa, vigencia, Registro, Catastro, inspección y compatibilidad.
+- **Estado:** ficha comercial disponible; deben verificarse identificación completa, vigencia, Registro, Catastro, inspección y compatibilidad.
 - **Uso en el expediente:** oferta inmobiliaria y evidencia de mercado; no factura proforma ni compromiso.
 
 ## Talavera de la Reina
 
 - [Ficha comercial](../locales/Talavera%20ficha.pdf).
 - [Nota simple](../locales/Talavera%20nota%20simple.pdf).
-- **Estado:** `[CONFIRMADO como documentación de contraste / PENDIENTE]` vigencia y reconciliación entre superficie anunciada y registral, además de revisión técnica y urbanística.
+- **Estado:** documentación de contraste disponible; deben verificarse vigencia, superficie anunciada y registral y revisión técnica y urbanística.
 - **Uso en el expediente:** oferta y diligencia registral preliminar; no acredita selección ni adquisición.
 
 ## Documentos requeridos para el activo definitivo

@@ -10,7 +10,7 @@ Esta carpeta organiza una versión textual, trazable y ordenada del expediente d
 - **Inversión y financiación:** [`financial-model/PLAN_INVERSION.md`](../financial-model/PLAN_INVERSION.md).
 - **Reglas y fuentes oficiales:** [`legal/REQUISITOS_SEPE.md`](../legal/REQUISITOS_SEPE.md) y [`research/FUENTES_OFICIALES.md`](../research/FUENTES_OFICIALES.md).
 
-Los documentos numerados de esta carpeta son derivados de esas fuentes y sirven como secuencia de preparación, revisión e impresión futura. Si aparece una diferencia, prevalecen las fuentes canónicas y los registros de estado, hipótesis, decisiones y preguntas abiertas.
+Los documentos numerados de esta carpeta son derivados de esas fuentes y sirven como secuencia de preparación, revisión e impresión futura. Las cuestiones que requieren una decisión o evidencia posterior se concentran en [PreguntasPendientes.md](PreguntasPendientes.md), documento interno que no forma parte necesariamente del paquete presentado.
 
 ## Evidencias originales
 
@@ -18,10 +18,10 @@ Los PDF inmobiliarios permanecen en [`locales/`](../locales/) y las proformas/pr
 
 ## Estado de lectura
 
-- `[CONFIRMADO como evidencia documental]`: existen cuatro fichas comerciales, dos notas simples y una certificación catastral vinculadas al estudio previo.
-- `[CONFIRMADO por declaración / PENDIENTE de acreditación]`: fondos propios declarados de 12.000 €.
-- `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]`: pago único aproximado de 29.000 €.
-- `[ESTIMADO]`: presupuesto de referencia de 40.000 € para el precio del inmueble, dentro de una horquilla anunciada de 32.900–45.000 €.
-- `[PENDIENTE]`: inmueble definitivo, vigencia de ofertas, coste total de adquisición, resolución SEPE, acreditación de fondos, fiscalidad, formalización, acondicionamiento, software/licencias y cuadro final completo.
+- Existen cuatro fichas comerciales, dos notas simples y una certificación catastral vinculadas al estudio previo.
+- Los fondos propios declarados por el promotor ascienden a **19.000 €**; la evidencia documental se incorporará al expediente.
+- El pago único previsto asciende aproximadamente a **29.000 €**; es una estimación sujeta a la resolución del SEPE.
+- Las fuentes previstas del escenario de referencia ascienden aproximadamente a **48.000 €**; esta cifra no equivale todavía a disponibilidad íntegramente acreditada.
+- El presupuesto de referencia para el precio del inmueble es **40.000 €**, dentro de una horquilla anunciada de **32.900–45.000 €**.
 
-No existe local comprado, reservado o seleccionado contractualmente; tampoco arras, contrato de compraventa o compromiso vinculante. El expediente no debe marcarse como listo para presentar hasta resolver los controles del [índice](00_INDICE_EXPEDIENTE_SEPE.md) y de [`evidence/DOCUMENTOS_REQUERIDOS.md`](../evidence/DOCUMENTOS_REQUERIDOS.md).
+No existe local comprado, reservado o seleccionado contractualmente; tampoco arras, contrato de compraventa o compromiso vinculante. Los controles previos a la versión definitiva figuran en el [índice](00_INDICE_EXPEDIENTE_SEPE.md) y en el documento interno [PreguntasPendientes.md](PreguntasPendientes.md).

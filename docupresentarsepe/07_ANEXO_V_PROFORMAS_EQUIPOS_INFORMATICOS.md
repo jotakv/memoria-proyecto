@@ -3,8 +3,8 @@
 ## Documento existente
 
 - [Documento comercial de material informático](../proformas/Proforma%20material%20informatico%20Order%20-%2041385515.pdf).
-- **Importe:** 1.317,48 € `[CONFIRMADO como importe del documento]`.
-- **Estado:** `[PENDIENTE de subsanación documental]`.
+- **Importe documentado:** 1.317,48 €.
+- **Estado:** documento comercial disponible; debe sustituirse por una proforma vigente e inequívoca antes de presentar.
 
 El archivo tiene apariencia de pedido e incluye fecha de entrega anterior a la fecha prevista de solicitud. Según los registros del proyecto, la operación no ha sido encargada, recibida ni pagada. Antes de presentar debe sustituirse por una proforma inequívoca que indique pendiente de aceptación, pedido, pago y entrega.
 
