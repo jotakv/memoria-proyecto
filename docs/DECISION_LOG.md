@@ -1,6 +1,6 @@
 # Registro de decisiones
 
-**Última actualización:** 2026-08-29
+**Última actualización:** 2026-08-31
 
 ## DEC-A01 · Identidad y posicionamiento
 
@@ -89,3 +89,11 @@
 - **Estado:** APROBADA COMO DECISIÓN EMPRESARIAL VIGENTE; inmueble, coste total, financiación y admisibilidad SEPE pendientes.
 - **Trazabilidad:** sustituye para el futuro DEC-A02, DEC-A09 y DEC-A11 solo en sus referencias a ausencia de local; las decisiones anteriores se conservan como histórico.
 - **Fuente:** mandato expreso del promotor de 29/08/2026.
+
+## DEC-A13 · Selección abierta y presupuesto inmobiliario de referencia
+
+- **Fecha:** 2026-08-31.
+- **Decisión:** mantener abierta la selección del local y tratar los 40.000 € de la ficha ref. 00286 como presupuesto de referencia sujeto a diligencia previa y negociación, no como compra o precio comprometidos. El inmueble definitivo podrá ser este u otro equivalente.
+- **Motivo:** separar la necesidad operativa y el dimensionamiento de mercado de cualquier compromiso contractual, y distinguir precio de compra, coste total de adquisición y coste total del proyecto.
+- **Estado:** APROBADA COMO CRITERIO DOCUMENTAL; alternativas comparables, selección, financiación completa y admisibilidad SEPE pendientes.
+- **Fuente:** mandato expreso del promotor de 31/08/2026.

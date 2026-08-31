@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-08-31 · Selección abierta del local y metodología inmobiliaria
+
+- Se amplía incrementalmente la memoria canónica con metodología de selección, comparativa preliminar y cautela expresa sobre inexistencia de compra, reserva, arras o compromiso.
+- Se armonizan plan de empresa, adaptación SEPE y plan de inversión: 40.000 € es presupuesto de referencia; precio, coste total de adquisición y coste total del proyecto quedan diferenciados.
+- Se registra que solo existe una ficha inmobiliaria en el repositorio y que la pluralidad de alternativas y horquilla requieren evidencia real adicional.
+- Se amplía el índice de anexos y se registran nuevos pendientes y la decisión DEC-A13, sin alterar cifras ni eliminar el contenido previo.
+
 ## 2026-08-29 · Incorporación conservadora de sede profesional
 
 ### Ampliado

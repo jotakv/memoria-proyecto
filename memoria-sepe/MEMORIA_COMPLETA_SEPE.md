@@ -40,6 +40,10 @@ Se contempla comprar por horizonte largo, estabilidad y capacidad de adaptación
 
 La ficha comercial ref. 00286 describe un candidato en el centro de Águilas: precio ofertado 40.000 €, 60 m² construidos anunciados, un baño y antigüedad indicada de 1960. No es proforma y no acredita reserva, arras, compraventa, derecho, precio pactado, compromiso ni adquisición. Superficie, titularidad, cargas, estado, instalaciones, compatibilidad, título habilitante y coste total están `[PENDIENTE]`.
 
+La búsqueda no está cerrada y la selección definitiva podrá recaer en ese candidato o en otro inmueble equivalente, después de comprobar precio y negociación, superficie, ubicación, disponibilidad, adecuación, estado físico, situación registral y urbanística, costes asociados, acondicionamiento y viabilidad global. Los 40.000 € son un presupuesto de referencia, no un precio contractual. El repositorio solo contiene hoy una ficha inmobiliaria, por lo que no se afirma una horquilla ni varias alternativas ya acreditadas: deberán añadirse fichas reales comparables. Cualquier anuncio, ficha, nota simple, Catastro o informe se utilizará como soporte del estudio y de la diligencia previa, no como compromiso de compra.
+
+Se distingue el precio de compra del coste total de adquisición, que incorporará los impuestos, notaría, Registro, intermediación y demás gastos que efectivamente correspondan. Estos importes dependen del inmueble y territorio definitivos y permanecen `[PENDIENTE]`. Si la operación futura llega a ejecutarse, se conservarán escritura, justificantes bancarios, liquidaciones y demás documentación efectiva que corresponda, sin presuponer aquí su suficiencia administrativa.
+
 ## Operaciones no ejecutadas y financiación
 
 A fecha de elaboración de la memoria, el promotor no ha adquirido, reservado ni pagado el local; tampoco ha firmado arras, contrato de compraventa o compromiso vinculante. Las restantes partidas se apoyan únicamente en presupuestos, fichas comerciales o facturas proforma. No se ha adquirido, encargado, recibido ni pagado ningún equipo, mobiliario o servicio incluido en el plan de inversión.
