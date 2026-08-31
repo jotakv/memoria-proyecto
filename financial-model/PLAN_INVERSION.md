@@ -9,6 +9,8 @@ A fecha de elaboración de la memoria, el promotor no ha adquirido, reservado ni
 
 La ficha comercial de inmueble candidato, referencia 00286, sitúa el local en el centro de Águilas y anuncia un **precio ofertado** de 40.000 €, 60 m² construidos, un baño y antigüedad de 1960. No es proforma ni acredita reserva, arras, compraventa, derecho de adquisición, precio pactado, compromiso del vendedor o compra. La superficie y el estado se verificarán documental y técnicamente; cualquier referencia a 41 m² u otra cifra constituye una discrepancia pendiente.
 
+El candidato no está seleccionado contractualmente. Podrá adquirirse este u otro inmueble equivalente después de comparar precio, superficie, ubicación, disponibilidad, adecuación, estado físico, situación registral y urbanística, costes asociados, acondicionamiento, negociación y viabilidad global. En el repositorio solo consta actualmente esta ficha; otras alternativas y la horquilla de mercado permanecen `[PENDIENTE]` de evidencia, como detalla la sección 14.3 de la memoria canónica.
+
 ## Usos previstos ampliados
 
 | ID | Partida | Importe total provisional | Documento | Estado / fuente prevista |
@@ -28,7 +30,7 @@ La ficha comercial de inmueble candidato, referencia 00286, sitúa el local en e
 |  | **Subtotal proformas INV-06 a INV-08** | **2.738,84 €** |  | No financiado con el pago único reservado al precio |
 |  | **Coste total del proyecto de inversión** | **Más de 42.738,84 €** |  | Mínimo aritmético conocido; faltan INV-01 a 05 y 09 a 11 |
 
-Los 40.000 € representan únicamente el precio ofertado, no el coste total de adquisición ni puesta en marcha.
+Los 40.000 € representan un **presupuesto de referencia** basado únicamente en el precio ofertado, sujeto a selección y negociación; no son precio contractual. El **coste total de adquisición** sumará al precio definitivo los impuestos, notaría, Registro, intermediación y otros gastos que correspondan. Su cuantía depende del inmueble y territorio finalmente elegidos y permanece `[PENDIENTE]`; tampoco equivale al coste total de puesta en marcha.
 
 ## Financiación prevista del precio ofertado
 

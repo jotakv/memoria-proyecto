@@ -246,9 +246,31 @@ La adquisición no se presume superior al alquiler. Antes de comprometerla se co
 
 El candidato se documenta solo mediante una **ficha comercial de inmueble candidato** (ref. 00286): centro de Águilas, precio ofertado 40.000 €, 60 m² construidos anunciados, un baño y antigüedad indicada de 1960. No existe reserva, arras, contrato, derecho de adquisición, precio pactado, compromiso del vendedor o compra. Superficie, titularidad y estado quedan `[PENDIENTE]` de Catastro, nota simple, plano, escritura, documentación del vendedor, medición e inspección técnica; cualquier referencia a 41 m² u otra superficie se tratará como discrepancia, sin selección arbitraria.
 
+### 14.2 Adquisición del local comercial y metodología de selección
+
+A fecha de esta memoria no hay ningún local comprado ni se ha formalizado reserva, arras, contrato de compraventa u otro compromiso vinculante. El promotor se encuentra en una fase previa de búsqueda, comparación y comprobación de activos. La ficha ref. 00286 es una **oferta / ficha comercial / evidencia de mercado utilizada para la estimación previa de inversión**: sirve para dimensionar un presupuesto de referencia, pero no identifica una compra decidida ni constituye factura proforma.
+
+La selección definitiva será posterior y podrá recaer en el candidato documentado o en otro inmueble funcional y económicamente equivalente. Se comprobarán, como mínimo, precio y negociación final, superficie, ubicación, disponibilidad, adecuación a la actividad, estado físico, situación registral y urbanística, costes de adquisición y eventual acondicionamiento, y viabilidad económica global. La ausencia actual de nota simple, Catastro, informe técnico u otras fichas comparables se mantiene `[PENDIENTE]`; por ello, esta versión no afirma que ya existan varias alternativas documentadas ni una horquilla de mercado acreditada.
+
+El orden de decisión es **necesidad operativa → requisitos del espacio → contraste de mercado y diligencia previa → inversión empresarial → financiación**. El precio de 40.000 € se utiliza solo como presupuesto de planificación sujeto a selección y negociación definitiva. Los aproximadamente 29.000 € del pago único `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` se destinarían prioritariamente a financiar parcialmente el precio del inmueble afecto, y los fondos propios declarados cubrirían la parte restante del precio conforme al cuadro de la sección 15. Esta previsión no implica aprobación previa del SEPE ni elimina la brecha de financiación ya identificada.
+
+Tras una eventual adquisición se conservará la documentación efectiva de la operación —como escritura, justificante bancario, liquidación de impuestos y demás documentos que correspondan— para acreditar su ejecución, sin anticipar en esta memoria requisitos que dependerán del inmueble, territorio y criterio aplicables.
+
+### 14.3 Estudio preliminar de mercado inmobiliario
+
+La comparativa se ampliará únicamente con evidencia real incorporada al expediente. A día de hoy el repositorio permite registrar una sola oferta; no se añaden precios, direcciones o referencias ficticias para construir artificialmente una horquilla.
+
+| Alternativa documentada | Precio anunciado | Superficie anunciada | Ubicación | Estado documental | Fuente / documento | Observaciones |
+|---|---:|---:|---|---|---|---|
+| Candidato ref. 00286 | 40.000 € | 60 m² construidos | Centro de Águilas | `[PENDIENTE]` contraste jurídico, técnico y urbanístico | Ficha comercial ref. 00286 | Oferta no vinculante; no reservada; discrepancia con cualquier referencia a 41 m² pendiente de resolver |
+
+Para sostener disponibilidad de oferta, horquilla de precios y proporcionalidad del presupuesto deberán incorporarse `[PENDIENTE]` otras fichas reales comparables, con fecha y fuente trazable. Los anuncios, fichas comerciales, notas simples, información catastral, informes técnicos o comparativas que se incorporen serán soporte del estudio previo y no compromisos de compra.
+
 ## 15. Inversión prevista
 
 El detalle conciliado se mantiene en `financial-model/PLAN_INVERSION.md`. El inmueble tiene un precio **ofertado**, no definitivo, de 40.000 €; no representa el coste total. Se prevé aplicar al precio aproximadamente 29.000 € de pago único `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` y aproximadamente 11.000 € de los 12.000 € propios declarados `[PENDIENTE de acreditación]`. El remanente provisional aproximado de 1.000 € no cubre por sí solo las proformas ni los costes accesorios.
+
+Como aclaración de planificación, los 40.000 € son un **presupuesto de referencia** basado en el precio ofertado del candidato documentado, no un precio contractual; el inmueble seleccionado podría ser este u otro equivalente y el importe queda sujeto a selección y negociación. La cifra representa solo el precio de compra: el **coste total de adquisición** añadirá los impuestos, notaría, Registro, intermediación y otros gastos que efectivamente correspondan, todavía `[PENDIENTE]` de inmueble y territorio definitivos.
 
 | Bloque | Importe | Estado y evidencia |
 |---|---:|---|

@@ -1,6 +1,6 @@
 # Preguntas y datos pendientes
 
-**Última actualización:** 2026-08-29
+**Última actualización:** 2026-08-31
 
 > Una respuesta no debe convertirse en hecho sin evidencia o declaración expresa del promotor. Al resolver un punto, actualizar también `ASSUMPTIONS.md`, `DECISION_LOG.md`, `STATUS.md` y los documentos afectados.
 
@@ -66,3 +66,5 @@
 39. [PENDIENTE] ¿Qué comparación documentada de compra y alquiler acredita coste total, alternativas disponibles, horizonte, adaptación, liquidez y proporcionalidad?
 40. [PENDIENTE] ¿Puede el proveedor sustituir el documento informático con apariencia de pedido y entrega anterior al 02/09/2026 por una proforma que diga pendiente de aceptación, pedido y pago, y sin entrega realizada?
 41. [PENDIENTE] ¿Qué caja queda para adquisición, acondicionamiento, proformas, actividad corriente y primeros meses tras una retirada personal de 800 €/mes?
+42. [PENDIENTE] ¿Qué otras fichas comerciales reales, fechadas y trazables se incorporarán para acreditar varias alternativas y una horquilla de mercado sin convertirlas en compromisos de compra?
+43. [PENDIENTE] ¿Qué presupuesto máximo aprobará el promotor para el precio y para el coste total de adquisición tras comparar inmuebles, negociación, tributos, formalización y acondicionamiento?

@@ -229,6 +229,12 @@ La sede se vincula exclusivamente a Allsetic: puesto técnico permanente; instal
 
 La compra se estudia por estabilidad y horizonte largo, incluida la posibilidad de acondicionar técnicamente el espacio. No se afirma que sea mejor que alquilar: se documentarán alternativas, rentas, coste total de compra, obras, liquidez, proporcionalidad y concentración de capital. La decisión final queda condicionada a inspección, compatibilidad urbanística, financiación suficiente y comparación documentada. La ficha comercial ref. 00286 solo acredita oferta de 40.000 €, 60 m² construidos anunciados, un baño y antigüedad indicada de 1960; no acredita operación ni estado, y cualquier superficie distinta queda pendiente de contraste.
 
+#### 25.1.1 Selección del inmueble y contraste de mercado
+
+No existe local comprado, reserva, arras, contrato de compraventa ni compromiso vinculante. La búsqueda permanece abierta: el inmueble definitivo podrá ser el candidato ref. 00286 u otro equivalente que satisfaga los requisitos operativos. La selección comparará precio, superficie, ubicación, disponibilidad, adecuación, estado físico, situación registral y urbanística, coste total de adquisición y acondicionamiento, negociación y viabilidad global antes de asumir cualquier compromiso.
+
+La única evidencia inmobiliaria identificada hoy en el repositorio es la ficha ref. 00286. Su precio anunciado de 40.000 € funciona como presupuesto de referencia sujeto a negociación, no como precio cerrado. No existe todavía evidencia suficiente para afirmar una horquilla basada en varias alternativas; las fichas adicionales, notas simples, Catastro o informes que se obtengan se tratarán como evidencia de mercado y diligencia previa, nunca como facturas proforma o compromisos de compra. La comparativa trazable se mantiene en la sección 14.3 de la memoria canónica.
+
 ## 26. Metodología de prestación
 
 1. **Diagnóstico:** mapa actual, frecuencia, coste/riesgo y línea base.
@@ -276,9 +282,13 @@ SEPE: importe y modalidad son `[PENDIENTE]`. La solicitud debe seguir la fuente 
 
 Se amplía HYP-A09 sin eliminar el escenario histórico: inmueble 40.000 € de **precio ofertado**; impuestos, notaría, Registro, intermediación, inspección/acondicionamiento, licencias, seguro, suministros, puesta en marcha y fondo de maniobra `[PENDIENTE]`; mobiliario 477,56 €, equipo informático 1.317,48 € y gestoría 943,80 € según proformas/documento comercial (total 2.738,84 €). Ninguna operación está ejecutada. El documento informático con apariencia de pedido y entrega anterior al 02/09/2026 debe corregirse antes de presentarse.
 
+Los 40.000 € se conservan como **presupuesto de referencia del precio de compra**, no como inmueble o precio comprometidos. El **coste total de adquisición** será la suma del precio finalmente negociado y los impuestos, notaría, Registro, intermediación y demás gastos que resulten aplicables; no se cuantifican hasta conocer activo y territorio definitivos. Las restantes partidas de puesta en marcha continúan separadas y conectadas con el cuadro global de `financial-model/PLAN_INVERSION.md`.
+
 ## 35. Plan de financiación
 
 Se prevé destinar el 100 % del pago único finalmente concedido al precio del local: aproximadamente 29.000 € `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]`. Los fondos propios declarados son 12.000 € `[PENDIENTE de acreditación]`; aproximadamente 11.000 € completarían solo el precio y dejarían ≈1.000 € `[ESTIMADO]`. No hay préstamo ni ayudas concedidas.
+
+Así, las **fuentes de financiación** (pago único y fondos propios) no se confunden con sus **aplicaciones** (precio del inmueble, costes de adquisición y restantes inversiones). El pago único se aplicaría prioritariamente a financiar parcialmente el precio; esta previsión no equivale a admisibilidad o aprobación previa por el SEPE. Los fondos propios completarían el precio de referencia en el escenario actual, pero no acreditan todavía cobertura del coste total del proyecto.
 
 **BRECHA DE FINANCIACIÓN PENDIENTE:** el remanente no cubre las proformas de 2.738,84 € (déficit mínimo visible 1.738,84 €) ni costes accesorios aún desconocidos. El pago único no vuelve a asignarse a esas partidas. La adquisición y el inicio quedan condicionados a resolución, fondos y preservación de caja.
 

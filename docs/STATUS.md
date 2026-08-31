@@ -1,6 +1,6 @@
 # Estado del proyecto
 
-**Última actualización:** 2026-08-29
+**Última actualización:** 2026-08-31
 **Proyecto:** Allsetic AI Automation Studio
 **Rama de trabajo:** `feat/plan-empresa-allsetic`
 
@@ -20,6 +20,8 @@ La memoria canónica y la aplicación permanecen como fuente pública. `plan-emp
 - `[HIPÓTESIS]` Modelo con 12.000 € de inversión/fondo, ventas base de 63.000/88.200/113.400 €, costes, caja y escenarios HYP-A08–A17.
 - `[CONFIRMADO]` Las cifras son supuestos, no ventas, contratos, financiación ni resultados obtenidos.
 - `[PENDIENTE]` Aprobación del promotor, presupuestos, financiación acreditada, fiscalidad, capacidad y validación comercial.
+- `[CONFIRMADO como situación documental]` No existe local comprado, reserva, arras, compraventa ni compromiso vinculante; la ficha ref. 00286 sustenta un presupuesto de referencia, no una selección contractual.
+- `[PENDIENTE]` Solo consta una alternativa inmobiliaria documentada. Faltan comparables reales para acreditar pluralidad de oferta y horquilla de mercado, además de diligencia jurídica, urbanística y técnica del activo que finalmente se seleccione.
 
 ## Bloqueadores antes de presentar
 
