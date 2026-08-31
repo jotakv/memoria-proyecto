@@ -62,5 +62,6 @@
 - `HYP-A21`: proformas por 2.738,84 €; informática pendiente de subsanación documental.
 - `HYP-A22`: costes recurrentes del local y tratamiento fiscal/amortización `[PENDIENTE]`.
 - `HYP-A23`: 800 €/mes de retirada personal, únicamente salida de tesorería.
+- `HYP-A24`: cuatro fichas comerciales documentan precios anunciados de 32.900 €, 39.000 €, 40.000 € y 45.000 €; la horquilla es evidencia preliminar de mercado, con vigencia, comparabilidad territorial y aptitud `[PENDIENTE]`.
 
-Pendientes críticos: superficie y estado; Catastro/nota simple/escritura/plano/medición; compatibilidad y título habilitante; ITP, notaría, Registro, agencia, IBI, comunidad, seguro y suministros; comparación compra/alquiler; domicilio Madrid/Águilas; fecha de adquisición; financiación de la brecha.
+Pendientes críticos: vigencia y comparabilidad de las ofertas; reconciliación de dirección, superficie y uso en Castellón y de superficies en Talavera; superficie y estado del activo definitivo; Catastro/nota simple/escritura/plano/medición; compatibilidad y título habilitante; ITP, notaría, Registro, agencia, IBI, comunidad, seguro y suministros; comparación compra/alquiler; domicilio profesional definitivo; fecha de adquisición; financiación de la brecha.

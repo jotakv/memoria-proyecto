@@ -25,7 +25,7 @@ test('ofertas, plazos y precios están marcados como hipótesis', () => {
 test('la inversión del local separa datos, pendientes y brecha', () => {
   const section = canonical.match(/## 15\. Inversión prevista([\s\S]*?)## 16\./)?.[1] ?? '';
   assert.ok(section);
-  assert.match(section, /precio \*\*ofertado\*\*, no definitivo, de 40\.000 €/i);
+  assert.match(section, /40\.000 € como \*\*presupuesto de referencia\*\*, no como precio definitivo/i);
   assert.match(section, /\*\*Subtotal proformas\*\*[\s\S]*\*\*2\.738,84 €\*\*/);
   assert.match(section, /BRECHA DE FINANCIACIÓN PENDIENTE/);
   assert.match(section, /no ha adquirido, reservado ni pagado el local/i);

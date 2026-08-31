@@ -1,10 +1,19 @@
 # Changelog
 
+## 2026-08-31 · Expediente textual SEPE y comparativa de locales
+
+- Se crea `docupresentarsepe/` con memoria derivada, plan ampliado y nueve anexos textuales ordenados para preparación del expediente.
+- Se incorporan al estudio cuatro ofertas reales: Águilas, Castellón, San Fernando y Talavera de la Reina, anunciadas entre 32.900 € y 45.000 €.
+- Se registran como soporte de mercado dos notas simples y una certificación catastral, sin tratarlas como compromisos de compra ni diligencia definitiva.
+- Se mantiene el presupuesto de referencia de 40.000 €, el pago único aproximado de 29.000 €, los fondos propios declarados de 12.000 € y las proformas conocidas de 2.738,84 €; la brecha mínima de 1.738,84 € queda marcada `[PENDIENTE DE CUADRE FINAL]`.
+- Se armonizan memoria canónica, memoria SEPE, plan, modelos financieros, evidencia, estado, preguntas, hipótesis y decisiones.
+- No se añade ni modifica ningún PDF u otro binario; los documentos originales se enlazan desde el dossier.
+
 ## 2026-08-31 · Selección abierta del local y metodología inmobiliaria
 
 - Se amplía incrementalmente la memoria canónica con metodología de selección, comparativa preliminar y cautela expresa sobre inexistencia de compra, reserva, arras o compromiso.
 - Se armonizan plan de empresa, adaptación SEPE y plan de inversión: 40.000 € es presupuesto de referencia; precio, coste total de adquisición y coste total del proyecto quedan diferenciados.
-- Se registra que solo existe una ficha inmobiliaria en el repositorio y que la pluralidad de alternativas y horquilla requieren evidencia real adicional.
+- En esa iteración previa se registró que solo existía una ficha inmobiliaria; la iteración posterior de esta misma fecha incorpora las nuevas evidencias y sustituye ese estado documental sin borrar el histórico.
 - Se amplía el índice de anexos y se registran nuevos pendientes y la decisión DEC-A13, sin alterar cifras ni eliminar el contenido previo.
 
 ## 2026-08-29 · Incorporación conservadora de sede profesional

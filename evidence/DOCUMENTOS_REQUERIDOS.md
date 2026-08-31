@@ -23,6 +23,9 @@
 - [PENDIENTE] Acreditación de fondos propios y otras fuentes.
 - [PENDIENTE] Conciliación de fuentes y usos.
 - [PENDIENTE] Plan de medios de pago trazables.
+- [CONFIRMADO como evidencia de mercado] Cuatro fichas comerciales de locales, dos notas simples y una certificación catastral, indexadas en `docupresentarsepe/05_ANEXO_III_FICHAS_LOCALES_ANALIZADOS.md`.
+- [PENDIENTE] Vigencia y comparabilidad territorial de las ofertas; documentación jurídica, urbanística y técnica completa del inmueble definitivo.
+- [PENDIENTE DE CUADRE FINAL] Brecha mínima visible de 1.738,84 €, más costes todavía sin cuantificar.
 
 ## Viabilidad
 

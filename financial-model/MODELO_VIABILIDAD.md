@@ -37,4 +37,4 @@ No se incluyen previsiones numéricas porque faltan capacidad, costes, fiscalida
 
 No se calculará ni publicará facturación, rentabilidad o empleo hasta que las entradas tengan fuente y aceptación expresa. Los rangos de precio de la memoria no bastan para demostrar viabilidad.
 
-El modelo anterior sin local no permite afirmar liquidez. Con aproximadamente 41.000 € de fuentes identificadas frente a 40.000 € de precio ofertado, las proformas de 2.738,84 € y costes accesorios pendientes generan **BRECHA DE FINANCIACIÓN PENDIENTE**. Deben recalcularse amortización, punto de equilibrio y caja antes de adquirir.
+El modelo anterior sin local no permite afirmar liquidez. Con aproximadamente 41.000 € de fuentes identificadas frente al presupuesto de referencia de 40.000 € para el precio, las proformas de 2.738,84 € y costes accesorios pendientes generan **BRECHA DE FINANCIACIÓN PENDIENTE**. Deben recalcularse amortización, punto de equilibrio y caja antes de adquirir.
