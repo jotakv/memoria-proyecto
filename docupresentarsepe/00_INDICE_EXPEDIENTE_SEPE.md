@@ -1,6 +1,6 @@
 # 00 · Índice del expediente SEPE
 
-**Estado general:** `[PENDIENTE]` de resolución, conciliación financiera, documentación definitiva y revisión previa a presentación.
+**Estado general:** expediente concretado para revisión previa; la resolución del SEPE, la acreditación de fondos y la operación inmobiliaria definitiva se incorporarán cuando existan.
 
 ## Orden de lectura y presentación
 
@@ -13,8 +13,9 @@
 7. [Anexo V · Equipos informáticos](07_ANEXO_V_PROFORMAS_EQUIPOS_INFORMATICOS.md).
 8. [Anexo VI · Mobiliario](08_ANEXO_VI_PROFORMAS_MOBILIARIO.md).
 9. [Anexo VII · Gestoría](09_ANEXO_VII_PRESUPUESTO_GESTORIA.md).
-10. [Anexo VIII · Software, licencias y gastos](10_ANEXO_VIII_SOFTWARE_LICENCIAS_GASTOS.md).
-11. [Anexo IX · Cuadro de inversión y financiación](11_ANEXO_IX_CUADRO_INVERSION_FINANCIACION.md).
+10. [Anexo IX · Cuadro de inversión y financiación](11_ANEXO_IX_CUADRO_INVERSION_FINANCIACION.md).
+
+El archivo [PreguntasPendientes.md](PreguntasPendientes.md) es un control interno previo y no un anexo administrativo del paquete.
 
 ## Evidencias externas al dossier
 
@@ -31,7 +32,7 @@
 - [ ] Importe solicitado y fondos propios acreditados.
 - [ ] Inmueble definitivo seleccionado después de las comprobaciones previstas.
 - [ ] Precio negociado y coste total de adquisición documentados.
-- [ ] Fuentes y usos conciliados sin brecha oculta.
+- [ ] Costes asociados sustituidos por presupuestos o liquidaciones del activo definitivo.
 - [ ] Presupuestos identificables y documentación a nombre correcto.
 - [ ] Medios de pago y archivo justificativo preparados.
 - [ ] Formulario oficial vigente, firmas y declaraciones completados.

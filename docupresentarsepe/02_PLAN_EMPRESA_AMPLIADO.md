@@ -4,9 +4,9 @@ Este documento es una capa de presentación derivada del [plan de empresa comple
 
 ## Proyecto y propuesta de valor
 
-Allsetic AI Automation Studio es un proyecto de autoempleo cualificado para ayudar a pymes B2B y organizaciones usuarias del ecosistema Microsoft a diagnosticar, automatizar e integrar procesos empresariales. La oferta comprende auditorías, sprints, implantaciones, desarrollos e integraciones y soporte recurrente. Precios, escenarios de venta y crecimiento permanecen `[HIPÓTESIS]` según el plan completo.
+Allsetic AI Automation Studio es un proyecto de autoempleo cualificado para ayudar a pymes B2B y organizaciones usuarias del ecosistema Microsoft a diagnosticar, automatizar e integrar procesos empresariales. La oferta comprende auditorías, sprints, implantaciones, desarrollos e integraciones y soporte recurrente. Los precios y escenarios comerciales se mantienen como proyecciones del plan completo, no como resultados garantizados.
 
-`[CONFIRMADO]` El promotor aporta experiencia técnica relacionada con la actividad. La forma inicial prevista es profesional autónomo sin empleados, con prestación principalmente remota y sede profesional propia.
+El promotor aporta experiencia técnica relacionada con la actividad. La forma inicial prevista es profesional autónomo sin empleados, con prestación principalmente remota y sede profesional propia.
 
 ## Organización operativa y sede
 
@@ -24,35 +24,36 @@ El orden empresarial de la decisión es:
 
 ## Mercado inmobiliario y selección abierta
 
-`[CONFIRMADO como evidencia documental]` El expediente contiene cuatro ofertas reales con precios anunciados entre 32.900 € y 45.000 €. Ninguna alternativa ha sido comprada, reservada o seleccionada contractualmente. No existen arras, contrato de compraventa ni compromiso vinculante.
+El expediente contiene cuatro ofertas reales con precios anunciados entre 32.900 € y 45.000 €. Ninguna alternativa ha sido comprada, reservada o seleccionada contractualmente. No existen arras, contrato de compraventa ni compromiso vinculante.
 
-`[ESTIMADO]` El plan conserva 40.000 € como presupuesto de referencia del precio. El inmueble definitivo podrá ser uno de los analizados u otro equivalente y quedará sujeto a vigencia, negociación y revisión funcional, jurídica, registral, urbanística, técnica y financiera.
+El plan conserva 40.000 € como presupuesto estimado de referencia. El inmueble definitivo podrá ser uno de los analizados u otro equivalente y quedará sujeto a vigencia, negociación y revisión funcional, jurídica, registral, urbanística, técnica y financiera.
 
 ## Plan de inversión
 
 El escenario vigente de presentación comprende:
 
-- precio de referencia del inmueble: 40.000 € `[ESTIMADO]`;
-- fiscalidad y formalización: `[PENDIENTE]`;
-- inspección y acondicionamiento: `[PENDIENTE]`;
-- mobiliario: 477,56 € `[CONFIRMADO como presupuesto comercial; operación no ejecutada]`;
-- informática: 1.317,48 € `[CONFIRMADO como documento comercial / PENDIENTE de subsanación]`;
-- gestoría: 943,80 € `[CONFIRMADO como proforma; no contratada ni pagada]`;
-- software, licencias, suministros, seguro y fondo de maniobra: `[PENDIENTE]`.
+- precio de referencia del inmueble: 40.000 €;
+- fiscalidad de planificación: 3.600 €;
+- notaría y Registro: 700 €;
+- intermediación en escenario prudente con agencia: 1.452 €;
+- inspección y acondicionamiento inicial mínimo: 1.500 €;
+- mobiliario: 477,56 €, según presupuesto comercial;
+- informática: 1.317,48 €, según documento comercial que debe actualizarse antes de presentar;
+- gestoría: 943,80 €, según proforma.
 
-El total conocido del escenario de referencia supera 42.738,84 €, porque todavía faltan costes materiales. Este escenario ampliado no debe sumarse en paralelo al escenario histórico HYP-A09 de 12.000 €.
+El total del escenario de referencia es **49.990,84 €**.
 
-## Fuentes de financiación y brecha
+## Fuentes de financiación y conciliación
 
-- Pago único: aproximadamente 29.000 € `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]`, destinado prioritariamente al precio.
-- Fondos propios: 12.000 € `[CONFIRMADO por declaración / PENDIENTE de acreditación]`.
-- Financiación bancaria concedida: 0 € `[CONFIRMADO por declaración]`.
-- Otras ayudas concedidas: 0 € `[CONFIRMADO por declaración]`.
+- Pago único: aproximadamente 29.000 €, estimado y pendiente de resolución, destinado prioritariamente al precio.
+- Fondos propios: 19.000 €, declarados por el promotor; evidencia documental a incorporar.
+- Financiación bancaria contemplada: 0 €.
+- Otras ayudas contempladas: 0 €.
 
-En el escenario de 40.000 €, aproximadamente 11.000 € propios completarían el precio y quedarían unos 1.000 €. Frente a las proformas conocidas existe una brecha mínima de 1.738,84 €, más todos los gastos no cuantificados. El plan no afirma cobertura financiera completa.
+Las fuentes previstas ascienden aproximadamente a 48.000 €. Frente a aplicaciones de 49.990,84 €, la diferencia de planificación es **1.990,84 €**. Manteniendo los demás costes en euros, un precio objetivo de **38.009,16 €** equilibraría aritméticamente el cuadro. Si se recalcula la fiscalidad al 9 % sobre el precio reducido, el umbral aproximado sería **38.173,54 €**. La selección y negociación deberán preservar esa viabilidad.
 
 ## Riesgos y condiciones de avance
 
-Los riesgos principales son admisibilidad administrativa no confirmada, concentración de recursos en inmovilizado, falta de liquidez, diferencias documentales entre anuncios y registros, acondicionamiento desconocido y falta de una ubicación profesional definitiva. La adquisición solo avanzará si se preserva la secuencia aplicable, existe financiación suficiente y el inmueble supera las comprobaciones descritas.
+Los riesgos principales son admisibilidad administrativa no confirmada, concentración de recursos en inmovilizado, diferencias documentales entre anuncios y registros, acondicionamiento desconocido y falta de una ubicación profesional definitiva. La adquisición solo avanzará si se preserva la secuencia aplicable, existe financiación suficiente y el inmueble supera las comprobaciones descritas.
 
 Los escenarios comerciales y de viabilidad permanecen en [`plan-empresa/MODELO_ECONOMICO_FINANCIERO.md`](../plan-empresa/MODELO_ECONOMICO_FINANCIERO.md) y no se presentan como resultados garantizados.

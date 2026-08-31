@@ -21,7 +21,7 @@ Estos usos proceden de la memoria canónica y son instrumentales a los servicios
 
 ## Adquisición frente a alquiler
 
-La compra se contempla por estabilidad a largo plazo y capacidad de adaptación técnica. `[PENDIENTE]` Debe completarse la comparación con alquiler atendiendo a coste total, rentas disponibles, obras, horizonte de uso, flexibilidad, liquidez, proporcionalidad y concentración de capital. No se afirma que comprar sea siempre superior.
+La compra se contempla por estabilidad a largo plazo y capacidad de adaptación técnica. La decisión definitiva se contrastará con la alternativa de alquiler atendiendo a coste total, rentas disponibles, obras, horizonte de uso, flexibilidad, liquidez, proporcionalidad y concentración de capital. No se afirma que comprar sea siempre superior.
 
 ## Afectación empresarial
 
