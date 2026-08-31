@@ -16,12 +16,13 @@ La memoria canónica y la aplicación permanecen como fuente pública. `plan-emp
 - `[CONFIRMADO]` Solicitud de prestación presentada el 26/08/2026; SMAC cerrado por acuerdo el 25/08/2026 y sin procedimiento judicial pendiente, según declaración del promotor.
 - `[PENDIENTE]` Solicitud de capitalización y memoria prevista el 02/09/2026; alta fiscal, RETA e inicio orientativos el 15/10/2026, condicionados al expediente.
 - `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` Pago único aproximado de 29.000 €, previsto íntegramente para el precio del local; fondos propios declarados 12.000 €, pendientes de acreditación.
-- `[PENDIENTE]` El precio ofertado de 40.000 € no incluye costes accesorios. Tras completar aproximadamente 11.000 € del precio con fondos propios quedaría un remanente provisional aproximado de 1.000 €, insuficiente para afirmar cobertura de proformas (2.738,84 €), tributos, formalización, acondicionamiento y circulante: **BRECHA DE FINANCIACIÓN PENDIENTE**.
+- `[PENDIENTE]` El presupuesto de referencia de 40.000 € para el precio no incluye costes accesorios. Tras completar aproximadamente 11.000 € del precio con fondos propios quedaría un remanente provisional aproximado de 1.000 €, insuficiente para afirmar cobertura de proformas (2.738,84 €), tributos, formalización, acondicionamiento y circulante: **BRECHA DE FINANCIACIÓN PENDIENTE**.
 - `[HIPÓTESIS]` Modelo con 12.000 € de inversión/fondo, ventas base de 63.000/88.200/113.400 €, costes, caja y escenarios HYP-A08–A17.
 - `[CONFIRMADO]` Las cifras son supuestos, no ventas, contratos, financiación ni resultados obtenidos.
 - `[PENDIENTE]` Aprobación del promotor, presupuestos, financiación acreditada, fiscalidad, capacidad y validación comercial.
-- `[CONFIRMADO como situación documental]` No existe local comprado, reserva, arras, compraventa ni compromiso vinculante; la ficha ref. 00286 sustenta un presupuesto de referencia, no una selección contractual.
-- `[PENDIENTE]` Solo consta una alternativa inmobiliaria documentada. Faltan comparables reales para acreditar pluralidad de oferta y horquilla de mercado, además de diligencia jurídica, urbanística y técnica del activo que finalmente se seleccione.
+- `[CONFIRMADO como situación documental]` No existe local comprado, reserva, arras, compraventa ni compromiso vinculante; ninguna de las alternativas analizadas constituye una selección contractual.
+- `[CONFIRMADO como evidencia de mercado / PENDIENTE de validación]` Constan cuatro fichas comerciales con precios anunciados entre 32.900 € y 45.000 €, dos notas simples y una certificación catastral. Acreditan pluralidad de oferta y razonabilidad inicial del presupuesto de 40.000 €, pero faltan vigencia, comparabilidad territorial y diligencia jurídica, urbanística y técnica completa del activo que finalmente se seleccione.
+- `[CONFIRMADO como organización documental]` Se crea `docupresentarsepe/` como dossier Markdown derivado y enlazado; no sustituye fuentes canónicas ni acredita que el expediente esté listo para registro.
 
 ## Bloqueadores antes de presentar
 

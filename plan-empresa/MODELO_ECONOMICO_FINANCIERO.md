@@ -30,7 +30,7 @@ El escenario HYP-A09 de 12.000 € se conserva como base histórica, pero queda 
 
 | Uso vigente | Importe | Estado |
 |---|---:|---|
-| Inmueble candidato | 40.000 € | precio ofertado; no adquirido ni reservado |
+| Presupuesto de referencia del inmueble | 40.000 € | dentro de ofertas documentadas de 32.900–45.000 €; ninguno adquirido, reservado ni seleccionado contractualmente |
 | Impuestos, notaría, Registro, agencia | Pendiente | `[PENDIENTE]` |
 | Inspección y acondicionamiento | Pendiente | `[PENDIENTE]` |
 | Mobiliario | 477,56 € | proforma; operación no ejecutada |
@@ -38,7 +38,7 @@ El escenario HYP-A09 de 12.000 € se conserva como base histórica, pero queda 
 | Gestoría | 943,80 € | proforma; operación no ejecutada |
 | Licencias, suministros, seguro y puesta en marcha | Pendiente | `[PENDIENTE]` |
 | Fondo de maniobra | Pendiente | `[PENDIENTE]` |
-| **Mínimo conocido** | **42.738,84 €** | faltan costes materiales |
+| **Total conocido del escenario de referencia** | **42.738,84 €** | presupuesto de local de 40.000 € más proformas; faltan costes materiales |
 
 | Fuente | Importe | Aplicación / estado |
 |---|---:|---|

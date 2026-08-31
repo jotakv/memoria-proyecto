@@ -97,3 +97,11 @@
 - **Motivo:** separar la necesidad operativa y el dimensionamiento de mercado de cualquier compromiso contractual, y distinguir precio de compra, coste total de adquisición y coste total del proyecto.
 - **Estado:** APROBADA COMO CRITERIO DOCUMENTAL; alternativas comparables, selección, financiación completa y admisibilidad SEPE pendientes.
 - **Fuente:** mandato expreso del promotor de 31/08/2026.
+
+## DEC-A14 · Comparativa inmobiliaria real y dossier de presentación
+
+- **Fecha:** 2026-08-31.
+- **Decisión:** incorporar al estudio las fichas de Águilas, Castellón, San Fernando y Talavera de la Reina, con precios anunciados entre 32.900 € y 45.000 €, mantener 40.000 € como presupuesto de referencia y crear `docupresentarsepe/` como expediente textual derivado y enlazado.
+- **Motivo:** acreditar pluralidad de oferta y razonabilidad económica, ordenar la futura presentación y evitar confundir anuncios, notas simples o Catastro con facturas proforma, compromisos o diligencia definitiva.
+- **Estado:** APROBADA COMO CRITERIO DOCUMENTAL; vigencia, comparabilidad territorial, correspondencia documental, selección, negociación, conciliación financiera y admisibilidad SEPE pendientes.
+- **Fuente:** mandato expreso del promotor de 31/08/2026 y documentación preexistente en `locales/` y `proformas/`.

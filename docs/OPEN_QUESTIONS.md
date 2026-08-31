@@ -66,5 +66,8 @@
 39. [PENDIENTE] ¿Qué comparación documentada de compra y alquiler acredita coste total, alternativas disponibles, horizonte, adaptación, liquidez y proporcionalidad?
 40. [PENDIENTE] ¿Puede el proveedor sustituir el documento informático con apariencia de pedido y entrega anterior al 02/09/2026 por una proforma que diga pendiente de aceptación, pedido y pago, y sin entrega realizada?
 41. [PENDIENTE] ¿Qué caja queda para adquisición, acondicionamiento, proformas, actividad corriente y primeros meses tras una retirada personal de 800 €/mes?
-42. [PENDIENTE] ¿Qué otras fichas comerciales reales, fechadas y trazables se incorporarán para acreditar varias alternativas y una horquilla de mercado sin convertirlas en compromisos de compra?
+42. [PENDIENTE] ¿Siguen vigentes y disponibles las cuatro ofertas incorporadas y qué comparables adicionales de la ubicación profesional finalmente elegida permitirán validar que la horquilla preliminar es territorial y funcionalmente representativa?
 43. [PENDIENTE] ¿Qué presupuesto máximo aprobará el promotor para el precio y para el coste total de adquisición tras comparar inmuebles, negociación, tributos, formalización y acondicionamiento?
+44. [PENDIENTE] ¿Coinciden exactamente ficha, finca registral y Catastro de Castellón, dadas las diferencias de dirección, superficie y uso, y es compatible el uso catastral indicado con la actividad prevista?
+45. [PENDIENTE] ¿Cómo se explica la diferencia entre los 50 m² anunciados y los 40,75 m² útiles de la nota simple de Talavera, y cuál es la superficie medida y apta para la actividad?
+46. [PENDIENTE DE CUADRE FINAL] ¿Qué fuente adicional o ajuste documentado cubrirá la brecha mínima visible de 1.738,84 €, más fiscalidad, formalización, acondicionamiento, software, suministros y fondo de maniobra pendientes?

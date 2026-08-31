@@ -10,6 +10,7 @@ El repositorio conserva en un único lugar:
 - el estado, las hipótesis, las decisiones y los pendientes del expediente;
 - las fuentes oficiales y controles para una eventual solicitud de pago único ante el SEPE;
 - plantillas textuales para inversión, financiación y evidencia.
+- un [expediente Markdown ordenado para preparar la presentación SEPE](docupresentarsepe/README.md), derivado de las fuentes canónicas y enlazado a las evidencias originales.
 
 ## Estado
 

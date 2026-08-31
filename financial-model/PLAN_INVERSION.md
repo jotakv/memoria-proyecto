@@ -7,15 +7,15 @@
 
 A fecha de elaboración de la memoria, el promotor no ha adquirido, reservado ni pagado el local; tampoco ha firmado arras, contrato de compraventa o compromiso vinculante. Las restantes partidas se apoyan únicamente en presupuestos, fichas comerciales o facturas proforma. No se ha adquirido, encargado, recibido ni pagado ningún equipo, mobiliario o servicio incluido en el plan de inversión.
 
-La ficha comercial de inmueble candidato, referencia 00286, sitúa el local en el centro de Águilas y anuncia un **precio ofertado** de 40.000 €, 60 m² construidos, un baño y antigüedad de 1960. No es proforma ni acredita reserva, arras, compraventa, derecho de adquisición, precio pactado, compromiso del vendedor o compra. La superficie y el estado se verificarán documental y técnicamente; cualquier referencia a 41 m² u otra cifra constituye una discrepancia pendiente.
+Las fichas comerciales incorporadas documentan alternativas en Águilas (40.000 €), Castellón (39.000 €), San Fernando (45.000 €) y Talavera de la Reina (32.900 €). No son proformas ni acreditan reserva, arras, compraventa, derecho de adquisición, precio pactado, compromiso del vendedor o compra. La horquilla de precios anunciados sirve para dimensionar la inversión; las superficies, direcciones, usos, vigencia y estado se verificarán documental y técnicamente, manteniendo como pendientes las discrepancias identificadas.
 
-El candidato no está seleccionado contractualmente. Podrá adquirirse este u otro inmueble equivalente después de comparar precio, superficie, ubicación, disponibilidad, adecuación, estado físico, situación registral y urbanística, costes asociados, acondicionamiento, negociación y viabilidad global. En el repositorio solo consta actualmente esta ficha; otras alternativas y la horquilla de mercado permanecen `[PENDIENTE]` de evidencia, como detalla la sección 14.3 de la memoria canónica.
+Ninguna alternativa está seleccionada contractualmente. Podrá adquirirse cualquiera de las analizadas u otro inmueble equivalente después de comparar precio, superficie, ubicación, disponibilidad, adecuación, estado físico, situación registral y urbanística, costes asociados, acondicionamiento, negociación y viabilidad global. La horquilla preliminar anunciada de 32.900 € a 45.000 € y sus límites de comparabilidad se detallan en la sección 14.3 de la memoria canónica.
 
 ## Usos previstos ampliados
 
 | ID | Partida | Importe total provisional | Documento | Estado / fuente prevista |
 |---|---|---:|---|---|
-| INV-00 | Inmueble candidato | 40.000,00 € | Ficha comercial ref. 00286 | `[CONFIRMADO como precio ofertado]`; operación futura y condicionada |
+| INV-00 | Presupuesto de referencia del precio del inmueble | 40.000,00 € | Comparativa de cuatro fichas comerciales; ref. 00286 como referencia histórica | `[ESTIMADO a partir de ofertas de 32.900 € a 45.000 €]`; selección, negociación y operación futuras y condicionadas |
 | INV-01 | Impuestos de adquisición (incluido ITP si procede) | Pendiente | Liquidación/cálculo profesional | `[PENDIENTE]` |
 | INV-02 | Notaría | Pendiente | Presupuesto/factura | `[PENDIENTE]` |
 | INV-03 | Registro | Pendiente | Presupuesto/factura | `[PENDIENTE]` |
@@ -28,9 +28,9 @@ El candidato no está seleccionado contractualmente. Podrá adquirirse este u ot
 | INV-10 | Licencias/título habilitante, altas, seguro y puesta en marcha | Pendiente | Ayuntamiento/proveedores | `[PENDIENTE]` |
 | INV-11 | Fondo de maniobra | Pendiente | Tesorería revisada | `[PENDIENTE]` |
 |  | **Subtotal proformas INV-06 a INV-08** | **2.738,84 €** |  | No financiado con el pago único reservado al precio |
-|  | **Coste total del proyecto de inversión** | **Más de 42.738,84 €** |  | Mínimo aritmético conocido; faltan INV-01 a 05 y 09 a 11 |
+|  | **Coste total del escenario de referencia** | **Más de 42.738,84 €** |  | Precio de referencia de 40.000 € más proformas; faltan INV-01 a 05 y 09 a 11 |
 
-Los 40.000 € representan un **presupuesto de referencia** basado únicamente en el precio ofertado, sujeto a selección y negociación; no son precio contractual. El **coste total de adquisición** sumará al precio definitivo los impuestos, notaría, Registro, intermediación y otros gastos que correspondan. Su cuantía depende del inmueble y territorio finalmente elegidos y permanece `[PENDIENTE]`; tampoco equivale al coste total de puesta en marcha.
+Los 40.000 € representan un **presupuesto de referencia** situado dentro de la horquilla documentada, sujeto a selección y negociación; no son precio contractual ni implican que deba adquirirse la alternativa de Águilas. El **coste total de adquisición** sumará al precio definitivo los impuestos, notaría, Registro, intermediación y otros gastos que correspondan. Su cuantía depende del inmueble y territorio finalmente elegidos y permanece `[PENDIENTE]`; tampoco equivale al coste total de puesta en marcha.
 
 ## Financiación prevista del precio ofertado
 
