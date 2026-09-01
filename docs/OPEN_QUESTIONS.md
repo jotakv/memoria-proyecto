@@ -1,6 +1,6 @@
 # Preguntas y datos pendientes
 
-**Última actualización:** 2026-08-31
+**Última actualización:** 2026-09-01
 
 > Una respuesta no debe convertirse en hecho sin evidencia o declaración expresa del promotor. Al resolver un punto, actualizar también `ASSUMPTIONS.md`, `DECISION_LOG.md`, `STATUS.md` y los documentos afectados.
 
@@ -17,7 +17,7 @@
 
 7. [PENDIENTE] ¿Qué equipamiento ya posee el promotor y qué compras son realmente necesarias?
 8. [PENDIENTE] ¿Qué presupuestos verificables existen para equipos, licencias, cloud, web, CRM, formación y asesoría?
-9. [PENDIENTE] ¿Qué fondos propios están disponibles y acreditados?
+9. [PENDIENTE] ¿Qué justificante bancario acredita los 19.000 € propios declarados en la memoria final? No se ha localizado el soporte referido por el adjunto; se aportará al expediente privado.
 10. [PENDIENTE] ¿Qué parte se pretende financiar con pago único, fondos propios u otras fuentes?
 11. [PENDIENTE] ¿Cómo se justificará titularidad, necesidad, fecha y pago de cada partida?
 
@@ -64,10 +64,16 @@
 37. [PENDIENTE] ¿Cómo se reconciliarán el domicilio fiscal previo referido en Madrid, el domicilio personal, el domicilio profesional y el local afecto en Águilas? Faltan decisión del promotor, documentación censal y criterio del asesor.
 38. [PENDIENTE] ¿En qué fecha podría formalizarse la adquisición, siempre después de la solicitud y conforme a la resolución y a la secuencia validada con el SEPE?
 39. [PENDIENTE] ¿Qué comparación documentada de compra y alquiler acredita coste total, alternativas disponibles, horizonte, adaptación, liquidez y proporcionalidad?
-40. [PENDIENTE] ¿Puede el proveedor sustituir el documento informático con apariencia de pedido y entrega anterior al 02/09/2026 por una proforma que diga pendiente de aceptación, pedido y pago, y sin entrega realizada?
+40. [PENDIENTE] ¿Puede el proveedor sustituir el documento informático denominado «Documento de pedido», con entrega prevista el 31/08/2026, por una proforma vigente con datos fiscales y domicilio correctos, pendiente de aceptación, pago y entrega? La revisión de 01/09/2026 confirma que el soporte disponible no es la proforma validada que describe el adjunto; no acredita por sí solo pago o entrega efectivos.
 41. [PENDIENTE] ¿Qué caja queda para adquisición, acondicionamiento, proformas, actividad corriente y primeros meses tras una retirada personal de 800 €/mes?
 42. [PENDIENTE] ¿Siguen vigentes y disponibles las cuatro ofertas incorporadas y qué comparables adicionales de la ubicación profesional finalmente elegida permitirán validar que la horquilla preliminar es territorial y funcionalmente representativa?
 43. [PENDIENTE] ¿Qué presupuesto máximo aprobará el promotor para el precio y para el coste total de adquisición tras comparar inmuebles, negociación, tributos, formalización y acondicionamiento?
 44. [PENDIENTE] ¿Coinciden exactamente ficha, finca registral y Catastro de Castellón, dadas las diferencias de dirección, superficie y uso, y es compatible el uso catastral indicado con la actividad prevista?
 45. [PENDIENTE] ¿Cómo se explica la diferencia entre los 50 m² anunciados y los 40,75 m² útiles de la nota simple de Talavera, y cuál es la superficie medida y apta para la actividad?
-46. [PENDIENTE DE CUADRE FINAL] ¿Qué fuente adicional o ajuste documentado cubrirá la brecha mínima visible de 1.738,84 €, más fiscalidad, formalización, acondicionamiento, software, suministros y fondo de maniobra pendientes?
+46. [PENDIENTE DE CUADRE FINAL] ¿Qué ajuste documentado cubrirá la diferencia de 1.990,84 € entre la inversión de 49.990,84 € y los 48.000 € de fuentes previstas en la memoria final? Esta cifra actualiza el escenario anterior; además debe dimensionarse y financiarse el circulante necesario.
+
+## Revisión de la memoria final · 2026-09-01
+
+- La revisión editorial puede aprobarse mediante PR; no acredita que el expediente administrativo esté completo.
+- Siguen por concretar domicilio profesional, fecha prevista de inicio compatible con los plazos SEPE y liquidez de arranque. No se inventan esos datos al trasladar el adjunto.
+- La comparación compra/alquiler del punto 39 permanece como comprobación interna de proporcionalidad; se simplifica su repetición en el documento de presentación siguiendo el adjunto.

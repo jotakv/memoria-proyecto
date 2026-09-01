@@ -14,7 +14,7 @@ El presupuesto se construye a partir de cuatro ofertas reales y separa el **prec
 
 | Concepto | Criterio de estimación | Rango estimado | Valor de planificación | Observaciones |
 |---|---|---:|---:|---|
-| Fiscalidad | Referencia prudente para una transmisión usada sujeta a TPO: tipos generales observados del 7 % al 10 % en los territorios de las alternativas | 2.800–4.000 € | **3.600 €** | Equivale al escenario central del 9 % sobre 40.000 €. La liquidación dependerá de la naturaleza, base fiscal, territorio y fecha definitivos |
+| Fiscalidad | Reserva de planificación para una transmisión usada sujeta a TPO; referencias generales del 7 % al 9 % para los importes y territorios estudiados | 2.800–4.000 € | **3.600 €** | Escenario central del 9 % sobre 40.000 €. El extremo superior es un margen presupuestario, no un tipo vigente del 10 % ni un límite tributario. La liquidación dependerá de naturaleza, base fiscal, territorio y fecha |
 | Notaría y Registro | Reserva conjunta basada en los aranceles regulados y en la variabilidad de copias, asientos y trámites | 500–900 € | **700 €** | Se sustituirá por minuta y factura de la operación |
 | Intermediación | Compra directa: 0 €; escenario con agencia: hipótesis prudente del 3 % más IVA sobre 40.000 € | 0–1.452 € | **1.452 €** | Solo se devengará si las condiciones de la agencia atribuyen el coste al comprador |
 | Inspección y acondicionamiento | Revisión técnica previa y actuaciones iniciales mínimas para un espacio de consultoría IT, sin reforma integral | 1.000–2.000 € | **1.500 €** | Se sustituirá por informe y presupuesto del activo seleccionado |
@@ -22,7 +22,7 @@ El presupuesto se construye a partir de cuatro ofertas reales y separa el **prec
 
 ### Base de la estimación fiscal
 
-Para planificar se ha considerado una operación usada sujeta a TPO y los tipos generales publicados para los territorios estudiados: Andalucía 7 %, Región de Murcia 7,75 % desde el 25 de julio de 2025, Castilla-La Mancha 9 % y Comunitat Valenciana hasta 10 % con carácter general. No se presupone que la operación final esté sujeta a TPO ni que proceda un tipo reducido; ambos extremos deberán confirmarse.
+Para planificar se ha considerado una operación usada sujeta a TPO y los tipos generales publicados para los territorios estudiados: Andalucía 7 %, Región de Murcia 7,75 % desde el 25 de julio de 2025, Castilla-La Mancha 9 % y Comunitat Valenciana 9 % para los importes estudiados desde el 1 de junio de 2026. Esta última referencia se ha revisado el 1 de septiembre de 2026 conforme al artículo 13 de la Ley 13/1997. No se presupone que la operación final esté sujeta a TPO ni que proceda un tipo reducido; ambos extremos y la base fiscal deberán confirmarse. La reserva de hasta 4.000 € se conserva por prudencia presupuestaria y no garantiza cubrir la liquidación definitiva.
 
 Fuentes de consulta:
 

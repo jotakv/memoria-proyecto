@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-09-01 · Actualización de la memoria final desde el adjunto del promotor
+
+- Se actualiza `MEMORIA_SEPE_PRESENTACION_FINAL.md` con la denominación de consultora informática, la experiencia en desarrollo sobre tecnologías Microsoft en la nube y las simplificaciones de redacción del adjunto, conservando las 16 secciones, ocho anexos, enlaces y saltos de página.
+- Se mantienen los importes del adjunto: inversión de 49.990,84 €, financiación prevista de 48.000 € y diferencia de 1.990,84 €. Los 19.000 € propios siguen declarados y pendientes de acreditación.
+- Se contrasta el documento informático disponible: es un documento de pedido por 1.317,48 €, con 1.088,82 € de base y 228,66 € de IVA. La proforma sustitutiva sigue pendiente; no se incorpora la afirmación no acreditada del adjunto de que ya es una proforma validada.
+- Se precisa la secuencia de solicitud, inicio y justificación conforme al SEPE y se corrige la referencia general valenciana al 9 % desde el 01/06/2026, también en el anexo de adquisición del dossier.
+- Se actualizan los registros de estado, hipótesis, decisiones, pendientes y fuentes para esta revisión. Los documentos anteriores conservan su historial y no sustituyen la versión final objeto del encargo.
+- No se incorporan documentos bancarios, datos de terceros ni binarios a la PR.
+
 ## 2026-08-31 · Expediente textual SEPE y comparativa de locales
 
 - Se crea `docupresentarsepe/` con memoria derivada, plan ampliado y nueve anexos textuales ordenados para preparación del expediente.

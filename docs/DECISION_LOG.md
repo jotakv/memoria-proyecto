@@ -1,6 +1,6 @@
 # Registro de decisiones
 
-**Última actualización:** 2026-08-31
+**Última actualización:** 2026-09-01
 
 ## DEC-A01 · Identidad y posicionamiento
 
@@ -105,3 +105,13 @@
 - **Motivo:** acreditar pluralidad de oferta y razonabilidad económica, ordenar la futura presentación y evitar confundir anuncios, notas simples o Catastro con facturas proforma, compromisos o diligencia definitiva.
 - **Estado:** APROBADA COMO CRITERIO DOCUMENTAL; vigencia, comparabilidad territorial, correspondencia documental, selección, negociación, conciliación financiera y admisibilidad SEPE pendientes.
 - **Fuente:** mandato expreso del promotor de 31/08/2026 y documentación preexistente en `locales/` y `proformas/`.
+
+## DEC-A15 · Incorporación del adjunto a la memoria final para revisión manual
+
+- **Fecha:** 2026-09-01.
+- **Decisión:** actualizar incrementalmente `MEMORIA_SEPE_PRESENTACION_FINAL.md` con el adjunto del mismo nombre, conservando estructura, anexos, enlaces, importes y selección abierta del inmueble. La revisión se propone mediante PR contra `main` para validación manual del promotor.
+- **Alcance:** denominación de consultora informática, experiencia Microsoft en la nube, redacción simplificada y declaraciones sobre operaciones no ejecutadas; corrección fiscal y precisión de secuencia administrativa documentadas.
+- **Control probatorio:** no afirmar que la proforma informática está validada ni que existe un anexo bancario sin haber localizado esos soportes. El PDF comercial disponible conserva la denominación de pedido y la fecha de entrega prevista anterior a la solicitud; ello no prueba pago ni entrega efectivos.
+- **Financiación:** se adopta para esta versión HYP-A25: 19.000 € propios declarados, pago único estimado de 29.000 €, inversión de 49.990,84 € y diferencia de 1.990,84 €. Sustituye el escenario de aportación propia de 12.000 € para la memoria final, sin borrar decisiones históricas.
+- **Estado:** PROPUESTA DOCUMENTAL PARA REVISIÓN MANUAL; no equivale a presentación ni aprobación administrativa.
+- **Fuente:** adjunto del promotor, documento comercial existente, fuentes oficiales reconsultadas y cálculos del presupuesto.

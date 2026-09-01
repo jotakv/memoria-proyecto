@@ -2,13 +2,13 @@
 
 ## Solicitud de capitalización de la prestación por desempleo — Pago único SEPE
 
-### Allsetic AI Automation Studio
+### Consultora Informática: Allsetic AI Automation Studio
 
 ---
 
 ## PORTADA
 
-**Proyecto:** Allsetic AI Automation Studio
+**Proyecto:** Consultora Informática Allsetic AI Automation Studio
 
 **Finalidad:** Memoria explicativa para solicitud de capitalización de la prestación por desempleo
 
@@ -61,13 +61,13 @@ Allsetic AI Automation Studio es un proyecto de autoempleo para prestar servicio
 
 La actividad comenzará bajo la forma de profesional autónomo, sin empleados. Su prestación tendrá una importante componente remota, complementada con una sede profesional propia destinada al puesto técnico, la instalación y custodia de equipos, el archivo y la administración, así como a reuniones, demostraciones, implantaciones y formación. La sede permitirá separar la vivienda de la actividad y dar continuidad a la operativa.
 
-Se plantea adquirir un local como activo exclusivamente afecto a la actividad. La compra se estudia por su estabilidad a largo plazo y por la posibilidad de adaptar el espacio a las necesidades técnicas. El proyecto no tiene objeto inmobiliario: el local no se destinará a vivienda, alquiler a terceros, reventa ni finalidad especulativa. La conveniencia de la adquisición se contrastará con el alquiler antes de formalizar la operación, atendiendo al coste total, las obras necesarias, la flexibilidad, la liquidez y la proporcionalidad de la inversión.
+Se plantea adquirir un local como activo exclusivamente afecto a la actividad. La compra se estudia por su estabilidad a largo plazo y por la posibilidad de adaptar el espacio a las necesidades técnicas. El proyecto no tiene objeto inmobiliario: el local no se destinará a vivienda, alquiler a terceros, reventa ni finalidad especulativa.
 
 La búsqueda realizada comprende cuatro ofertas reales en Águilas, Castellón, San Fernando y Talavera de la Reina, con precios anunciados entre 32.900,00 € y 45.000,00 €. Esta evidencia permite fijar, a efectos de planificación, un precio de referencia de 40.000,00 €. No existe todavía un inmueble comprado o reservado, ni se han firmado arras, contrato de compraventa o compromiso vinculante. El activo definitivo podrá ser uno de los estudiados u otro funcional y económicamente equivalente.
 
 El escenario de referencia asciende a 49.990,84 €: 40.000,00 € de precio del local, 7.252,00 € de costes asociados estimados y 2.738,84 € de informática, mobiliario y gestoría respaldados por documentos comerciales. Las fuentes previstas son aproximadamente 48.000,00 €, integradas por un pago único estimado de 29.000,00 €, sujeto a la resolución del SEPE, y 19.000,00 € de fondos propios declarados por el promotor, cuya acreditación se incorporará al expediente.
 
-El escenario prudente presenta una diferencia de 1.990,84 € sobre las fuentes previstas. No se presume financiación adicional para ocultarla. Se resolverá mediante la selección y negociación del inmueble y la concreción de fiscalidad, intermediación y acondicionamiento. La propia horquilla observada contiene alternativas por debajo del precio de referencia. El importe finalmente concedido como pago único se destinará prioritariamente a financiar el precio del local; la aportación propia completará la financiación de la puesta en marcha.
+El importe finalmente concedido como pago único se destinará prioritariamente a financiar el precio del local; la aportación propia completará la financiación de la puesta en marcha. La diferencia de financiación y las condiciones para resolverla se detallan en el apartado 14 y en el anexo VIII.
 
 La ejecución queda condicionada a la resolución del SEPE, al respeto de la secuencia administrativa aplicable, a la suficiencia de fondos y a la revisión funcional, técnica, jurídica, registral, catastral, urbanística y económica del activo seleccionado.
 
@@ -84,7 +84,7 @@ La ejecución queda condicionada a la resolución del SEPE, al respeto de la sec
 
 ## 3. Promotor y forma de inicio
 
-El promotor es Kevin Joel Valdivieso Ordóñez. El expediente recoge experiencia directamente relacionada con Dynamics 365, Power Platform, Dataverse, C#, .NET, JavaScript, interfaces de programación de aplicaciones, automatización, integración empresarial, Azure DevOps y gestión del ciclo de vida de aplicaciones.
+El promotor es Kevin Joel Valdivieso Ordóñez. El expediente recoge experiencia directamente relacionada con el desarrollo de aplicaciones informáticas basadas en tecnologías de Microsoft en la nube: Dynamics 365, Power Platform, Dataverse, C#, .NET, JavaScript, interfaces de programación de aplicaciones, automatización, integración empresarial, Azure DevOps y gestión del ciclo de vida de aplicaciones.
 
 La forma inicial prevista es el ejercicio como profesional autónomo, sin plantilla. El alta y el comienzo de la actividad se formalizarán conforme a la secuencia administrativa aplicable a la solicitud y a la resolución de capitalización.
 
@@ -101,7 +101,7 @@ La prestación remota será relevante, pero no exclusiva. Determinadas fases req
 La oferta se articulará mediante:
 
 - auditorías y diagnósticos de procesos y sistemas;
-- sprints de análisis, diseño y automatización;
+- análisis, diseño y automatización;
 - implantaciones de soluciones tecnológicas;
 - desarrollo de software e integraciones entre sistemas;
 - automatización de procesos empresariales;
@@ -148,7 +148,7 @@ La necesidad del espacio nace de la operativa del proyecto, no de la disponibili
 
 El local tendrá una función instrumental respecto de la consultoría. No se prevé almacén, producción física ni una actividad inmobiliaria. La afectación prevista es exclusivamente empresarial, sin uso residencial, arrendamiento a terceros, reventa ni expectativa especulativa.
 
-La adquisición se considera por la estabilidad a largo plazo y la posibilidad de adaptación técnica. No se afirma que sea siempre preferible al alquiler. Antes de contratar se compararán el coste total de compra, las rentas disponibles, las obras, el horizonte de uso, la flexibilidad, la liquidez y la concentración de capital. Solo se avanzará si la adquisición resulta proporcionada a los recursos del proyecto.
+La adquisición se considera por la estabilidad a largo plazo y la posibilidad de adaptación técnica. Solo se avanzará si la adquisición resulta proporcionada a los recursos del proyecto.
 
 ## 10. Estrategia de adquisición y metodología de selección
 
@@ -177,7 +177,7 @@ La secuencia empresarial será: necesidad operativa, requisitos del espacio, est
 
 ## 11. Estudio de mercado inmobiliario
 
-Se han documentado cuatro alternativas. Para facilitar la lectura en A4, sus datos esenciales se presentan en una tabla de cuatro columnas; el detalle y las cautelas figuran en los anexos II y III.
+Se han documentado cuatro alternativas. Sus datos esenciales se presentan en la siguiente tabla; el detalle y las cautelas figuran en los anexos II y III.
 
 | Alternativa | Precio anunciado | Superficie documentada | Evidencia disponible |
 |---|---:|---|---|
@@ -236,7 +236,9 @@ Los principales riesgos son la cuantía y condiciones de la resolución, la conc
 
 ## 15. Puesta en marcha
 
-La puesta en marcha respetará la secuencia administrativa que resulte aplicable. Tras la resolución y acreditación de recursos, se completará la selección del local, se verificará su aptitud, se cerrará el coste total y, solo si el cuadro resulta financiable, se formalizará la operación.
+La solicitud de capitalización se presentará antes del alta e inicio de la actividad. Como criterio de ejecución del proyecto, se prevé formalizar la compra tras la resolución y acreditación de recursos. Las comprobaciones del local y de su coste se prepararán con antelación para hacer viable el calendario de inicio. Este criterio de prudencia no impide que, conforme a la información del SEPE, pueda iniciarse la actividad después de solicitar y antes de recibir la resolución.
+
+Se respetará el plazo máximo de un mes desde la resolución concesoria para iniciar la actividad y el plazo de un mes desde el cobro para acreditar el destino del pago único, conforme a la información oficial y a las condiciones notificadas. Solo se formalizará la operación si la aptitud del local, la financiación y los plazos permiten ejecutar el proyecto. Fuente: [SEPE — Capitaliza tu prestación](https://sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion.html), consulta de 1 de septiembre de 2026.
 
 Posteriormente se realizarán el acondicionamiento mínimo, la instalación del mobiliario y equipos y las actuaciones administrativas de inicio. Se conservarán los justificantes bancarios, tributarios, notariales, registrales y comerciales que correspondan conforme a la resolución y a las reglas vigentes.
 
@@ -325,7 +327,7 @@ Las notas simples pueden contener datos personales o registrales y por ello no s
 |---|---:|---|
 | Horquilla anunciada | 32.900,00–45.000,00 € | Cuatro ofertas reales |
 | Precio de referencia | 40.000,00 € | Planificación, no precio pactado |
-| Fiscalidad | 2.800,00–4.000,00 € | Planificación territorial; valor central 3.600,00 € |
+| Fiscalidad | 2.800,00–4.000,00 € | Reserva de planificación; valor central 3.600,00 €; no es un límite tributario |
 | Notaría y Registro | 500,00–900,00 € | Reserva; valor central 700,00 € |
 | Intermediación | 0,00–1.452,00 € | Compra directa o 3 % más IVA |
 | Inspección y acondicionamiento | 1.000,00–2.000,00 € | Actuaciones iniciales; valor central 1.500,00 € |
@@ -334,7 +336,9 @@ El escenario central suma 7.252,00 € de costes asociados y 47.252,00 € para 
 
 ### Base de planificación fiscal y arancelaria
 
-Para planificar se ha considerado una transmisión usada sujeta a TPO y referencias territoriales del 7 % en Andalucía, 7,75 % en la Región de Murcia desde el 25 de julio de 2025, 9 % en Castilla-La Mancha y hasta el 10 % general en la Comunitat Valenciana. La operación final puede tener otro tratamiento según el activo, transmitente, base, territorio y fecha.
+Para planificar se ha considerado una transmisión usada sujeta a TPO y referencias territoriales del 7 % en Andalucía, 7,75 % en la Región de Murcia desde el 25 de julio de 2025 y 9 % en Castilla-La Mancha. Para inmuebles del importe estudiado, la referencia general de la Comunitat Valenciana es el 9 % desde el 1 de junio de 2026, conforme al artículo 13 de la Ley 13/1997, revisado el 1 de septiembre de 2026. La operación final puede tener otro tratamiento según el activo, transmitente, base, territorio y fecha.
+
+Se conserva la reserva de 2.800,00–4.000,00 € del presupuesto aportado, con valor central de 3.600,00 €. Su extremo superior es un margen de planificación y no representa un tipo general vigente del 10 % ni garantiza cubrir la liquidación definitiva. La base fiscal y el régimen de la operación deberán comprobarse antes de comprar.
 
 Fuentes:
 
@@ -351,9 +355,9 @@ Fuentes:
 
 ## Equipos informáticos
 
-El [documento comercial de material informático](proformas/Proforma%20material%20informatico%20Order%20-%2041385515.pdf) asciende a **1.317,48 €**. Tiene apariencia de pedido y contiene una fecha de entrega anterior a la solicitud prevista; según los registros del proyecto, no fue encargado, recibido ni pagado.
+El [documento comercial de material informático](proformas/Proforma%20material%20informatico%20Order%20-%2041385515.pdf) asciende a **1.317,48 €**, con una base de 1.088,82 € y 228,66 € de IVA. Incluye un ordenador portátil Acer con 32 GB de RAM, un teléfono Google Pixel y accesorios. El promotor declara que los bienes no han sido encargados, recibidos ni pagados.
 
-Antes de aportarlo como justificación deberá sustituirse por una proforma vigente e inequívoca, con titular y datos fiscales correctos, productos necesarios, IVA y total desglosados, y constancia de que permanece pendiente de aceptación, pago y entrega.
+El soporte disponible está denominado «Documento de pedido» y contiene una fecha de entrega prevista de 31 de agosto de 2026; no acredita por sí mismo una entrega o un pago. Antes de su aportación como presupuesto definitivo se obtendrá del proveedor una proforma vigente e inequívoca, con datos fiscales y domicilio correctos, necesidad de cada producto y constancia de que la operación permanece pendiente de aceptación, pago y entrega.
 
 <div style="page-break-after: always;"></div>
 
@@ -361,7 +365,7 @@ Antes de aportarlo como justificación deberá sustituirse por una proforma vige
 
 ## Mobiliario
 
-El [presupuesto comercial de mobiliario](proformas/Proforma%20Presupuesto_materialOficinaLM_Rivas-2_872963_17877464254793490750457521514107.pdf) asciende a **477,56 €** e incluye escritorio, silla, estantería y cajoneras. Según los registros del proyecto, los bienes no han sido encargados, recibidos ni pagados.
+El [presupuesto comercial de mobiliario](proformas/Proforma%20Presupuesto_materialOficinaLM_Rivas-2_872963_17877464254793490750457521514107.pdf) asciende a **477,56 €** e incluye escritorio, silla, estantería y cajoneras. El promotor declara que los bienes no han sido encargados, recibidos ni pagados.
 
 Antes de su aportación se comprobarán la vigencia, la identificación del titular, la necesidad de cada elemento y el futuro medio de pago trazable.
 
@@ -371,7 +375,7 @@ Antes de su aportación se comprobarán la vigencia, la identificación del titu
 
 ## Gestoría
 
-La [factura proforma de gestoría](proformas/Proforma_GestoriaGrupo_Billeo_Kevin_Valdivieso.pdf) asciende a **943,80 €** y comprende doce meses de asesoría fiscal y contable. Según los registros del proyecto, el servicio no ha sido contratado ni pagado.
+La [factura proforma de gestoría](proformas/Proforma_GestoriaGrupo_Billeo_Kevin_Valdivieso.pdf) asciende a **943,80 €** y comprende doce meses de asesoría fiscal y contable. El promotor declara que el servicio no ha sido contratado ni pagado.
 
 Antes de aportarla se comprobarán su vigencia, la identificación fiscal, la relación directa del servicio con la puesta en marcha y el tratamiento que resulte de la resolución y de las reglas aplicables.
 
