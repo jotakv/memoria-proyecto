@@ -71,7 +71,7 @@ Todas permanecen **ABIERTAS** y requieren aprobación expresa del promotor; no e
 - **HYP-A21:** `[CONFIRMADO por documentos comerciales]` proformas: mobiliario 477,56 €, equipo informático 1.317,48 € y gestoría 943,80 €; total 2.738,84 €. Son operaciones futuras, no ejecutadas, y su financiación no puede proceder de los aproximadamente 29.000 € `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` previstos íntegramente para el precio del inmueble.
 - **HYP-A22:** `[PENDIENTE]` electricidad, agua, internet, comunidad, IBI, seguro y mantenimiento del local deben sustituir o ampliar HYP-A11 cuando existan contratos, recibos u ofertas. El modelo histórico de 18.000 €/año no demuestra su cobertura.
 - **HYP-A23:** `[CONFIRMADO por declaración]` retirada personal prevista de 800 €/mes (9.600 €/año), tratada solo como salida personal de tesorería; no es salario, gasto operativo ni coste laboral.
-- **HYP-A24:** `[CONFIRMADO como evidencia documental / PENDIENTE de validación]` cuatro fichas comerciales muestran precios anunciados de 32.900 €, 39.000 €, 40.000 € y 45.000 €. La horquilla preliminar de 32.900–45.000 € respalda el orden de magnitud del presupuesto de referencia de 40.000 €, pero no acredita vigencia, comparabilidad territorial, aptitud ni valor de mercado tasado.
+- **HYP-A24 (actualizada el 01/09/2026):** `[CONFIRMADO como evidencia documental / PENDIENTE de validación]` seis fichas comerciales muestran precios anunciados de 32.900 €, 36.000 €, 39.000 €, 40.000 €, 45.000 € y 50.000 €. La horquilla preliminar de 32.900–50.000 € respalda el orden de magnitud del presupuesto de referencia de 40.000 €, pero no acredita vigencia, comparabilidad territorial, aptitud ni valor de mercado tasado.
 
 Los 40.000 € constituyen el **presupuesto de referencia** del escenario financiero y coinciden con el precio anunciado de una alternativa; no son el coste total ni un precio pactado. La diferencia entre usos conocidos y financiación identificada se mantiene como **BRECHA DE FINANCIACIÓN PENDIENTE**.
 
@@ -86,3 +86,14 @@ Los 40.000 € constituyen el **presupuesto de referencia** del escenario financ
 - **Sensibilidad ya incluida:** 38.009,16 € de precio equilibran el cuadro si todos los demás importes quedan fijos; 38.173,54 € aproximadamente si solo la fiscalidad se recalcula al 9 % y la intermediación sigue fija. No son ofertas ni límites que reserven circulante.
 - **Fiscalidad:** la referencia general valenciana para los importes estudiados es el 9 % desde el 01/06/2026. La reserva de hasta 4.000 € sigue siendo una hipótesis presupuestaria; la base fiscal puede exigir otro desembolso. Véase SRC-A07.
 - **Límite:** el cuadro concilia inversión y financiación previstas; no sustituye la previsión de ingresos, gastos corrientes y tesorería. La liquidez de los primeros meses sigue abierta.
+
+## HYP-A26 · Sensibilidad de El Ejido y Oliva · 2026-09-01
+
+- **Precios documentados:** 36.000 € (Murgicasa ref. 21496) y 50.000 € (Oliva, anuncio 112241985), procedentes de los PDF versionados; no precios negociados ni ofertas vigentes confirmadas.
+- **Hipótesis heredadas de HYP-A25:** 700 € de notaría/Registro, 1.500 € de inspección/acondicionamiento y 2.738,84 € de documentos comerciales. Comisión hipotética 3 % sobre precio + IVA 21 %; no está presupuestada por esas agencias.
+- **Fiscalidad ilustrativa:** transmisión usada sujeta a TPO, con base igual al precio; 7 % Andalucía y 9 % Comunitat Valenciana para los importes estudiados (SRC-A08). Régimen, base y fecha efectivos pendientes.
+- **Fórmula:** precio + precio × TPO + precio × 0,03 × 1,21 + 700 + 1.500 + 2.738,84.
+- **El Ejido:** 36.000 + 2.520 + 1.306,80 + 700 + 1.500 + 2.738,84 = 44.765,64 €; saldo frente a 48.000 € previstos: +3.234,36 €.
+- **Oliva:** 50.000 + 4.500 + 1.815 + 700 + 1.500 + 2.738,84 = 61.253,84 €; saldo: −13.253,84 €.
+- **Límites:** no añadir ambas alternativas; no sustituir el escenario central de 49.990,84 €; no presumir obras suficientes, gastos corrientes cubiertos, financiación SEPE aprobada ni circulante. La mayor base fiscal o gastos efectivos pueden alterar el resultado.
+- **Estado:** [HIPÓTESIS / CÁLCULO] de comparación, sujeto a validación del promotor; no inversión comprometida.

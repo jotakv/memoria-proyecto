@@ -115,3 +115,12 @@
 - **Financiación:** se adopta para esta versión HYP-A25: 19.000 € propios declarados, pago único estimado de 29.000 €, inversión de 49.990,84 € y diferencia de 1.990,84 €. Sustituye el escenario de aportación propia de 12.000 € para la memoria final, sin borrar decisiones históricas.
 - **Estado:** PROPUESTA DOCUMENTAL PARA REVISIÓN MANUAL; no equivale a presentación ni aprobación administrativa.
 - **Fuente:** adjunto del promotor, documento comercial existente, fuentes oficiales reconsultadas y cálculos del presupuesto.
+
+## DEC-A16 · Ampliación de mercado con El Ejido y Oliva
+
+- **Fecha:** 2026-09-01.
+- **Decisión:** ampliar el anexo II del dossier y la memoria final con los cuatro PDF nuevos, pasando a seis alternativas; mantener selección abierta y presupuesto central de 40.000 € para el precio.
+- **Criterio:** distinguir datos anunciados, Catastro, Registro, inferencias funcionales e hipótesis financieras. El Ejido se prioriza para diligencia entre las dos novedades por encaje de precio; Oliva queda condicionada a financiación e identificación/aptitud.
+- **Trazabilidad:** HYP-A24 actualizada, HYP-A26 y evidencias EVD-016/EVD-017; referencias dependientes sincronizadas sin modificar PDF ni eliminar el análisis previo.
+- **Estado:** PROPUESTA PARA REVISIÓN MANUAL EN PR; no compra, reserva, autorización de actividad ni concesión administrativa.
+- **Fuente:** petición del promotor y PDF incorporados a `locales/` en main, commit 6feab3c1727d42fdd2b6876e002bb257db505fd7.

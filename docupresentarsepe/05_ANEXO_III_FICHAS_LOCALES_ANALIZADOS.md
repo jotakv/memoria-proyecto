@@ -29,6 +29,20 @@ Este índice enlaza los documentos originales sin copiarlos. Las notas simples p
 - **Estado:** documentación de contraste disponible; deben verificarse vigencia, superficie anunciada y registral y revisión técnica y urbanística.
 - **Uso en el expediente:** oferta y diligencia registral preliminar; no acredita selección ni adquisición.
 
+## El Ejido · calle Granada · ref. 21496
+
+- [Ficha comercial de Murgicasa](../locales/EL%20EJIDO%20CALLE%20GRANADA.pdf): 36.000 €, 37 m² construidos y un baño; fecha de emisión no visible.
+- [Consulta catastral de 01/09/2026](../locales/EL%20EJIDO%20CALLE%20GRANADA%20catrastro%206298604WF1669N0014TX.pdf): uso comercial, año 1982, 32 m² de comercio + 5 m² comunes; no es certificación catastral.
+- **Estado:** coincidencia de superficie total; correspondencia ficha/finca, nota simple, superficie útil, permisos y costes pendientes.
+- **Uso en el expediente:** alternativa de menor precio para diligencia; no acredita selección, operación o aptitud.
+
+## Oliva · Guillem de Castro · anuncio 112241985
+
+- [Ficha comercial de Bolo Rent S.L., captura de 01/09/2026](../locales/Oliva%20Ficha.pdf): 50.000 €, 101 m², entreplanta, diáfano y un baño.
+- [Consulta catastral de 01/09/2026](../locales/Oliva%20Catastro%20%282%29.pdf): 98 m² construidos, 93 m² de almacén + 5 m² comunes, año 2006.
+- **Estado:** identidad, diferencia 101/98 m², acceso, uso profesional, nota simple y financiación pendientes. El precio excede las fuentes previstas incluso antes de gastos.
+- **Uso en el expediente:** alternativa de contraste y selección condicionada; no opción ya financiada ni autorizada.
+
 ## Documentos requeridos para el activo definitivo
 
 - [ ] ficha/oferta vigente y condiciones de negociación;

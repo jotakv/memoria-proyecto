@@ -26,13 +26,13 @@ La adquisición se estudia por estabilidad a largo plazo y posibilidad de adapta
 
 A la fecha de este documento no se ha comprado ni reservado ningún local; no se han firmado arras, contrato de compraventa ni compromiso vinculante o irrevocable respecto de inmueble alguno. El promotor se encuentra en fase de búsqueda, comparación y diligencia previa.
 
-Se han incorporado cuatro alternativas reales —Águilas, Castellón, San Fernando y Talavera de la Reina— como **ofertas, fichas comerciales y evidencias de mercado utilizadas para estimar la inversión**. Algunas cuentan además con nota simple o información catastral. Estos documentos acreditan búsqueda y disponibilidad de oferta; no son facturas proforma, tasaciones, títulos del promotor ni compromisos de compra.
+Se han incorporado seis alternativas reales —Águilas, Castellón, San Fernando, Talavera de la Reina, El Ejido y Oliva— como **ofertas, fichas comerciales y evidencias de mercado utilizadas para estimar la inversión**. Algunas cuentan además con nota simple o información catastral. Estos documentos acreditan búsqueda y disponibilidad de oferta; no son facturas proforma, tasaciones, títulos del promotor ni compromisos de compra.
 
 La selección definitiva podrá recaer en cualquiera de las alternativas analizadas o en otro inmueble funcional y económicamente equivalente. Antes de asumir un compromiso se comprobarán precio y negociación, superficie, ubicación, disponibilidad, adecuación a la actividad, estado físico, situación registral y urbanística, costes de adquisición y acondicionamiento y viabilidad económica global.
 
 ## Estudio de mercado y presupuesto de referencia
 
-Las ofertas documentadas presentan precios anunciados de 32.900 €, 39.000 €, 40.000 € y 45.000 €. Esta horquilla respalda un presupuesto de referencia de 40.000 € para el precio del activo. La cifra es una estimación de planificación; no constituye precio contractual, tasación ni límite definitivo.
+Las ofertas documentadas presentan precios anunciados de 32.900 €, 36.000 €, 39.000 €, 40.000 €, 45.000 € y 50.000 €. Esta horquilla respalda un presupuesto de referencia de 40.000 € para el precio del activo. La cifra es una estimación de planificación; no constituye precio contractual, tasación ni límite definitivo.
 
 La dispersión territorial y las diferencias documentales obligan a verificar vigencia, comparabilidad e idoneidad. El [estudio de mercado](04_ANEXO_II_ESTUDIO_MERCADO_INMOBILIARIO.md) registra las cautelas sin elegir un ganador.
 
