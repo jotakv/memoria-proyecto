@@ -2,7 +2,7 @@
 
 **Última actualización:** 2026-09-01
 **Proyecto:** Allsetic AI Automation Studio
-**Rama de trabajo:** `codex/amplia-estudio-locales-20260901`
+**Rama de trabajo:** `codex/ajusta-estudio-cinco-locales-20260901`
 
 ## Estado general
 
@@ -10,7 +10,15 @@
 
 La memoria canónica y la aplicación permanecen como fuente pública. `plan-empresa/` añade un plan autosuficiente para jurado, un resumen ejecutivo, modelo revisable a 36 meses, fuentes/pendientes y cobertura de plantillas.
 
-## Revisión vigente · ampliación del estudio inmobiliario · 2026-09-01
+## Revisión vigente · cinco locales · 2026-09-01
+
+- `[CONFIRMADO como inventario]` Nueve PDF en `locales/`: cinco fichas comerciales, dos notas simples y dos documentos catastrales (una certificación y una consulta). Alternativas: Águilas, Castellón, San Fernando, Talavera de la Reina y El Ejido; precios anunciados de 32.900–45.000 €.
+- `[CONFIRMADO como alcance]` Se retira Oliva del estudio vigente por instrucción del promotor y tras la eliminación de sus dos PDF en `main` (DEC-A17). Se eliminan sus enlaces y simulaciones de las memorias, anexos y dependencias; el antecedente siguiente documenta únicamente la iteración anterior.
+- `[CÁLCULO / HIPÓTESIS HYP-A26]` Se conserva El Ejido: 44.765,64 € y margen provisional de 3.234,36 € frente a 48.000 € previstos. No acredita costes completos, aptitud ni circulante suficiente. El escenario central sigue en 49.990,84 €, con diferencia de 1.990,84 €.
+- `[PENDIENTE]` Vigencia, identidad, medición útil, compatibilidad profesional, costes efectivos y financiación. El precio por sí solo no establece prioridad entre los cinco activos. Se retiran las preguntas 49–50 del alcance vigente y se mantienen sus identificadores.
+- `[CONFIRMADO como alcance]` Se sincronizan el dossier, los modelos dependientes y la aplicación generada desde la memoria canónica. Esta revisión no modifica los nueve PDF existentes ni restituye los dos eliminados. La financiación histórica de otros modelos sigue requiriendo conciliación antes de una presentación conjunta.
+
+## Antecedente · ampliación del estudio inmobiliario · 2026-09-01
 
 - `[CONFIRMADO como inventario]` Se revisan los once PDF de `locales/`: seis fichas, dos notas simples y tres documentos catastrales. Se añaden El Ejido (36.000 €) y Oliva (50.000 €), con horquilla ampliada de 32.900–50.000 €.
 - `[CONFIRMADO como documentos]` El Ejido: 37 m² construidos, desglosados en 32 m² comercio y 5 m² comunes; año 1982 en Catastro. Oliva: 101 m² anunciados y 98 m² catastrales, 93 m² almacén y 5 m² comunes, en entreplanta según ficha; identidad/aptitud pendientes.

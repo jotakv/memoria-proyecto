@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-01 · Ajuste a cinco locales y retirada de Oliva
+
+- Se elimina Oliva de la memoria final, estudio de mercado y documentos dependientes tras la retirada de sus PDF en `main` por el promotor.
+- Se actualiza el inventario a cinco fichas, dos notas simples y dos documentos catastrales; rango anunciado de 32.900–45.000 €.
+- Se suprimen sus enlaces y cálculo económico; HYP-A26 mantiene únicamente El Ejido (44.765,64 € y margen provisional de 3.234,36 €). El escenario central no cambia.
+- Se matiza la valoración de los cinco locales y se elimina la prioridad comparativa heredada: precio, documentación, superficie útil, obras y gastos deben verificarse conjuntamente.
+- Se sincronizan fuentes, índices y aplicación generada; DEC-A17 registra la retirada y conserva el histórico. No se modifican PDF.
+
 ## 2026-09-01 · Estudio ampliado a seis alternativas
 
 - Se analizan las fichas y consultas catastrales nuevas de El Ejido y Oliva y se amplían el anexo II y la memoria final sin sustituir el contenido empresarial.

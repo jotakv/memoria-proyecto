@@ -66,7 +66,7 @@
 39. [PENDIENTE] ¿Qué comparación documentada de compra y alquiler acredita coste total, alternativas disponibles, horizonte, adaptación, liquidez y proporcionalidad?
 40. [PENDIENTE] ¿Puede el proveedor sustituir el documento informático denominado «Documento de pedido», con entrega prevista el 31/08/2026, por una proforma vigente con datos fiscales y domicilio correctos, pendiente de aceptación, pago y entrega? La revisión de 01/09/2026 confirma que el soporte disponible no es la proforma validada que describe el adjunto; no acredita por sí solo pago o entrega efectivos.
 41. [PENDIENTE] ¿Qué caja queda para adquisición, acondicionamiento, proformas, actividad corriente y primeros meses tras una retirada personal de 800 €/mes?
-42. [PENDIENTE] ¿Siguen vigentes y disponibles las seis ofertas incorporadas y qué comparables adicionales de la ubicación profesional finalmente elegida permitirán validar que la horquilla preliminar es territorial y funcionalmente representativa?
+42. [PENDIENTE] ¿Siguen vigentes y disponibles las cinco ofertas incorporadas y qué comparables adicionales de la ubicación profesional finalmente elegida permitirán validar que la horquilla preliminar es territorial y funcionalmente representativa?
 43. [PENDIENTE] ¿Qué presupuesto máximo aprobará el promotor para el precio y para el coste total de adquisición tras comparar inmuebles, negociación, tributos, formalización y acondicionamiento?
 44. [PENDIENTE] ¿Coinciden exactamente ficha, finca registral y Catastro de Castellón, dadas las diferencias de dirección, superficie y uso, y es compatible el uso catastral indicado con la actividad prevista?
 45. [PENDIENTE] ¿Cuál es la superficie útil medida y apta de Talavera? El anuncio distingue 50 m² construidos y 41 m² útiles; estos últimos deben compararse con los 40,75 m² útiles registrales, sin confundir ambas magnitudes.
@@ -82,8 +82,8 @@
 
 47. [PENDIENTE] El Ejido: ¿corresponden la ficha ref. 21496 y la referencia 6298604WF1669N0014TX a la misma finca? Obtener nota simple, medición útil, plano, explicación de participación catastral y título/estatutos.
 48. [PENDIENTE] El Ejido: ¿qué actuaciones, permisos, instalaciones y costes reales requiere la consultoría? Aclarar conservación «nuevo» frente al año 1982; obtener certificado energético, condiciones de agencia y recibos de gastos.
-49. [PENDIENTE] Oliva: ¿cómo se concilian 101/98 m², números 16/12, planta AL, puerta 13 y uso almacén con la finca ofertada? Obtener nota simple y verificar acceso, accesibilidad, evacuación y compatibilidad profesional.
-50. [PENDIENTE] Oliva: ¿qué precio negociado o financiación acreditada resolvería los 13.253,84 € de insuficiencia ilustrativa sin omitir obras ni circulante? No se da por financiada por aparecer en la comparativa.
-51. [PENDIENTE] ¿Confirman las agencias vigencia y condiciones de las seis ofertas, comisiones y ausencia de compromisos? La lectura de los PDF no acredita disponibilidad actual.
+49. [RETIRADA DEL ALCANCE] Consulta del activo excluido por DEC-A17; no bloquea el análisis de los cinco locales vigentes.
+50. [RETIRADA DEL ALCANCE] Simulación del activo excluido por DEC-A17; se conserva el identificador para trazabilidad.
+51. [PENDIENTE] ¿Confirman las agencias vigencia y condiciones de las cinco ofertas, comisiones y ausencia de compromisos? La lectura de los PDF no acredita disponibilidad actual.
 
-Control interno: el expediente no queda listo para presentar por ampliar la muestra. Permanecen acceso/secuencia SEPE, fondos acreditados, proforma informática, domicilio y caja de arranque. La prioridad de diligencia para El Ejido es un criterio comparativo provisional, no una decisión de compra.
+Control interno: el expediente no queda listo para presentar por ampliar la muestra. Permanecen acceso/secuencia SEPE, fondos acreditados, proforma informática, domicilio y caja de arranque. La simulación de El Ejido no establece una prioridad entre los cinco locales ni una decisión de compra.

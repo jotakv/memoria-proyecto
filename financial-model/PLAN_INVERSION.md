@@ -7,15 +7,15 @@
 
 A fecha de elaboración de la memoria, el promotor no ha adquirido, reservado ni pagado el local; tampoco ha firmado arras, contrato de compraventa o compromiso vinculante. Las restantes partidas se apoyan únicamente en presupuestos, fichas comerciales o facturas proforma. No se ha adquirido, encargado, recibido ni pagado ningún equipo, mobiliario o servicio incluido en el plan de inversión.
 
-Las fichas comerciales incorporadas documentan alternativas en Águilas (40.000 €), Castellón (39.000 €), San Fernando (45.000 €), Talavera de la Reina (32.900 €), El Ejido (36.000 €) y Oliva (50.000 €). No son proformas ni acreditan reserva, arras, compraventa, derecho de adquisición, precio pactado, compromiso del vendedor o compra. La horquilla de precios anunciados sirve para dimensionar la inversión; las superficies, direcciones, usos, vigencia y estado se verificarán documental y técnicamente, manteniendo como pendientes las discrepancias identificadas.
+Las fichas comerciales incorporadas documentan alternativas en Águilas (40.000 €), Castellón (39.000 €), San Fernando (45.000 €), Talavera de la Reina (32.900 €) y El Ejido (36.000 €). No son proformas ni acreditan reserva, arras, compraventa, derecho de adquisición, precio pactado, compromiso del vendedor o compra. La horquilla de precios anunciados sirve para dimensionar la inversión; las superficies, direcciones, usos, vigencia y estado se verificarán documental y técnicamente, manteniendo como pendientes las discrepancias identificadas.
 
-Ninguna alternativa está seleccionada contractualmente. Podrá adquirirse cualquiera de las analizadas u otro inmueble equivalente después de comparar precio, superficie, ubicación, disponibilidad, adecuación, estado físico, situación registral y urbanística, costes asociados, acondicionamiento, negociación y viabilidad global. La horquilla preliminar anunciada de 32.900 € a 50.000 € y sus límites de comparabilidad se detallan en la sección 14.3 de la memoria canónica.
+Ninguna alternativa está seleccionada contractualmente. Podrá adquirirse cualquiera de las analizadas u otro inmueble equivalente después de comparar precio, superficie, ubicación, disponibilidad, adecuación, estado físico, situación registral y urbanística, costes asociados, acondicionamiento, negociación y viabilidad global. La horquilla preliminar anunciada de 32.900 € a 45.000 € y sus límites de comparabilidad se detallan en la sección 14.3 de la memoria canónica.
 
 ## Usos previstos ampliados
 
 | ID | Partida | Importe total provisional | Documento | Estado / fuente prevista |
 |---|---|---:|---|---|
-| INV-00 | Presupuesto de referencia del precio del inmueble | 40.000,00 € | Comparativa de seis fichas comerciales; ref. 00286 como referencia histórica | `[ESTIMADO a partir de ofertas de 32.900 € a 50.000 €]`; selección, negociación y operación futuras y condicionadas |
+| INV-00 | Presupuesto de referencia del precio del inmueble | 40.000,00 € | Comparativa de cinco fichas comerciales; ref. 00286 como referencia histórica | `[ESTIMADO a partir de ofertas de 32.900 € a 45.000 €]`; selección, negociación y operación futuras y condicionadas |
 | INV-01 | Impuestos de adquisición (incluido ITP si procede) | Pendiente | Liquidación/cálculo profesional | `[PENDIENTE]` |
 | INV-02 | Notaría | Pendiente | Presupuesto/factura | `[PENDIENTE]` |
 | INV-03 | Registro | Pendiente | Presupuesto/factura | `[PENDIENTE]` |

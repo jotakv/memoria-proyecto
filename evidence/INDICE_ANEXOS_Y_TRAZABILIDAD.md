@@ -18,7 +18,7 @@
 | EVD-014 | Nota simple, Catastro e informe técnico vigentes del inmueble finalmente seleccionado | Diligencia jurídica, descriptiva, urbanística y técnica definitiva | [PENDIENTE] | No registrados para el activo definitivo |
 | EVD-015 | Expediente textual ordenado para preparación SEPE | Correspondencia entre memoria, plan, anexos, inversión y evidencias | [CONFIRMADO como dossier derivado; presentación PENDIENTE] | `docupresentarsepe/` |
 | EVD-016 | Ficha de El Ejido ref. 21496 y consulta catastral | 36.000 € anunciados; 37 m² construidos y uso comercial catastral | [CONFIRMADO como documentos; correspondencia, vigencia y aptitud PENDIENTES] | `locales/EL EJIDO CALLE GRANADA.pdf`; `locales/EL EJIDO CALLE GRANADA catrastro 6298604WF1669N0014TX.pdf` |
-| EVD-017 | Ficha de Oliva y consulta catastral | 50.000 €; entreplanta; 101 m² anunciados frente a 98 m² catastrales y uso almacén | [CONFIRMADO como documentos; correspondencia, aptitud y financiación PENDIENTES] | `locales/Oliva Ficha.pdf`; `locales/Oliva Catastro (2).pdf` |
+| EVD-017 | Evidencia retirada del estudio | Identificador conservado por trazabilidad; ver DEC-A17 | [RETIRADA DEL ALCANCE] | Sin documentos vigentes en el inventario |
 
 ## Regla de cierre
 
