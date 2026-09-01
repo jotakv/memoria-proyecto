@@ -59,7 +59,7 @@
 
 Allsetic AI Automation Studio es un proyecto de autoempleo para prestar servicios de consultoría tecnológica, desarrollo de software, automatización de procesos, integración de sistemas e inteligencia artificial aplicada. Se dirige principalmente a pymes B2B y organizaciones usuarias del ecosistema Microsoft que necesiten diagnosticar, automatizar o integrar procesos empresariales.
 
-La actividad comenzará bajo la forma de profesional autónomo, sin empleados. Su prestación tendrá una importante componente remota, complementada con una sede profesional propia destinada al puesto técnico, la instalación y custodia de equipos, el archivo y la administración, así como a reuniones, demostraciones, implantaciones y formación. La sede permitirá separar la vivienda de la actividad y dar continuidad a la operativa.
+La actividad comenzará bajo la forma de profesional autónomo, sin empleados. Su prestación tendrá una importante componente presencial, con una sede profesional propia destinada al puesto técnico, la instalación y custodia de equipos, el archivo y la administración, así como a reuniones, demostraciones, implantaciones y formación. La sede permitirá separar la vivienda de la actividad y dar continuidad a la operativa.
 
 Se plantea adquirir un local como activo exclusivamente afecto a la actividad. La compra se estudia por su estabilidad a largo plazo y por la posibilidad de adaptar el espacio a las necesidades técnicas. El proyecto no tiene objeto inmobiliario: el local no se destinará a vivienda, alquiler a terceros, reventa ni finalidad especulativa.
 
@@ -79,7 +79,7 @@ La ejecución queda condicionada a la resolución del SEPE, al respeto de la sec
 | Naturaleza | Proyecto de autoempleo cualificado |
 | Actividad | Consultoría tecnológica, software, automatización, integración e inteligencia artificial aplicada |
 | Forma inicial | Profesional autónomo, sin empleados |
-| Prestación | Principalmente remota, con sede profesional propia prevista |
+| Prestación | Principalmente presencial, con sede profesional propia prevista |
 | Inversión principal | Adquisición de un local afecto exclusivamente a la actividad |
 
 ## 3. Promotor y forma de inicio
@@ -94,7 +94,7 @@ La actividad consiste en analizar necesidades tecnológicas, diseñar soluciones
 
 El proyecto se centra en procesos empresariales y en el ecosistema Microsoft, sin limitarse a una sola herramienta. La inteligencia artificial se aplicará cuando resulte adecuada al problema concreto y se integrará con el resto de sistemas y procesos del cliente.
 
-La prestación remota será relevante, pero no exclusiva. Determinadas fases requieren un entorno profesional estable para preparar demostraciones, realizar reuniones o sesiones de análisis, custodiar infraestructura y documentación y desarrollar trabajos con continuidad.
+Determinadas fases de la actividad requieren un entorno profesional estable para preparar demostraciones, realizar reuniones o sesiones de análisis, custodiar infraestructura y documentación y desarrollar trabajos con continuidad.
 
 ## 5. Servicios ofrecidos
 
@@ -115,7 +115,7 @@ Estas líneas describen la actividad prevista y no implican la existencia de con
 
 El mercado objetivo está compuesto principalmente por pymes B2B y organizaciones usuarias del ecosistema Microsoft. Se atenderán necesidades como la reducción de tareas manuales, la conexión entre aplicaciones, la mejora del tratamiento de datos y la implantación o evolución de soluciones empresariales.
 
-La actividad puede prestarse a distancia, lo que amplía el alcance comercial, mientras que la sede profesional cubre las tareas internas y las interacciones presenciales que resulten necesarias. El expediente no atribuye al proyecto una cartera de clientes, contratos cerrados ni resultados comerciales garantizados.
+La actividad puede prestarse a clientes de todo el territorio español, lo que amplía el alcance comercial. La sede profesional cubre atención a clientes locales, las tareas internas y las interacciones presenciales que resulten necesarias. El expediente no atribuye al proyecto una cartera de clientes, contratos cerrados ni resultados comerciales garantizados.
 
 ## 7. Modelo de negocio
 
@@ -144,7 +144,7 @@ La sede concentrará el puesto técnico, los equipos, la documentación y la adm
 
 ## 9. Necesidad de sede profesional
 
-La necesidad del espacio nace de la operativa del proyecto, no de la disponibilidad de financiación. Aunque una parte importante de los servicios se prestará de forma remota, el trabajo requiere un puesto técnico permanente, instalación y custodia de equipos y periféricos, archivo, administración, separación entre vivienda y actividad, y un entorno adecuado para reuniones, demostraciones, implantaciones y formación.
+La necesidad del espacio nace de la operativa del proyecto, no de la disponibilidad de financiación. Gran parte de los servicios se prestará de forma presencial para garantizar un mejor servicio, por lo tanto el trabajo requiere un puesto técnico permanente, instalación y custodia de equipos y periféricos, archivo, administración, separación entre vivienda y actividad, y un entorno adecuado para reuniones, demostraciones, implantaciones y formación.
 
 El local tendrá una función instrumental respecto de la consultoría. No se prevé almacén, producción física ni una actividad inmobiliaria. La afectación prevista es exclusivamente empresarial, sin uso residencial, arrendamiento a terceros, reventa ni expectativa especulativa.
 
@@ -278,7 +278,7 @@ La sede deberá permitir:
 
 El activo definitivo deberá ofrecer superficie y distribución suficientes, ubicación y disponibilidad compatibles con la operativa, instalaciones adecuadas o acondicionables, compatibilidad jurídica y urbanística y un coste proporcionado a los recursos.
 
-La actividad remota describe el canal habitual de prestación, pero no elimina las necesidades de infraestructura, custodia, separación y presencia profesional. La sede no incorpora una nueva línea de negocio y quedará afecta a la consultoría.
+La actividad prestada se realizará presencialmente y está relacionada con las necesidades de infraestructura, custodia, separación y presencia profesional. La sede no incorpora una nueva línea de negocio y quedará afecta a la consultoría.
 
 <div style="page-break-after: always;"></div>
 
