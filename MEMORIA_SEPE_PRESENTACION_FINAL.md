@@ -61,7 +61,7 @@ Allsetic AI Automation Studio es un proyecto de autoempleo para prestar servicio
 
 La actividad comenzará bajo la forma de profesional autónomo, sin empleados. Su prestación tendrá una importante componente presencial, con una sede profesional propia destinada al puesto técnico, la instalación y custodia de equipos, el archivo y la administración, así como a reuniones, demostraciones, implantaciones y formación. La sede permitirá separar la vivienda de la actividad y dar continuidad a la operativa.
 
-Se plantea adquirir un local como activo exclusivamente afecto a la actividad. La compra se estudia por su estabilidad a largo plazo y por la posibilidad de adaptar el espacio a las necesidades técnicas. El proyecto no tiene objeto inmobiliario: el local no se destinará a vivienda, alquiler a terceros, reventa ni finalidad especulativa.
+Se plantea adquirir un local como activo exclusivamente afecto a la actividad. La compra se estudia por su estabilidad a largo plazo y por la posibilidad de adaptar el espacio a las necesidades técnicas. El proyecto no tiene objeto inmobiliario: el local no se destinará a vivienda, ni al alquiler a terceros, ni a la reventa ni a niguna otra finalidad especulativa.
 
 La búsqueda realizada comprende cinco ofertas documentadas en Águilas, Castellón, San Fernando, Talavera de la Reina y El Ejido, con precios anunciados entre 32.900,00 € y 45.000,00 €. Esta evidencia permite fijar, a efectos de planificación, un precio de referencia de 40.000,00 €. No existe todavía un inmueble comprado o reservado, ni se han firmado arras, contrato de compraventa o compromiso vinculante. El activo definitivo podrá ser uno de los estudiados u otro funcional y económicamente equivalente.
 
@@ -189,7 +189,7 @@ Se han documentado cinco alternativas. Sus datos esenciales se presentan en la s
 
 La horquilla observada es de 32.900,00 € a 45.000,00 €. El presupuesto de referencia de 40.000,00 € está dentro del rango y coincide con una oferta real, pero no constituye precio pactado, tasación ni límite contractual.
 
-Las diferencias territoriales, de superficie y de documentación impiden afirmar que todas las alternativas sean directamente comparables. La tabla acredita búsqueda y orden de magnitud; la ubicación profesional y la aptitud concreta se decidirán tras las verificaciones descritas. La revisión de 1 de septiembre de 2026 comprende cinco locales, incluido El Ejido. Su precio de 36.000 € permite estudiar el encaje económico, pero no acredita prioridad frente a las demás opciones; Talavera tiene el menor precio anunciado y requiere reforma. El detalle consta en el anexo II.
+Las diferencias territoriales, de superficie y de documentación impiden afirmar que todas las alternativas sean directamente comparables. La tabla acredita búsqueda y orden de magnitud; la ubicación profesional y la aptitud concreta se decidirán tras las verificaciones descritas. La revisión de 1 de septiembre de 2026 comprende cinco locales, incluido El Ejido. Su precio de 36.000 € permite estudiar el encaje económico, pero no acredita prioridad frente a las demás opciones; Talavera tiene el menor precio anunciado. El detalle consta en el anexo II.
 
 ## 12. Plan de inversión
 
@@ -310,7 +310,7 @@ Las fotos sugieren un espacio terminado apto para estudiar un puesto técnico y 
 
 ### Incidencias relevantes del conjunto
 
-Castellón presenta 53 m² en la descripción y 54 m² en el resumen de la ficha, frente a 40,50 m² construidos en Registro, además de diferencias de dirección San Mateo 2/4 y de medidas de fachada; anuncia suministros de baja y aseo para reformar. San Fernando anuncia 24 m² útiles, dos salas y accesibilidad, que deben verificarse. Talavera anuncia 41 m² útiles frente a 40,75 m² registrales; la comparación debe hacerse entre esas superficies equivalentes, no entre construida y útil. En Águilas falta el contraste registral/catastral. Las afirmaciones comerciales de conservación no sustituyen informes.
+Castellón presenta 53 m² en la descripción y 54 m² en el resumen de la ficha, frente a 40,50 m² construidos en Registro, además de diferencias de dirección San Mateo 2/4 y de medidas de fachada; anuncia suministros de baja y aseo. San Fernando anuncia 24 m² útiles, dos salas y accesibilidad, que deben verificarse. Talavera anuncia 41 m² útiles frente a 40,75 m² registrales; la comparación debe hacerse entre esas superficies equivalentes, no entre construida y útil. En Águilas falta el contraste registral/catastral. Las afirmaciones comerciales de conservación no sustituyen informes.
 
 ### Simulación económica ilustrativa de El Ejido
 
@@ -331,7 +331,7 @@ Fuentes fiscales consultadas el 01/09/2026: [Junta de Andalucía — TPO general
 
 ### Valoración conjunta de los cinco locales
 
-La muestra no permite establecer una preferencia definitiva por precio o €/m²: mezcla municipios, superficies construidas y útiles y distintos niveles de documentación. Talavera tiene el menor precio anunciado (32.900 €), pero requiere reforma; El Ejido (36.000 €) carece de nota simple y medición útil; Castellón (39.000 €) exige resolver diferencias documentales y presupuestar suministros y aseo. Águilas (40.000 €) coincide con la referencia de planificación, sin contraste registral/catastral; San Fernando (45.000 €) deja solo 3.000 € de las fuentes previstas de 48.000 € antes de tributos, formalización, equipamiento y demás gastos. Son condicionantes de estudio, no acreditaciones de aptitud ni presupuestos completos.
+La muestra no permite establecer una preferencia definitiva por precio o €/m²: mezcla municipios, superficies construidas y útiles y distintos niveles de documentación. Talavera tiene el menor precio anunciado (32.900 €) ; El Ejido (36.000 €) carece de nota simple; Castellón (39.000 €) exige resolver diferencias documentales. Águilas (40.000 €) coincide con la referencia de planificación, sin contraste registral/catastral; San Fernando (45.000 €) deja solo 3.000 € de las fuentes previstas de 48.000 € antes de tributos, formalización, equipamiento y demás gastos. Son condicionantes de estudio, no acreditaciones de aptitud ni presupuestos completos.
 
 ### Resultado
 
