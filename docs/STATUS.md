@@ -2,7 +2,7 @@
 
 **Última actualización:** 2026-09-01
 **Proyecto:** Allsetic AI Automation Studio
-**Rama de trabajo:** `codex/actualiza-memoria-sepe-adjunto-20260901`
+**Rama de trabajo:** `codex/amplia-estudio-locales-20260901`
 
 ## Estado general
 
@@ -10,7 +10,15 @@
 
 La memoria canónica y la aplicación permanecen como fuente pública. `plan-empresa/` añade un plan autosuficiente para jurado, un resumen ejecutivo, modelo revisable a 36 meses, fuentes/pendientes y cobertura de plantillas.
 
-## Revisión vigente · memoria final · 2026-09-01
+## Revisión vigente · ampliación del estudio inmobiliario · 2026-09-01
+
+- `[CONFIRMADO como inventario]` Se revisan los once PDF de `locales/`: seis fichas, dos notas simples y tres documentos catastrales. Se añaden El Ejido (36.000 €) y Oliva (50.000 €), con horquilla ampliada de 32.900–50.000 €.
+- `[CONFIRMADO como documentos]` El Ejido: 37 m² construidos, desglosados en 32 m² comercio y 5 m² comunes; año 1982 en Catastro. Oliva: 101 m² anunciados y 98 m² catastrales, 93 m² almacén y 5 m² comunes, en entreplanta según ficha; identidad/aptitud pendientes.
+- `[CÁLCULO / HIPÓTESIS HYP-A26]` Total ilustrativo de El Ejido: 44.765,64 €, margen 3.234,36 €; Oliva: 61.253,84 €, insuficiencia 13.253,84 €, frente a las fuentes previstas de la memoria final. No se cambia el escenario central ni se presume circulante suficiente.
+- `[PENDIENTE]` Precio/condiciones vigentes, identidad registral, superficie útil, compatibilidad profesional y costes. Se añaden preguntas 47–51; ninguna alternativa queda seleccionada ni se afirma aprobación SEPE.
+- `[CONFIRMADO como alcance]` Ampliación de los dos documentos solicitados; sincronización de índices, recuentos, fuentes, memoria canónica y sus dependencias. Los PDF originales permanecen intactos. La financiación histórica de otros modelos sigue requiriendo conciliación antes de una presentación conjunta.
+
+## Antecedente · revisión de la memoria final · 2026-09-01
 
 - `[CONFIRMADO como alcance]` Se actualiza la memoria final raíz desde el adjunto del promotor, conservando secciones, anexos, enlaces y maquetación; se registra DEC-A15.
 - `[CONFIRMADO por declaración / PENDIENTE de acreditación]` Fondos propios 19.000 €. Con el pago único estimado de 29.000 €, las fuentes previstas suman 48.000 €. Esta cifra sustituye el escenario histórico de 12.000 € propios para la memoria final (HYP-A25).

@@ -18,10 +18,10 @@ Los PDF inmobiliarios permanecen en [`locales/`](../locales/) y las proformas/pr
 
 ## Estado de lectura
 
-- Existen cuatro fichas comerciales, dos notas simples y una certificación catastral vinculadas al estudio previo.
+- Existen seis fichas comerciales, dos notas simples y tres documentos catastrales (una certificación y dos consultas) vinculadas al estudio previo.
 - Los fondos propios declarados por el promotor ascienden a **19.000 €**; la evidencia documental se incorporará al expediente.
 - El pago único previsto asciende aproximadamente a **29.000 €**; es una estimación sujeta a la resolución del SEPE.
 - Las fuentes previstas del escenario de referencia ascienden aproximadamente a **48.000 €**; esta cifra no equivale todavía a disponibilidad íntegramente acreditada.
-- El presupuesto de referencia para el precio del inmueble es **40.000 €**, dentro de una horquilla anunciada de **32.900–45.000 €**.
+- El presupuesto de referencia para el precio del inmueble es **40.000 €**, dentro de una horquilla anunciada de **32.900–50.000 €**.
 
 No existe local comprado, reservado o seleccionado contractualmente; tampoco arras, contrato de compraventa o compromiso vinculante. Los controles previos a la versión definitiva figuran en el [índice](00_INDICE_EXPEDIENTE_SEPE.md) y en el documento interno [PreguntasPendientes.md](PreguntasPendientes.md).

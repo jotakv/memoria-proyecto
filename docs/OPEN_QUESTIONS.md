@@ -66,10 +66,10 @@
 39. [PENDIENTE] ¿Qué comparación documentada de compra y alquiler acredita coste total, alternativas disponibles, horizonte, adaptación, liquidez y proporcionalidad?
 40. [PENDIENTE] ¿Puede el proveedor sustituir el documento informático denominado «Documento de pedido», con entrega prevista el 31/08/2026, por una proforma vigente con datos fiscales y domicilio correctos, pendiente de aceptación, pago y entrega? La revisión de 01/09/2026 confirma que el soporte disponible no es la proforma validada que describe el adjunto; no acredita por sí solo pago o entrega efectivos.
 41. [PENDIENTE] ¿Qué caja queda para adquisición, acondicionamiento, proformas, actividad corriente y primeros meses tras una retirada personal de 800 €/mes?
-42. [PENDIENTE] ¿Siguen vigentes y disponibles las cuatro ofertas incorporadas y qué comparables adicionales de la ubicación profesional finalmente elegida permitirán validar que la horquilla preliminar es territorial y funcionalmente representativa?
+42. [PENDIENTE] ¿Siguen vigentes y disponibles las seis ofertas incorporadas y qué comparables adicionales de la ubicación profesional finalmente elegida permitirán validar que la horquilla preliminar es territorial y funcionalmente representativa?
 43. [PENDIENTE] ¿Qué presupuesto máximo aprobará el promotor para el precio y para el coste total de adquisición tras comparar inmuebles, negociación, tributos, formalización y acondicionamiento?
 44. [PENDIENTE] ¿Coinciden exactamente ficha, finca registral y Catastro de Castellón, dadas las diferencias de dirección, superficie y uso, y es compatible el uso catastral indicado con la actividad prevista?
-45. [PENDIENTE] ¿Cómo se explica la diferencia entre los 50 m² anunciados y los 40,75 m² útiles de la nota simple de Talavera, y cuál es la superficie medida y apta para la actividad?
+45. [PENDIENTE] ¿Cuál es la superficie útil medida y apta de Talavera? El anuncio distingue 50 m² construidos y 41 m² útiles; estos últimos deben compararse con los 40,75 m² útiles registrales, sin confundir ambas magnitudes.
 46. [PENDIENTE DE CUADRE FINAL] ¿Qué ajuste documentado cubrirá la diferencia de 1.990,84 € entre la inversión de 49.990,84 € y los 48.000 € de fuentes previstas en la memoria final? Esta cifra actualiza el escenario anterior; además debe dimensionarse y financiarse el circulante necesario.
 
 ## Revisión de la memoria final · 2026-09-01
@@ -77,3 +77,13 @@
 - La revisión editorial puede aprobarse mediante PR; no acredita que el expediente administrativo esté completo.
 - Siguen por concretar domicilio profesional, fecha prevista de inicio compatible con los plazos SEPE y liquidez de arranque. No se inventan esos datos al trasladar el adjunto.
 - La comparación compra/alquiler del punto 39 permanece como comprobación interna de proporcionalidad; se simplifica su repetición en el documento de presentación siguiendo el adjunto.
+
+## Incorporaciones inmobiliarias · 2026-09-01
+
+47. [PENDIENTE] El Ejido: ¿corresponden la ficha ref. 21496 y la referencia 6298604WF1669N0014TX a la misma finca? Obtener nota simple, medición útil, plano, explicación de participación catastral y título/estatutos.
+48. [PENDIENTE] El Ejido: ¿qué actuaciones, permisos, instalaciones y costes reales requiere la consultoría? Aclarar conservación «nuevo» frente al año 1982; obtener certificado energético, condiciones de agencia y recibos de gastos.
+49. [PENDIENTE] Oliva: ¿cómo se concilian 101/98 m², números 16/12, planta AL, puerta 13 y uso almacén con la finca ofertada? Obtener nota simple y verificar acceso, accesibilidad, evacuación y compatibilidad profesional.
+50. [PENDIENTE] Oliva: ¿qué precio negociado o financiación acreditada resolvería los 13.253,84 € de insuficiencia ilustrativa sin omitir obras ni circulante? No se da por financiada por aparecer en la comparativa.
+51. [PENDIENTE] ¿Confirman las agencias vigencia y condiciones de las seis ofertas, comisiones y ausencia de compromisos? La lectura de los PDF no acredita disponibilidad actual.
+
+Control interno: el expediente no queda listo para presentar por ampliar la muestra. Permanecen acceso/secuencia SEPE, fondos acreditados, proforma informática, domicilio y caja de arranque. La prioridad de diligencia para El Ejido es un criterio comparativo provisional, no una decisión de compra.

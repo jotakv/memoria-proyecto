@@ -83,3 +83,11 @@
 - [SEPE — Capitaliza tu prestación](https://sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion.html): solicitud anterior al inicio; posibilidad de iniciar tras solicitar y antes de resolver; inicio en el mes desde la resolución y acreditación del destino en el mes desde el cobro, según los apartados de requisitos y destino.
 - [SEPE — Memoria explicativa oficial](https://sepe.es/SiteSepe/contenidos/personas/prestaciones/pdf/memoria_explicativa.pdf): información del proyecto, local, inversión, financiación, ubicación y fecha prevista de inicio. Se contrasta con la memoria final; no se dan por completados los datos todavía no acreditados.
 - [SEPE — Gastos de inversión](https://sepe.es/HomeSepe/preguntas-frecuentes/detalle-pregunta?detail=/preguntas/prestaciones-por-desempleo/capitalizacion-de-la-prestaci-n-para-el-inicio-de-la-actividad/cobro-el-paro-y-quiero-montar-un-negocio-que-gastos-puedo-alegar-como-inversion-necesaria-para-capitalizar-la-prestacion): contempla inmuebles necesarios para la actividad como categoría de inversión; no constituye aprobación anticipada de ninguna adquisición concreta.
+
+## SRC-A08 · Comparación fiscal de las nuevas alternativas · 2026-09-01
+
+- [Junta de Andalucía — Transmisiones Patrimoniales Onerosas](https://www.juntadeandalucia.es/organismos/economiahaciendayfondoseuropeos/areas/tributos-juego/tributos/paginas/impuestos-cedidos-transmisiones.html): tipo general del 7 % en transmisiones inmobiliarias; utilizado solo como hipótesis TPO para El Ejido.
+- [BOE — Ley 13/1997, artículo 13](https://www.boe.es/buscar/act.php?id=BOE-A-1998-8202#a13): 9 % general para los importes estudiados desde 01/06/2026; hipótesis TPO para Oliva, conforme a SRC-A07.
+- [BOE — Ley 37/1992, artículo 90](https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740#a90): IVA general del 21 %, aplicado a la comisión hipotética de intermediación. El porcentaje de comisión no procede de una norma ni de un presupuesto de agencia.
+- **Consulta:** 2026-09-01. **Aplicación:** HYP-A26; no certifica régimen, base imponible ni cuotas definitivas de las operaciones.
+- Se reconsulta la FAQ SEPE de gastos de inversión: la mención genérica de inmuebles necesarios no acredita admisibilidad de un local concreto ni permite suplir aptitud o financiación.

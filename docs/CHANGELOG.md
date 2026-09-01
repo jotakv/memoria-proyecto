@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-09-01 · Estudio ampliado a seis alternativas
+
+- Se analizan las fichas y consultas catastrales nuevas de El Ejido y Oliva y se amplían el anexo II y la memoria final sin sustituir el contenido empresarial.
+- Se incorporan identificación, estado, superficie, uso, límites de evidencia, comprobaciones y comparación económica: 44.765,64 € y 61.253,84 €, respectivamente, bajo HYP-A26.
+- Se revisan incidencias de las alternativas previas, incluyendo 53/54 m² en Castellón y la distinción entre superficie construida y útil en Talavera.
+- Se mantiene el escenario central de inversión y financiación; el rango de precios anunciados pasa a 32.900–50.000 €.
+- Se sincronizan índices, referencias dependientes y registros, y se regenera la aplicación desde la memoria canónica. Los once PDF permanecen intactos.
+
 ## 2026-09-01 · Actualización de la memoria final desde el adjunto del promotor
 
 - Se actualiza `MEMORIA_SEPE_PRESENTACION_FINAL.md` con la denominación de consultora informática, la experiencia en desarrollo sobre tecnologías Microsoft en la nube y las simplificaciones de redacción del adjunto, conservando las 16 secciones, ocho anexos, enlaces y saltos de página.

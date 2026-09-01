@@ -24,7 +24,7 @@ El orden empresarial de la decisión es:
 
 ## Mercado inmobiliario y selección abierta
 
-El expediente contiene cuatro ofertas reales con precios anunciados entre 32.900 € y 45.000 €. Ninguna alternativa ha sido comprada, reservada o seleccionada contractualmente. No existen arras, contrato de compraventa ni compromiso vinculante.
+El expediente contiene seis ofertas reales con precios anunciados entre 32.900 € y 50.000 €. Ninguna alternativa ha sido comprada, reservada o seleccionada contractualmente. No existen arras, contrato de compraventa ni compromiso vinculante.
 
 El plan conserva 40.000 € como presupuesto estimado de referencia. El inmueble definitivo podrá ser uno de los analizados u otro equivalente y quedará sujeto a vigencia, negociación y revisión funcional, jurídica, registral, urbanística, técnica y financiera.
 

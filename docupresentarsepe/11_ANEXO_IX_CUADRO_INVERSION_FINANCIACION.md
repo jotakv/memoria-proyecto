@@ -14,7 +14,7 @@
 
 | Concepto | Estado | Importe | Fuente o criterio |
 |---|---|---:|---|
-| Precio del local · presupuesto de referencia | Estimación; no es precio contractual | 40.000,00 € | Cuatro ofertas anunciadas entre 32.900 y 45.000 € |
+| Precio del local · presupuesto de referencia | Estimación; no es precio contractual | 40.000,00 € | Seis ofertas anunciadas entre 32.900 y 50.000 € |
 | Fiscalidad de adquisición | Estimación sujeta al activo definitivo | 3.600,00 € | Escenario central del 9 %; rango territorial de planificación 2.800–4.000 € |
 | Notaría y Registro | Estimación sujeta a la operación | 700,00 € | Rango de planificación 500–900 € |
 | Intermediación | Escenario prudente con agencia | 1.452,00 € | 3 % más IVA sobre 40.000 €; compra directa: 0 € |
@@ -43,3 +43,7 @@ La horquilla de mercado ya contiene alternativas por debajo de esos umbrales. La
 - No existe compra, reserva, arras, contrato de compraventa ni compromiso vinculante.
 - El inmueble definitivo podrá ser uno de los analizados u otro funcional y económicamente equivalente.
 - Las cuestiones abiertas se controlan en [PreguntasPendientes.md](PreguntasPendientes.md), documento interno previo.
+
+## E. Sensibilidad de las nuevas alternativas
+
+Sin modificar las fuentes o el escenario central, el [anexo II](04_ANEXO_II_ESTUDIO_MERCADO_INMOBILIARIO.md) calcula El Ejido en 44.765,64 € y Oliva en 61.253,84 € bajo HYP-A26: saldo frente a 48.000 € de +3.234,36 € y −13.253,84 €, respectivamente. Son simulaciones con base fiscal y comisión supuestas; faltan partidas y circulante por presupuestar. El saldo favorable no demuestra viabilidad operativa.
