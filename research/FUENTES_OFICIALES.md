@@ -68,3 +68,18 @@
 - `[CONFIRMADO — fuente primaria]` Se reconsultaron por HTTP las páginas SEPE SRC-A01, SRC-A02 y SRC-A04 y el texto consolidado BOE SRC-A05. Respaldan inversión necesaria/puesta en funcionamiento, solicitud previa, justificación íntegra y pagos bancarios; **no contienen una aprobación individual anticipada del local candidato**.
 - `[PENDIENTE]` Obtener del Ayuntamiento de Águilas información oficial aplicable a compatibilidad urbanística, declaración responsable/licencia, accesibilidad e incendios según actividad y local concretos.
 - `[PENDIENTE]` Confirmar con la Agencia Tributaria de la Región de Murcia el ITP aplicable y su base, y con AEAT el tratamiento de afectación/amortización. No se incorpora tipo ni importe sin caso y fecha.
+
+## SRC-A07 · Referencia TPO valenciana para la memoria final
+
+- **Institución:** BOE; norma de la Generalitat Valenciana.
+- **Norma:** Ley 13/1997, artículo 13.Uno, en la redacción aplicable desde el 01/06/2026.
+- **Fuente:** [Texto consolidado, artículo 13](https://www.boe.es/buscar/act.php?id=BOE-A-1998-8202#a13).
+- **Consulta:** 2026-09-01.
+- **Contenido verificado:** tipo general del 9 % para adquisiciones inmobiliarias, con excepciones legales; 11 % si el valor supera un millón de euros. El escenario de referencia de 40.000 € utiliza el 9 % como hipótesis, sujeto a base y régimen efectivos.
+- **Afecta a:** anexo IV de `MEMORIA_SEPE_PRESENTACION_FINAL.md` y `docupresentarsepe/06_ANEXO_IV_PRESUPUESTO_ADQUISICION_LOCAL.md`. Se corrige el 10 % general anterior; el importe central previsto no cambia.
+
+## Revalidación para la memoria final · 2026-09-01
+
+- [SEPE — Capitaliza tu prestación](https://sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion.html): solicitud anterior al inicio; posibilidad de iniciar tras solicitar y antes de resolver; inicio en el mes desde la resolución y acreditación del destino en el mes desde el cobro, según los apartados de requisitos y destino.
+- [SEPE — Memoria explicativa oficial](https://sepe.es/SiteSepe/contenidos/personas/prestaciones/pdf/memoria_explicativa.pdf): información del proyecto, local, inversión, financiación, ubicación y fecha prevista de inicio. Se contrasta con la memoria final; no se dan por completados los datos todavía no acreditados.
+- [SEPE — Gastos de inversión](https://sepe.es/HomeSepe/preguntas-frecuentes/detalle-pregunta?detail=/preguntas/prestaciones-por-desempleo/capitalizacion-de-la-prestaci-n-para-el-inicio-de-la-actividad/cobro-el-paro-y-quiero-montar-un-negocio-que-gastos-puedo-alegar-como-inversion-necesaria-para-capitalizar-la-prestacion): contempla inmuebles necesarios para la actividad como categoría de inversión; no constituye aprobación anticipada de ninguna adquisición concreta.

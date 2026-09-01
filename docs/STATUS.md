@@ -1,8 +1,8 @@
 # Estado del proyecto
 
-**Última actualización:** 2026-08-31
+**Última actualización:** 2026-09-01
 **Proyecto:** Allsetic AI Automation Studio
-**Rama de trabajo:** `feat/plan-empresa-allsetic`
+**Rama de trabajo:** `codex/actualiza-memoria-sepe-adjunto-20260901`
 
 ## Estado general
 
@@ -10,7 +10,17 @@
 
 La memoria canónica y la aplicación permanecen como fuente pública. `plan-empresa/` añade un plan autosuficiente para jurado, un resumen ejecutivo, modelo revisable a 36 meses, fuentes/pendientes y cobertura de plantillas.
 
-## Alcance de esta iteración
+## Revisión vigente · memoria final · 2026-09-01
+
+- `[CONFIRMADO como alcance]` Se actualiza la memoria final raíz desde el adjunto del promotor, conservando secciones, anexos, enlaces y maquetación; se registra DEC-A15.
+- `[CONFIRMADO por declaración / PENDIENTE de acreditación]` Fondos propios 19.000 €. Con el pago único estimado de 29.000 €, las fuentes previstas suman 48.000 €. Esta cifra sustituye el escenario histórico de 12.000 € propios para la memoria final (HYP-A25).
+- `[CÁLCULO]` Inversión 49.990,84 € y diferencia sin financiar de 1.990,84 €. No se han acreditado ingresos, financiación adicional ni circulante suficiente.
+- `[CONFIRMADO como revisión documental]` El documento informático disponible sigue denominado pedido y tiene entrega prevista el 31/08/2026; falta la proforma sustitutiva. La falta de encargo, recepción y pago se recoge como declaración del promotor.
+- `[PENDIENTE]` Acreditación bancaria de fondos propios, cierre del presupuesto, domicilio/inicio y viabilidad operativa; los controles se mantienen en `OPEN_QUESTIONS.md`.
+- `[CONFIRMADO como fuente oficial]` Se precisa el calendario SEPE y se actualiza al 9 % la referencia general valenciana para los importes estudiados, también en el anexo de adquisición.
+- `[ALCANCE LIMITADO]` Esta PR actualiza el documento final solicitado y sus registros de soporte. Los modelos y relatos previos conservan supuestos históricos y requieren conciliación antes de utilizarlos juntos en una presentación.
+
+## Antecedente · iteración de 2026-08-31
 
 - `[CONFIRMADO]` Se mantiene identidad, promotor, experiencia declarada, forma autónoma sin empleados y componente principalmente remota; desde DEC-A12 se requiere además sede profesional propia.
 - `[CONFIRMADO]` Solicitud de prestación presentada el 26/08/2026; SMAC cerrado por acuerdo el 25/08/2026 y sin procedimiento judicial pendiente, según declaración del promotor.

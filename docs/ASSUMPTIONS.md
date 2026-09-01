@@ -1,6 +1,6 @@
 # Registro de hipótesis
 
-**Última actualización:** 2026-08-29
+**Última actualización:** 2026-09-01
 
 > Toda cifra no confirmada debe conservar su identificador y sustituirse por datos documentados cuando exista evidencia. Ninguna hipótesis equivale a venta, facturación, concesión o compromiso contractual.
 
@@ -74,3 +74,15 @@ Todas permanecen **ABIERTAS** y requieren aprobación expresa del promotor; no e
 - **HYP-A24:** `[CONFIRMADO como evidencia documental / PENDIENTE de validación]` cuatro fichas comerciales muestran precios anunciados de 32.900 €, 39.000 €, 40.000 € y 45.000 €. La horquilla preliminar de 32.900–45.000 € respalda el orden de magnitud del presupuesto de referencia de 40.000 €, pero no acredita vigencia, comparabilidad territorial, aptitud ni valor de mercado tasado.
 
 Los 40.000 € constituyen el **presupuesto de referencia** del escenario financiero y coinciden con el precio anunciado de una alternativa; no son el coste total ni un precio pactado. La diferencia entre usos conocidos y financiación identificada se mantiene como **BRECHA DE FINANCIACIÓN PENDIENTE**.
+
+## HYP-A25 · Escenario vigente de la memoria final · 2026-09-01
+
+- **Fuente:** `MEMORIA_SEPE_PRESENTACION_FINAL.md` adjunto por el promotor y versión del mismo archivo en el repositorio.
+- **Fondos propios:** `[CONFIRMADO por declaración / PENDIENTE de acreditación]` 19.000 €. Sustituye HYP-A19 en esta versión; la cifra anterior de 12.000 € se conserva como antecedente.
+- **Pago único:** `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` aproximadamente 29.000 €, destinado prioritariamente al precio del local. Fuentes totales previstas: 48.000 €; deuda y otras ayudas previstas: 0 €.
+- **Aplicaciones:** `[ESTIMADO]` precio del local 40.000 €, fiscalidad 3.600 €, notaría/Registro 700 €, intermediación 1.452 € e inspección/acondicionamiento 1.500 €. Los costes asociados suman 7.252 €; no son costes definitivos acreditados.
+- **Documentos comerciales:** 1.317,48 € de informática + 477,56 € de mobiliario + 943,80 € de gestoría = 2.738,84 €. El soporte informático desglosa 1.088,82 € de base y 228,66 € de IVA; sigue pendiente de sustitución por proforma inequívoca.
+- **Conciliación:** `[CÁLCULO]` aplicaciones 49.990,84 € − fuentes 48.000 € = 1.990,84 € sin financiar. Debe resolverse mediante precio/costes documentados o financiación acreditada; no se supone resuelta.
+- **Sensibilidad ya incluida:** 38.009,16 € de precio equilibran el cuadro si todos los demás importes quedan fijos; 38.173,54 € aproximadamente si solo la fiscalidad se recalcula al 9 % y la intermediación sigue fija. No son ofertas ni límites que reserven circulante.
+- **Fiscalidad:** la referencia general valenciana para los importes estudiados es el 9 % desde el 01/06/2026. La reserva de hasta 4.000 € sigue siendo una hipótesis presupuestaria; la base fiscal puede exigir otro desembolso. Véase SRC-A07.
+- **Límite:** el cuadro concilia inversión y financiación previstas; no sustituye la previsión de ingresos, gastos corrientes y tesorería. La liquidez de los primeros meses sigue abierta.
