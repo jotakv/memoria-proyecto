@@ -124,3 +124,12 @@
 - **Trazabilidad:** HYP-A24 actualizada, HYP-A26 y evidencias EVD-016/EVD-017; referencias dependientes sincronizadas sin modificar PDF ni eliminar el análisis previo.
 - **Estado:** PROPUESTA PARA REVISIÓN MANUAL EN PR; no compra, reserva, autorización de actividad ni concesión administrativa.
 - **Fuente:** petición del promotor y PDF incorporados a `locales/` en main, commit 6feab3c1727d42fdd2b6876e002bb257db505fd7.
+
+## DEC-A17 · Retirada de Oliva y muestra vigente de cinco locales
+
+- **Fecha:** 2026-09-01.
+- **Decisión:** retirar Oliva de las memorias, estudio de mercado, índices y simulaciones vigentes por instrucción expresa del promotor. La muestra queda en Águilas, Castellón, San Fernando, Talavera de la Reina y El Ejido; nueve PDF y precios anunciados de 32.900–45.000 €.
+- **Fuente:** petición del promotor y estado de `main` en e96598a74edf33399db3e2d55c2ae3a693a5cb41, tras las eliminaciones de los dos PDF de Oliva. Los nueve PDF restantes no cambian respecto de la revisión anterior.
+- **Efecto:** sustituye DEC-A16 en composición, rango y preferencia entre las dos incorporaciones. HYP-A26 conserva solo El Ejido; EVD-017 y preguntas 49–50 quedan retirados del alcance, sin reutilizar sus identificadores. Se conserva el histórico de decisiones y cambios.
+- **Criterio:** distinguir precios anunciados, superficies construidas/útiles, conservación comercial y comprobación técnica. No ordenar los cinco activos solo por precio; conservar selección abierta, presupuesto de referencia de 40.000 € y cuadro central HYP-A25.
+- **Estado:** PROPUESTA DOCUMENTAL PARA VALIDACIÓN MANUAL EN PR; no implica compra, reserva, aptitud certificada ni aprobación del SEPE. No se modifican binarios.

@@ -63,7 +63,7 @@ La actividad comenzará bajo la forma de profesional autónomo, sin empleados. S
 
 Se plantea adquirir un local como activo exclusivamente afecto a la actividad. La compra se estudia por su estabilidad a largo plazo y por la posibilidad de adaptar el espacio a las necesidades técnicas. El proyecto no tiene objeto inmobiliario: el local no se destinará a vivienda, alquiler a terceros, reventa ni finalidad especulativa.
 
-La búsqueda realizada comprende seis ofertas documentadas en Águilas, Castellón, San Fernando, Talavera de la Reina, El Ejido y Oliva, con precios anunciados entre 32.900,00 € y 50.000,00 €. Esta evidencia permite fijar, a efectos de planificación, un precio de referencia de 40.000,00 €. No existe todavía un inmueble comprado o reservado, ni se han firmado arras, contrato de compraventa o compromiso vinculante. El activo definitivo podrá ser uno de los estudiados u otro funcional y económicamente equivalente.
+La búsqueda realizada comprende cinco ofertas documentadas en Águilas, Castellón, San Fernando, Talavera de la Reina y El Ejido, con precios anunciados entre 32.900,00 € y 45.000,00 €. Esta evidencia permite fijar, a efectos de planificación, un precio de referencia de 40.000,00 €. No existe todavía un inmueble comprado o reservado, ni se han firmado arras, contrato de compraventa o compromiso vinculante. El activo definitivo podrá ser uno de los estudiados u otro funcional y económicamente equivalente.
 
 El escenario de referencia asciende a 49.990,84 €: 40.000,00 € de precio del local, 7.252,00 € de costes asociados estimados y 2.738,84 € de informática, mobiliario y gestoría respaldados por documentos comerciales. Las fuentes previstas son aproximadamente 48.000,00 €, integradas por un pago único estimado de 29.000,00 €, sujeto a la resolución del SEPE, y 19.000,00 € de fondos propios declarados por el promotor, cuya acreditación se incorporará al expediente.
 
@@ -160,9 +160,9 @@ Debe distinguirse entre una **necesidad empresarial ya definida** y un **activo 
 - no existe contrato de compraventa;
 - no existe compromiso vinculante o irrevocable.
 
-Las alternativas de Águilas, Castellón, San Fernando, Talavera de la Reina, El Ejido y Oliva son ofertas y evidencias reales utilizadas para estudiar el mercado y dimensionar la inversión. Algunas disponen también de nota simple o información catastral. No son tasaciones, facturas proforma, títulos del promotor ni compromisos de compra.
+Las alternativas de Águilas, Castellón, San Fernando, Talavera de la Reina y El Ejido son ofertas y evidencias reales utilizadas para estudiar el mercado y dimensionar la inversión. Algunas disponen también de nota simple o información catastral. No son tasaciones, facturas proforma, títulos del promotor ni compromisos de compra.
 
-El inmueble final podrá ser uno de los seis analizados u otro equivalente. Antes de asumir una obligación se comprobarán:
+El inmueble final podrá ser uno de los cinco analizados u otro equivalente. Antes de asumir una obligación se comprobarán:
 
 - vigencia, disponibilidad y precio negociado;
 - superficie, distribución y ubicación;
@@ -177,7 +177,7 @@ La secuencia empresarial será: necesidad operativa, requisitos del espacio, est
 
 ## 11. Estudio de mercado inmobiliario
 
-Se han documentado seis alternativas. Sus datos esenciales se presentan en la siguiente tabla; el detalle y las cautelas figuran en los anexos II y III.
+Se han documentado cinco alternativas. Sus datos esenciales se presentan en la siguiente tabla; el detalle y las cautelas figuran en los anexos II y III.
 
 | Alternativa | Precio anunciado | Superficie documentada | Evidencia disponible |
 |---|---:|---|---|
@@ -186,17 +186,16 @@ Se han documentado seis alternativas. Sus datos esenciales se presentan en la si
 | San Fernando | 45.000,00 € | 31 m² construidos; 24 m² útiles anunciados | Ficha comercial |
 | Talavera de la Reina | 32.900,00 € | 50 m² construidos y 41 m² útiles anunciados; 40,75 m² útiles registrales | Ficha y nota simple |
 | El Ejido, ref. 21496 | 36.000,00 € | 37 m² anunciados y catastrales: 32 m² comercio + 5 m² comunes | Ficha y consulta catastral |
-| Oliva, anuncio 112241985 | 50.000,00 € | 101 m² anunciados; 98 m² catastrales: 93 m² almacén + 5 m² comunes | Ficha y consulta catastral |
 
-La horquilla observada es de 32.900,00 € a 50.000,00 €. El presupuesto de referencia de 40.000,00 € está dentro del rango y coincide con una oferta real, pero no constituye precio pactado, tasación ni límite contractual.
+La horquilla observada es de 32.900,00 € a 45.000,00 €. El presupuesto de referencia de 40.000,00 € está dentro del rango y coincide con una oferta real, pero no constituye precio pactado, tasación ni límite contractual.
 
-Las diferencias territoriales, de superficie y de documentación impiden afirmar que todas las alternativas sean directamente comparables. La tabla acredita búsqueda y orden de magnitud; la ubicación profesional y la aptitud concreta se decidirán tras las verificaciones descritas. La revisión de 1 de septiembre de 2026 incorpora El Ejido y Oliva. El Ejido presenta mejor encaje inicial de precio entre las dos novedades; Oliva supera las fuentes previstas solo con su precio anunciado y exige resolver las diferencias de superficie, uso y acceso en entreplanta. El detalle consta en el anexo II.
+Las diferencias territoriales, de superficie y de documentación impiden afirmar que todas las alternativas sean directamente comparables. La tabla acredita búsqueda y orden de magnitud; la ubicación profesional y la aptitud concreta se decidirán tras las verificaciones descritas. La revisión de 1 de septiembre de 2026 comprende cinco locales, incluido El Ejido. Su precio de 36.000 € permite estudiar el encaje económico, pero no acredita prioridad frente a las demás opciones; Talavera tiene el menor precio anunciado y requiere reforma. El detalle consta en el anexo II.
 
 ## 12. Plan de inversión
 
 | Concepto | Importe | Estado o criterio | Evidencia |
 |---|---:|---|---|
-| Precio del local | 40.000,00 € | Referencia; no contractual | Seis ofertas |
+| Precio del local | 40.000,00 € | Referencia; no contractual | Cinco ofertas |
 | Fiscalidad | 3.600,00 € | Estimación central del 9 % | Fuentes tributarias |
 | Notaría y Registro | 700,00 € | Reserva estimada | Aranceles regulados |
 | Intermediación | 1.452,00 € | Escenario con agencia | 3 % más IVA |
@@ -236,9 +235,9 @@ La horquilla estudiada incluye alternativas inferiores a dichos umbrales. Ademá
 
 Los principales riesgos son la cuantía y condiciones de la resolución, la concentración de recursos en inmovilizado, la ubicación profesional todavía no definida, las diferencias entre anuncios y registros y el acondicionamiento aún desconocido. Se controlan manteniendo abierta la selección y condicionando cualquier compra a la suficiencia financiera y a la diligencia previa.
 
-### Efecto de las nuevas alternativas
+### Sensibilidad del escenario de El Ejido
 
-Las simulaciones del anexo II, separadas del escenario de referencia, sitúan El Ejido en **44.765,64 €** y Oliva en **61.253,84 €**, incluyendo precio, TPO orientativo, agencia hipotética, reservas de formalización/acondicionamiento y los documentos comerciales. Frente a las fuentes previstas de 48.000 €, arrojan respectivamente **3.234,36 € de margen provisional** y **13.253,84 € de insuficiencia**. No se sustituye el presupuesto principal ni se presume financiación adicional; el margen de El Ejido debe absorber las partidas todavía no presupuestadas y no demuestra liquidez suficiente.
+La simulación de El Ejido del anexo II, separada del escenario de referencia, asciende a **44.765,64 €**, incluyendo precio, TPO orientativo, agencia hipotética, reservas de formalización/acondicionamiento y los documentos comerciales. Frente a las fuentes previstas de 48.000 €, arroja **3.234,36 € de margen provisional**. No sustituye el presupuesto principal ni presume financiación adicional; el margen debe absorber las partidas todavía no presupuestadas y no demuestra liquidez suficiente.
 
 ## 15. Puesta en marcha
 
@@ -252,7 +251,7 @@ Posteriormente se realizarán el acondicionamiento mínimo, la instalación del 
 
 Allsetic AI Automation Studio plantea una actividad de consultoría tecnológica coherente con la experiencia declarada del promotor y una estructura inicial contenida, como profesional autónomo sin empleados. La sede responde a funciones concretas de infraestructura, custodia, administración, separación de usos y atención profesional.
 
-La inversión inmobiliaria se apoya en seis ofertas documentadas y en un presupuesto de referencia situado dentro de la horquilla observada. La selección permanece abierta para asegurar la aptitud del activo y conciliar el coste con los recursos disponibles.
+La inversión inmobiliaria se apoya en cinco ofertas documentadas y en un presupuesto de referencia situado dentro de la horquilla observada. La selección permanece abierta para asegurar la aptitud del activo y conciliar el coste con los recursos disponibles.
 
 Se solicita la capitalización para destinar prioritariamente el importe concedido a la adquisición del local afecto a la actividad. Los fondos propios complementarán la financiación. La operación solo se ejecutará si la resolución, las verificaciones y el coste definitivo permiten preservar la viabilidad y formalizar correctamente el inicio de la actividad.
 
@@ -300,7 +299,6 @@ El estudio documenta una búsqueda efectiva y la razonabilidad inicial del presu
 | San Fernando | 45.000,00 €; 31 m² construidos y 24 m² útiles anunciados | Ficha de Xtucasa | Identificación, vigencia, accesibilidad, estado, Registro y Catastro |
 | Talavera de la Reina | 32.900,00 €; 50 m² construidos y 41 m² útiles anunciados; 40,75 m² útiles registrales | Ficha y nota simple | Comparar superficies equivalentes, vigencia y revisión técnica y urbanística |
 | El Ejido, ref. 21496 | 36.000,00 €; 37 m²; un baño; Ejido sur | Ficha de Murgicasa y consulta catastral | Confirmar identidad, superficie útil, Registro, estado, permisos y coste final |
-| Oliva, anuncio 112241985 | 50.000,00 €; 101 m² anunciados; entreplanta, un baño | Ficha de Bolo Rent y consulta catastral de 98 m² | Reconciliar superficie, uso de almacén, acceso, aptitud y financiación |
 
 En Castellón, la ficha indica calle de Sant Mateu 4 y la nota simple describe calle San Mateo 2; Catastro localiza San Mateo 4 e indica uso de almacén-estacionamiento. Esta correspondencia debe resolverse antes de considerar la alternativa. En Talavera, la ausencia de cargas se refiere a la fecha de la nota simple disponible y requerirá documentación vigente si se avanza.
 
@@ -308,38 +306,36 @@ En Castellón, la ficha indica calle de Sant Mateu 4 y la nota simple describe c
 
 La [ficha de Murgicasa, ref. 21496](locales/EL%20EJIDO%20CALLE%20GRANADA.pdf) ofrece 36.000 €, 37 m² construidos y un baño; califica el estado como «nuevo», sin acreditar obra nueva. La [consulta catastral de 01/09/2026](locales/EL%20EJIDO%20CALLE%20GRANADA%20catrastro%206298604WF1669N0014TX.pdf) identifica calle Granada 37, escalera E, planta 00, puerta 14, referencia 6298604WF1669N0014TX, uso comercial y año 1982. Los 37 m² se componen de 32 m² de comercio y 5 m² comunes; no equivalen a superficie útil medida. El documento no es certificación catastral.
 
-Las fotos sugieren un espacio terminado apto para estudiar un puesto técnico y reuniones puntuales, sujeto a medición, inspección y comprobación de permisos. Falta confirmar que oferta y referencia corresponden al mismo activo, obtener nota simple, aclarar la participación catastral indicada y presupuestar instalaciones, accesibilidad y adecuación. El certificado energético figura en trámite. Su menor precio justifica priorizar estas comprobaciones entre las dos novedades, sin dar por acreditada la aptitud.
-
-### Oliva · análisis de la incorporación
-
-La [ficha de 01/09/2026](locales/Oliva%20Ficha.pdf) ofrece 50.000 €, 101 m² construidos, distribución diáfana, un baño, entreplanta y edificio de 2006. La [consulta catastral de la misma fecha](locales/Oliva%20Catastro%20%282%29.pdf) identifica calle Guillen de Castro 16, escalera 1, planta AL, puerta 13, referencia 0024606YJ5102S0068AS, con parcela en el número 12; recoge 98 m², de los que 93 m² son almacén y 5 m² comunes. La superficie útil no está acreditada.
-
-Se deben reconciliar los 101/98 m² y comprobar dirección, finca, acceso, accesibilidad, evacuación, instalaciones y compatibilidad municipal para consultoría. La descripción catastral «AlmEst.UsoRESID» no acredita autorización para oficina. Faltan nota simple y validación técnica; la mayor superficie debe justificarse para la operativa de un profesional sin empleados. El precio ya supera en 2.000 € las fuentes previstas antes de gastos, por lo que no constituye una opción financiada con el cuadro actual.
+Las fotos sugieren un espacio terminado apto para estudiar un puesto técnico y reuniones puntuales, sujeto a medición, inspección y comprobación de permisos. Falta confirmar que oferta y referencia corresponden al mismo activo, obtener nota simple, aclarar la participación catastral indicada y presupuestar instalaciones, accesibilidad y adecuación. El certificado energético figura en trámite. Su precio inferior a la referencia de 40.000 € justifica estudiar estos extremos, sin acreditar la aptitud ni una prioridad frente a los otros cuatro locales.
 
 ### Incidencias relevantes del conjunto
 
 Castellón presenta 53 m² en la descripción y 54 m² en el resumen de la ficha, frente a 40,50 m² construidos en Registro, además de diferencias de dirección San Mateo 2/4 y de medidas de fachada; anuncia suministros de baja y aseo para reformar. San Fernando anuncia 24 m² útiles, dos salas y accesibilidad, que deben verificarse. Talavera anuncia 41 m² útiles frente a 40,75 m² registrales; la comparación debe hacerse entre esas superficies equivalentes, no entre construida y útil. En Águilas falta el contraste registral/catastral. Las afirmaciones comerciales de conservación no sustituyen informes.
 
-### Comparación económica ilustrativa de las incorporaciones
+### Simulación económica ilustrativa de El Ejido
 
-| Concepto | El Ejido · ref. 21496 | Oliva · Guillem de Castro |
-|---|---:|---:|
-| Precio anunciado | 36.000,00 € | 50.000,00 € |
-| TPO orientativo sobre el precio | 2.520,00 € (7 %) | 4.500,00 € (9 %) |
-| Agencia: hipótesis 3 % + IVA 21 % | 1.306,80 € | 1.815,00 € |
-| Notaría y Registro: reserva | 700,00 € | 700,00 € |
-| Inspección/acondicionamiento: reserva | 1.500,00 € | 1.500,00 € |
-| Informática, mobiliario y gestoría | 2.738,84 € | 2.738,84 € |
-| **Total ilustrativo** | **44.765,64 €** | **61.253,84 €** |
-| **Saldo frente a 48.000,00 € previstos** | **+3.234,36 €** | **−13.253,84 €** |
+| Concepto | El Ejido · ref. 21496 |
+|---|---:|
+| Precio anunciado | 36.000,00 € |
+| TPO orientativo sobre el precio | 2.520,00 € (7 %) |
+| Agencia: hipótesis 3 % + IVA 21 % | 1.306,80 € |
+| Notaría y Registro: reserva | 700,00 € |
+| Inspección/acondicionamiento: reserva | 1.500,00 € |
+| Informática, mobiliario y gestoría | 2.738,84 € |
+| **Total ilustrativo** | **44.765,64 €** |
+| **Saldo frente a 48.000,00 € previstos** | **+3.234,36 €** |
 
-Se calcula precio + TPO + agencia (precio × 3 % × 1,21) + 700 € + 1.500 € + 2.738,84 €. Son hipótesis de comparación: transmisión usada sujeta a TPO, base igual al precio y comisión del 3 % más IVA, sin oferta de agencia ni presupuesto de obras definitivos. Se mantienen las reservas y documentos comerciales del escenario principal. Licencias, suministros, gastos corrientes y circulante siguen por dimensionar; el margen no es beneficio ni caja suficiente demostrada. Las alternativas no se suman entre sí y no modifican el presupuesto de referencia.
+Se calcula precio + TPO + agencia (precio × 3 % × 1,21) + 700 € + 1.500 € + 2.738,84 €. Son hipótesis de comparación: transmisión usada sujeta a TPO, base igual al precio y comisión del 3 % más IVA, sin oferta de agencia ni presupuesto de obras definitivos. Se mantienen las reservas y documentos comerciales del escenario principal. Licencias, suministros, gastos corrientes y circulante siguen por dimensionar; el margen no es beneficio ni caja suficiente demostrada. Esta simulación no se suma al escenario central ni modifica el presupuesto de referencia.
 
-Fuentes fiscales consultadas el 01/09/2026: [Junta de Andalucía — TPO general del 7 %](https://www.juntadeandalucia.es/organismos/economiahaciendayfondoseuropeos/areas/tributos-juego/tributos/paginas/impuestos-cedidos-transmisiones.html), [Ley 13/1997, artículo 13 — TPO valenciano del 9 % para los importes estudiados](https://www.boe.es/buscar/act.php?id=BOE-A-1998-8202#a13) y [Ley 37/1992, artículo 90 — IVA general](https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740#a90).
+Fuentes fiscales consultadas el 01/09/2026: [Junta de Andalucía — TPO general del 7 %](https://www.juntadeandalucia.es/organismos/economiahaciendayfondoseuropeos/areas/tributos-juego/tributos/paginas/impuestos-cedidos-transmisiones.html) y [Ley 37/1992, artículo 90 — IVA general](https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740#a90).
+
+### Valoración conjunta de los cinco locales
+
+La muestra no permite establecer una preferencia definitiva por precio o €/m²: mezcla municipios, superficies construidas y útiles y distintos niveles de documentación. Talavera tiene el menor precio anunciado (32.900 €), pero requiere reforma; El Ejido (36.000 €) carece de nota simple y medición útil; Castellón (39.000 €) exige resolver diferencias documentales y presupuestar suministros y aseo. Águilas (40.000 €) coincide con la referencia de planificación, sin contraste registral/catastral; San Fernando (45.000 €) deja solo 3.000 € de las fuentes previstas de 48.000 € antes de tributos, formalización, equipamiento y demás gastos. Son condicionantes de estudio, no acreditaciones de aptitud ni presupuestos completos.
 
 ### Resultado
 
-Los precios anunciados se sitúan entre 32.900,00 € y 50.000,00 €. El valor de referencia de 40.000,00 € es razonable dentro de esta muestra, sin prejuzgar el precio que finalmente se negocie.
+Los precios anunciados se sitúan entre 32.900,00 € y 45.000,00 €. El valor de referencia de 40.000,00 € es razonable dentro de esta muestra, sin prejuzgar el precio que finalmente se negocie.
 
 <div style="page-break-after: always;"></div>
 
@@ -354,7 +350,6 @@ Los precios anunciados se sitúan entre 32.900,00 € y 50.000,00 €. El valor 
 | San Fernando | [Ficha comercial](locales/San%20Fernando%20ficha.pdf) | Evidencia de oferta; requiere identificación y contraste |
 | Talavera de la Reina | [Ficha comercial](locales/Talavera%20ficha.pdf) y [nota simple](locales/Talavera%20nota%20simple.pdf) | Oferta y diligencia registral preliminar |
 | El Ejido | [Ficha ref. 21496](locales/EL%20EJIDO%20CALLE%20GRANADA.pdf) y [consulta catastral](locales/EL%20EJIDO%20CALLE%20GRANADA%20catrastro%206298604WF1669N0014TX.pdf) | Precio, uso y superficie; identidad y aptitud pendientes |
-| Oliva | [Ficha comercial](locales/Oliva%20Ficha.pdf) y [consulta catastral](locales/Oliva%20Catastro%20%282%29.pdf) | Oferta y discrepancias de superficie/uso; financiación pendiente |
 
 Las notas simples pueden contener datos personales o registrales y por ello no se transcriben. Si una alternativa avanza, deberá disponerse de oferta vigente, nota simple actualizada, información catastral reconciliada, comprobación urbanística, inspección técnica y cálculo documentado de costes.
 
@@ -368,7 +363,7 @@ Las notas simples pueden contener datos personales o registrales y por ello no s
 
 | Concepto | Importe o rango | Criterio |
 |---|---:|---|
-| Horquilla anunciada | 32.900,00–50.000,00 € | Seis ofertas reales |
+| Horquilla anunciada | 32.900,00–45.000,00 € | Cinco ofertas reales |
 | Precio de referencia | 40.000,00 € | Planificación, no precio pactado |
 | Fiscalidad | 2.800,00–4.000,00 € | Reserva de planificación; valor central 3.600,00 €; no es un límite tributario |
 | Notaría y Registro | 500,00–900,00 € | Reserva; valor central 700,00 € |
@@ -464,8 +459,6 @@ La conciliación definitiva dependerá de la resolución, la acreditación de fo
 
 - [Ficha comercial de El Ejido, ref. 21496](locales/EL%20EJIDO%20CALLE%20GRANADA.pdf).
 - [Consulta catastral de El Ejido, calle Granada](locales/EL%20EJIDO%20CALLE%20GRANADA%20catrastro%206298604WF1669N0014TX.pdf).
-- [Ficha comercial de Oliva, anuncio 112241985](locales/Oliva%20Ficha.pdf).
-- [Consulta catastral de Oliva](locales/Oliva%20Catastro%20%282%29.pdf).
 
 ### Presupuestos y documentos comerciales
 

@@ -2,11 +2,11 @@
 
 ## Metodología
 
-El presupuesto se construye a partir de seis ofertas reales y separa el **precio de compraventa** del **coste total de adquisición**. Ningún importe equivale a precio pactado mientras no exista selección y negociación definitivas.
+El presupuesto se construye a partir de cinco ofertas reales y separa el **precio de compraventa** del **coste total de adquisición**. Ningún importe equivale a precio pactado mientras no exista selección y negociación definitivas.
 
 | Concepto | Naturaleza | Importe |
 |---|---|---:|
-| Horquilla de precios anunciados | Evidencia documental de mercado | 32.900–50.000 € |
+| Horquilla de precios anunciados | Evidencia documental de mercado | 32.900–45.000 € |
 | Presupuesto de referencia del precio | Estimación de planificación | 40.000 € |
 | Precio definitivo negociado | Se incorporará al seleccionar el activo | Según operación |
 
@@ -48,6 +48,6 @@ Los 40.000 € permiten dimensionar el escenario porque se sitúan dentro de la 
 
 No existe local comprado, reservado o encargado irrevocablemente; tampoco arras, contrato de compraventa o compromiso vinculante. El precio, la fiscalidad y los costes efectivos sustituirán estas estimaciones cuando se seleccione el activo y se preserve la secuencia administrativa aplicable.
 
-## Comparación con las incorporaciones de 01/09/2026
+## Sensibilidad de El Ejido · 01/09/2026
 
-El escenario central de 49.990,84 € se conserva. El [anexo II](04_ANEXO_II_ESTUDIO_MERCADO_INMOBILIARIO.md) incorpora simulaciones separadas para El Ejido (44.765,64 €) y Oliva (61.253,84 €), recalculando TPO orientativo y agencia hipotética sobre los precios anunciados, con las mismas reservas y documentos comerciales. No son alternativas acumulables ni presupuestos definitivos; HYP-A26 recoge sus supuestos y límites.
+El escenario central de 49.990,84 € se conserva. El [anexo II](04_ANEXO_II_ESTUDIO_MERCADO_INMOBILIARIO.md) incorpora una simulación separada para El Ejido (44.765,64 €), recalculando TPO orientativo y agencia hipotética sobre el precio anunciado, con las mismas reservas y documentos comerciales. No se suma al escenario principal ni es un presupuesto definitivo; HYP-A26 recoge sus supuestos y límites.
