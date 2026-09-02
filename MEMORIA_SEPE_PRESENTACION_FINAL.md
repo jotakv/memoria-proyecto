@@ -547,7 +547,7 @@ La proforma PR026-0351 de ‘Asesoría Autonomos Online SLU’, de 31/08/2026, d
 
 La conciliación definitiva dependerá de la resolución, el precio negociado y los costes efectivos. No se adquirirá un activo que comprometa la suficiencia financiera del proyecto.
 
-Los presupuestos incorporados se localizan en los documentos V.1, VI.1 y VII.1. La aportación propia de 22.257,62,00 € se acredita mediante el Documento IX.1. Las cantidades del cuadro expresan necesidades de inversión y fuentes previstas, sin transformar los gastos todavía estimados en facturas.
+Los presupuestos incorporados se localizan en los documentos V.1, VI.1 y VII.1. La aportación propia de 22.257,62 € se acredita mediante el Documento IX.1. Las cantidades del cuadro expresan necesidades de inversión y fuentes previstas, sin transformar los gastos todavía estimados en facturas.
 
 # BLOQUE III — DOCUMENTACIÓN JUSTIFICATIVA Y EVIDENCIAS
 
