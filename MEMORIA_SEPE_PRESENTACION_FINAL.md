@@ -1,5 +1,4 @@
-# MEMORIA EXPLICATIVA  
-Y PLAN DE EMPRESA
+# MEMORIA EXPLICATIVA Y PLAN DE EMPRESA
 
 Solicitud de capitalización de la prestación por desempleo
 
@@ -151,7 +150,7 @@ Se plantea adquirir un local como activo exclusivamente afecto a la actividad. L
 
 La búsqueda realizada comprende cuatro ofertas documentadas en Águilas, Castellón, Talavera de la Reina y El Ejido, con precios anunciados entre 32.900,00 € y 40.000,00 €. Esta evidencia permite fijar, a efectos de planificación, un precio de referencia de 36.975,00 €. No existe todavía un inmueble comprado o reservado, ni se han firmado arras, contrato de compraventa o compromiso vinculante. El activo definitivo podrá ser uno de los estudiados u otro funcional y económicamente equivalente.
 
-El escenario de referencia asciende a 46.370,52 €: 36.975,00 € de precio del local, 7.252,00 € de costes asociados estimados y 2.143,52 € de informática, mobiliario y gestoría respaldados por documentos comerciales. Las fuentes previstas son aproximadamente 51.257,62 €, integradas por un pago único estimado de 29.000,00 €, sujeto a la resolución del SEPE, y 22.257,62,00 € de fondos propios declarados por el promotor, cuya acreditación se incorpora al final de la memoria.
+El escenario de referencia asciende a 46.370,52 €: 36.975,00 € de precio del local, 7.252,00 € de costes asociados estimados y 2.143,52 € de informática, mobiliario y gestoría respaldados por documentos comerciales. Las fuentes previstas son aproximadamente 51.257,62 €, integradas por un pago único estimado de 29.000,00 €, sujeto a la resolución del SEPE, y 22.257,62 € de fondos propios declarados por el promotor, cuya acreditación se incorpora al final de la memoria.
 
 El importe finalmente concedido como pago único se destinará prioritariamente a financiar el precio del local; la aportación propia completará la financiación de la puesta en marcha. La diferencia de financiación y las condiciones para resolverla se detallan en el apartado 14 y en el anexo VIII.
 
@@ -269,7 +268,7 @@ Se han documentado cuatro alternativas. Sus datos esenciales se presentan en la 
 
 | Alternativa | Precio anunciado | Superficie documentada | Evidencia disponible |
 | --- | --- | --- | --- |
-| Águilas, ref. 00286 | 36.975,00 € | 60 m² construidos anunciados | Ficha comercial |
+| Águilas, ref. 00286 | 40.000,00 € | 60 m² construidos anunciados | Ficha comercial |
 | Castellón, ref. L040 | 39.000,00 € | 53/54 m² construidos según anuncio; 40,50 m² construidos registrales | Ficha, nota simple y Catastro |
 | Talavera de la Reina | 32.900,00 € | 50 m² construidos y 41 m² útiles anunciados; 40,75 m² útiles registrales | Ficha y nota simple |
 | El Ejido, ref. 21496 | 36.000,00 € | 37 m² anunciados y catastrales: 32 m² comercio + 5 m² comunes | Ficha y consulta catastral |
@@ -299,7 +298,7 @@ Los costes efectivos de adquisición dependerán del activo, el territorio y la 
 | Fuente | Importe | Situación |
 | --- | --- | --- |
 | Pago único SEPE | 29.000,00 € aprox. | Estimación sujeta a resolución; destino prioritario al precio del local |
-| Fondos propios | 22.257,62,00 € | Declarados; justificante en Documento IX.1 |
+| Fondos propios | 22.257,62 € | Declarados; justificante en Documento IX.1 |
 | Financiación bancaria | 0,00 € | No contemplada |
 | Otras ayudas | 0,00 € | No contempladas |
 | **Total de fuentes previstas** | **51.257,62 € aprox.** | Sujeto a acreditación y resolución |
@@ -312,7 +311,7 @@ La conciliación del escenario es la siguiente:
 
 | Magnitud | Importe | Cálculo |
 | --- | --- | --- |
-| Fuentes previstas | 51.257,62 € aprox. | 29.000,00 € + 22.257,62,00 € |
+| Fuentes previstas | 51.257,62 € aprox. | 29.000,00 € + 22.257,62 € |
 | Aplicaciones previstas | 46.370,52 € | 36.975,00 € + 7.252,00 € + 2.143,52 € |
 
 La horquilla estudiada incluye alternativas inferiores a dichos umbrales. Además, la intermediación podría ser de 0,00 € en compra directa, mientras que fiscalidad y acondicionamiento variarán con el activo. La viabilidad exige que el precio y los costes definitivos no superen las fuentes acreditadas.
@@ -405,7 +404,7 @@ Fuentes fiscales consultadas el 01/09/2026: Junta de Andalucía — TPO general 
 
 ### Valoración conjunta de los cuatro locales
 
-La muestra no permite establecer una preferencia definitiva por precio o €/m²: mezcla municipios, superficies construidas y útiles y distintos niveles de documentación. Talavera tiene el menor precio anunciado (32.900,00 €); El Ejido (36.000,00 €) carece de nota simple; Castellón (39.000,00 €) exige resolver diferencias documentales. Águilas (36.975,00 €) coincide con la referencia de planificación, sin contraste registral/catastral;
+La muestra no permite establecer una preferencia definitiva por precio o €/m²: mezcla municipios, superficies construidas y útiles y distintos niveles de documentación. Talavera tiene el menor precio anunciado (32.900,00 €); El Ejido (36.000,00 €) carece de nota simple; Castellón (39.000,00 €) exige resolver diferencias documentales. Águilas (40.0000,00 €) coincide con la referencia de planificación, sin contraste registral/catastral;
 
 ### Resultado
 
@@ -417,7 +416,7 @@ Este anexo contiene las fichas descriptivas y el análisis editorial. Las reprod
 
 ### III.A — Águilas
 
-36.975,00 €; 60 m² construidos anunciados. Meel House, referencia 00286.
+40.000,00 €; 60 m² construidos anunciados. Meel House, referencia 00286.
 
 Soporte: Documento III.A.1.
 
@@ -543,8 +542,8 @@ La proforma PR026-0351 de ‘Asesoría Autonomos Online SLU’, de 31/08/2026, d
 | Concepto | Importe | Resultado |
 | --- | --- | --- |
 | Pago único estimado | 29.000,00 € aprox. | Pendiente de resolución |
-| Fondos propios declarados | 22.257,62,00 € | Evidencia Documento IX.1 |
-| **Total de fuentes** | **51.257,62 € aprox.** | 29.000,00 + 22.257,62,00 € |
+| Fondos propios declarados | 22.257,62 € | Evidencia Documento IX.1 |
+| **Total de fuentes** | **51.257,62 € aprox.** | 29.000,00 + 22.257,62 € |
 
 La conciliación definitiva dependerá de la resolución, el precio negociado y los costes efectivos. No se adquirirá un activo que comprometa la suficiencia financiera del proyecto.
 
@@ -569,7 +568,7 @@ Este registro permite localizar las reproducciones y su finalidad. «Incorporado
 | V.1 | Documento comercial — Informática  <br>Importe de 1.317,48 €; documento denominado pedido. | Incorporado | 44  |
 | VI.1 | Presupuesto — Mobiliario  <br>Presupuesto n.º 872963, por 477,56 €. | Incorporado | 46  |
 | VII.1 | Proforma — Gestoría  <br>Doce meses de asesoría fiscal y contable, por 348,48 €. | Incorporado | 47  |
-| IX.1 | Justificación de fondos propios: 22.257,62,00 € | Incorporado | 48  |
+| IX.1 | Justificación de fondos propios: 22.257,62 € | Incorporado | 48  |
 
 Cada documento se reproduce íntegramente, incluidas las URLs impresas que forman parte del original. La orientación de la consulta catastral de El Ejido se gira sobre la página para conservar tamaño y legibilidad. Los códigos de este registro son referencias internas de este expediente.
 
