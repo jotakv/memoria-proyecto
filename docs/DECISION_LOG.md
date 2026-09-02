@@ -139,3 +139,10 @@
 - **Decisión:** `MEMORIA_SEPE_PRESENTACION_FINAL.md` pasa a ser la única fuente canónica del expediente SEPE; todo documento presentable es derivado. Los modelos incompatibles se conservan como históricos con aviso y las evidencias originales no se editan.
 - **Motivo:** eliminar divergencias sin falsear la evolución ni transformar evidencia, estimaciones o simulaciones en hechos.
 - **Efectos:** cuatro alternativas vigentes; cifras y prueba de liquidez HYP-A27–A30; dossier, aplicación pública, modelo de inversión, estado, índices y trazabilidad alineados.
+
+## DEC-A19 · 2026-09-02 · Integración del modelo de explotación en la memoria SEPE
+
+- **Decisión:** incorporar en el apartado 15 el escenario comercial a 36 meses y separar su análisis de la financiación de la adquisición del apartado 14.
+- **Criterio:** adoptar HYP-A31–A34, incluir provisiones del local, excluir del año 1 la gestoría ya incluida en inversión y tratar la retirada de 800 €/mes exclusivamente en caja.
+- **Efecto:** sustituir el control previo de 7.200,00 € por una serie reproducible con circulante mínimo de 6.350,00 € y necesidad adicional de 1.462,90 € frente al remanente central.
+- **Estado:** APROBADA COMO PREVISIÓN DEL PLAN DE EMPRESA; contratos, costes reales, fiscalidad y activo definitivo siguen pendientes.

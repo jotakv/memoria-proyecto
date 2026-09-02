@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-02 · Modelo económico-financiero integrado a 36 meses
+
+- Se incorpora a la memoria final una previsión comercial mensual y a 36 meses, capacidad productiva, costes variables y fijos, cuenta de explotación, tesorería, equilibrio, escenarios, sensibilidad y control de gestión.
+- Se mantienen las fuentes por 51.257,62 € y la inversión central por 46.370,52 €; la prueba no reproducible de 7.200,00 € se sustituye por un circulante calculado de 6.350,00 € y una necesidad adicional de 1.462,90 €.
+- Se incorporan provisiones de explotación del local y se evita duplicar la gestoría de doce meses ya incluida en la inversión.
+- Se separan financiación, ventas, resultado, IVA, IRPF y retirada personal; se renumeran puesta en marcha y conclusión como apartados 16 y 17.
+
 ## 2026-09-01 · Ajuste a cinco locales y retirada de Oliva
 
 - Se elimina Oliva de la memoria final, estudio de mercado y documentos dependientes tras la retirada de sus PDF en `main` por el promotor.

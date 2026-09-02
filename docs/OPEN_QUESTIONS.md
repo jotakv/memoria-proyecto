@@ -9,6 +9,6 @@
 5. `[PENDIENTE]` Presupuesto real de acondicionamiento; la reserva de 1.500,00 € no es presupuesto técnico.
 6. `[PENDIENTE]` Electricidad, agua, internet, comunidad, IBI, seguro, mantenimiento, reparaciones, obligaciones y adecuaciones.
 7. `[PENDIENTE]` Aclaración o sustitución del documento informático; no prueba encargo, entrega o pago.
-8. `[PENDIENTE]` Tesorería mensual completa basada en evidencia comercial; el control de 7.200,00 € es simplificado.
+8. `[PENDIENTE]` Sustituir la previsión mensual por contratos, condiciones de cobro y pagos reales cuando existan; el modelo vigente requiere 6.350,00 € de circulante y deja 1.462,90 € por cerrar frente al remanente central.
 9. `[PENDIENTE]` Distribución suelo/construcción para determinar la amortización fiscal del activo definitivo.
 10. `[PENDIENTE]` Comparación compra/alquiler con ofertas reales, si se incorporan; por ahora es metodológica.

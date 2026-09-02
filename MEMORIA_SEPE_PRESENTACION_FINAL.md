@@ -33,14 +33,24 @@ Fecha: 2 de septiembre de 2026
 - 13. Plan de financiación
 - 14. Viabilidad económico-financiera
   - 14.1. Financiación inicial y continuidad de la actividad
-  - 14.2. Previsión comercial, ingresos y cobros
-  - 14.3. Costes, fiscalidad y retiradas personales
-  - 14.4. Prueba de tensión e indicadores de liquidez
-  - 14.5. Tesorería mensual y decisión de adquisición
-  - 14.6. Sensibilidad de Águilas con las reservas centrales
-  - 14.7. Sensibilidad del escenario de El Ejido
-- 15. Puesta en marcha
-- 16. Conclusión
+  - 14.2. Circulante y decisión de adquisición
+  - 14.3. Sensibilidad de Águilas con las reservas centrales
+  - 14.4. Sensibilidad del escenario de El Ejido
+- 15. Modelo económico-financiero y previsión de explotación
+  - 15.1. Criterios del modelo
+  - 15.2. Precios y líneas de servicio
+  - 15.3. Capacidad productiva
+  - 15.4. Previsión comercial del primer año
+  - 15.5. Previsión de ingresos a tres años
+  - 15.6. Estructura de costes
+  - 15.7. Cuenta de explotación a tres años
+  - 15.8. Tesorería mensual del primer año
+  - 15.9. Circulante y liquidez
+  - 15.10. Punto de equilibrio e indicadores
+  - 15.11. Escenarios y sensibilidad
+  - 15.12. Seguimiento y control financiero
+- 16. Puesta en marcha
+- 17. Conclusión
 
 **BLOQUE II — ANEXOS EXPLICATIVOS**
 
@@ -107,7 +117,7 @@ La búsqueda realizada comprende cuatro ofertas documentadas en Águilas, Castel
 
 El escenario estadístico de planificación asciende a 46.370,52 €: 36.975,00 € de referencia estadística para el activo, 7.252,00 € de reservas para costes asociados y 2.143,52 € de informática, mobiliario y gestoría según los documentos comerciales referenciados. Las fuentes previstas suman 51.257,62 €, integradas por un pago único estimado de 29.000,00 €, pendiente de resolución, no concedido ni cobrado, y 22.257,62 € de fondos propios nominalmente documentados según el desglose facilitado de certificados bancarios. Sus referencias se recogen en el Documento IX.1; las copias originales no se reproducen en este Markdown.
 
-El importe finalmente concedido como pago único se destinará prioritariamente a financiar el precio del local; la aportación propia completará la financiación de la puesta en marcha. El remanente aritmético sería de 4.887,10 €, sin que equivalga a caja disponible actual o circulante suficiente. La prueba de tensión aportada sitúa en 7.200,00 € la necesidad inicial de circulante, con una diferencia de 2.312,90 € respecto de ese remanente. Se trata de un control de riesgo limitado, no de un déficit definitivo; sus hipótesis y limitaciones se exponen en el apartado 14 y en el anexo VIII.
+El importe finalmente concedido como pago único se destinará prioritariamente a financiar el precio del local; la aportación propia completará la financiación de la puesta en marcha. El remanente aritmético sería de 4.887,10 €. El modelo mensual recalculado requiere 6.350,00 € de circulante para no entrar en saldo negativo y evidencia una necesidad adicional de 1.462,90 € frente al remanente. La compra queda condicionada a cerrar esa diferencia mediante menor desembolso acreditado, aportación adicional o adecuación del calendario de cobros y pagos; el detalle se expone en los apartados 14 y 15 y en el anexo VIII.
 
 La ejecución queda condicionada a la resolución del SEPE, al respeto de la secuencia administrativa aplicable y a la revisión funcional, técnica, jurídica, registral, catastral, urbanística y económica del activo seleccionado.
 
@@ -167,6 +177,8 @@ El modelo combina encargos delimitados y servicios recurrentes:
 4.  soporte continuado.
 
 La estructura inicial sin empleados limita los costes fijos de personal. La sede y el equipamiento constituyen la base operativa del profesional. Cualquier previsión comercial debe entenderse como planificación y no como facturación asegurada.
+
+El escenario base prevé precios medios de 3.000,00 € por auditoría, 6.000,00 € por sprint, 8.000,00 € por implantación, 4.000,00 € por desarrollo o integración y 1.000,00 € por mensualidad de soporte de entrada. Sobre esas referencias se proyectan ventas sin IVA de 63.000,00 €, 88.200,00 € y 113.400,00 € durante los tres primeros años, conforme al desarrollo del apartado 15.
 
 La propuesta comercial podrá establecer precios cerrados para trabajos acotados, hitos o tiempo dedicado para integraciones y cuotas mensuales para soporte. Los alcances, consumos de servicios en la nube, condiciones de aceptación y cobro se definirán en cada propuesta; no se presuponen acuerdos ya firmados.
 
@@ -288,126 +300,234 @@ En el escenario estadístico, si se concedieran y percibieran los 29.000,00 € 
 
 ### 14.1. Financiación inicial y continuidad de la actividad
 
-La capacidad para financiar la inversión inicial y la capacidad para sostener la actividad durante los primeros meses son comprobaciones distintas. El presupuesto permite calcular un remanente, pero la continuidad exige además previsiones de facturación, cobros, pagos y necesidades personales compatibles con la caja disponible.
+La inversión y la explotación se analizan por separado para no confundir fuentes de financiación con ventas ni desembolsos de puesta en marcha con gastos recurrentes. El escenario central responde a si puede financiarse prudentemente la adquisición; el apartado 15 comprueba si la consultoría puede generar margen y caja.
 
 | Magnitud | Importe | Cálculo o naturaleza |
-| --- | --- | --- |
+| --- | ---: | --- |
 | Fuentes previstas | 51.257,62 € | 29.000,00 € estimados del SEPE + 22.257,62 € propios nominales |
-| Media estadística para planificar el activo | 36.975,00 € | Media aritmética de cuatro precios anunciados |
-| Costes asociados | 7.252,00 € | 3.600,00 € + 700,00 € + 1.452,00 € + 1.500,00 € |
-| Subtotal activo y adquisición | 44.227,00 € | 36.975,00 € + 7.252,00 € |
-| Informática, mobiliario y gestoría | 2.143,52 € | 1.317,48 € + 477,56 € + 348,48 € |
-| Desembolsos presupuestados | 46.370,52 € | 44.227,00 € + 2.143,52 € |
+| Media estadística para planificar el activo | 36.975,00 € | Media de cuatro precios anunciados |
+| Costes asociados | 7.252,00 € | Fiscalidad, formalización, intermediación y acondicionamiento |
+| Informática, mobiliario y gestoría | 2.143,52 € | Documentos comerciales referenciados |
+| **Desembolsos presupuestados** | **46.370,52 €** | **Escenario estadístico de inversión** |
 | **Remanente aritmético** | **4.887,10 €** | **51.257,62 € − 46.370,52 €** |
 
-Los 4.887,10 € no equivalen automáticamente a circulante suficiente, tesorería operativa suficiente, caja disponible actual o margen de seguridad suficiente. Dependen de fuentes todavía condicionadas y no descuentan necesariamente todos los pagos iniciales y recurrentes pendientes de cuantificación.
+El remanente no equivale a caja disponible hoy: depende de la resolución y cobro del SEPE, de la disponibilidad simultánea de los fondos propios y de que el coste real del activo no supere el escenario. Tampoco debe consumirse sin preservar la operativa.
 
-### 14.2. Previsión comercial, ingresos y cobros
+### 14.2. Circulante y decisión de adquisición
 
-La previsión comercial se apoya en las líneas de auditoría, sprints, implantaciones, desarrollos e integraciones y soporte descritas en los apartados 5 a 7. La captación y el análisis de necesidades precederán a la propuesta, aceptación y ejecución de cada encargo. El alcance nacional de la prestación remota se combinará con atención presencial cuando proceda.
+La tesorería detallada del apartado 15.8 parte del remanente de 4.887,10 €, aplica cobro al mes siguiente, costes variables del 15 %, costes fijos del año 1 de 14.000,00 € y retiradas personales de 800,00 €/mes. El saldo mínimo resultante es **−1.462,90 € en el mes 3**. Por tanto, el circulante mínimo para ejecutar el calendario sin saldo negativo es **6.350,00 €**, esto es, 1.462,90 € más que el remanente central.
 
-El Markdown de partida no contiene una previsión comercial anual cuantificada ni un calendario mensual de ventas. Por ello no se atribuye una cifra de facturación al primer año ni se crean clientes, contratos, unidades vendidas o fechas para completar el modelo. Los precios, volúmenes y fechas deberán vincularse a propuestas y a hipótesis comerciales expresas cuando estén definidos.
+| Control de liquidez | Importe |
+| --- | ---: |
+| Circulante mínimo calculado | 6.350,00 € |
+| Remanente del escenario estadístico | 4.887,10 € |
+| **Necesidad adicional por cerrar antes de comprar** | **1.462,90 €** |
 
-La facturación se estimará por línea de servicio como precio acordado por unidades o hitos facturables; en soporte, como cuotas por mensualidades de servicio. Las mensualidades no equivalen al número de clientes. La factura emitida se distinguirá del cobro efectivo: la prueba limitada del apartado 14.4 supone cobro en el mes siguiente, sin afirmar que esa condición se haya pactado con clientes.
+Esta diferencia sustituye la prueba simplificada anterior de 7.200,00 € porque ahora existe una serie mensual reproducible. No es deuda ya contraída ni déficit definitivo. Antes de formalizar la adquisición se deberá cubrir mediante un menor precio o coste acreditado, una aportación adicional disponible, cobros anticipados pactados o una reprogramación prudente de pagos y retiradas. No se presume ninguna de estas medidas como conseguida.
 
-### 14.3. Costes, fiscalidad y retiradas personales
+### 14.3. Sensibilidad de Águilas con las reservas centrales
 
-| Componente | Tratamiento en la planificación |
-| --- | --- |
-| Costes variables | Hipótesis de la prueba limitada: 15 % de ventas; no acredita costes contratados ni su calendario de pago |
-| Costes fijos | Aproximadamente 1.400,00 €/mes, referencia histórica ajustada aportada para la prueba; falta su desglose actualizado |
-| Cuota RETA estimativa | Pendiente de cuantificación según el encuadramiento y la situación aplicables; no se presume una cuota reducida ni su inclusión acreditada en los 1.400,00 € |
-| Gestoría | Servicio de doce meses por 348,48 €, incluido en el presupuesto inicial; no se presupone fraccionamiento mensual ni se duplica su desembolso |
-| Licencias tecnológicas, servicios en la nube y otros servicios | Condiciones y consumos por definir en las propuestas; verificar qué paga directamente el cliente y qué asume el promotor |
-| Fiscalidad de la actividad | Separar ingresos por servicios, IVA cuando proceda, retenciones, pagos a cuenta y liquidaciones; sus calendarios e importes no están cuantificados |
-| Retiradas personales | 800,00 €/mes en la prueba limitada; reducen caja y no son gasto operativo ni inversión empresarial |
-| Adquisición y equipamiento | Desembolsos iniciales separados de los costes de funcionamiento; no se contabilizan otra vez íntegramente como gasto mensual |
+El precio anunciado de Águilas es de 40.000,00 €. Manteniendo las demás partidas centrales, el desembolso sería 49.395,52 € y el remanente 1.862,10 €. Es un análisis de sensibilidad, no selección, reserva o precio pactado. Con el circulante mínimo de 6.350,00 €, la necesidad adicional ascendería a 4.487,90 €.
 
-Los aproximadamente 1.400,00 €/mes constituyen una magnitud agregada de control, no un presupuesto actualizado de todos los gastos. Antes de utilizarla como coste operativo definitivo se comprobará qué partidas comprende, se añadirá lo omitido y se evitarán duplicidades, especialmente con gestoría, RETA y costes del local. Las retiradas personales se atenderán con recursos propios o caja de la actividad, sin imputarlas a la inversión financiada por el pago único.
+### 14.4. Sensibilidad del escenario de El Ejido
 
-Los costes recurrentes y otras necesidades de la sede se reconocen expresamente:
+La simulación comparable de El Ejido del anexo II asciende a 44.170,32 €. Frente a las fuentes previstas arroja un remanente aritmético de 7.087,30 €, superior en 737,30 € al circulante mínimo calculado. No es presupuesto contractual ni acredita aptitud o disponibilidad; cualquier desviación en tributación, intermediación, acondicionamiento o explotación consumiría esa holgura.
 
-| Partida | Estado |
-| --- | --- |
-| Electricidad, agua, internet y otros suministros | PENDIENTES DE CUANTIFICACIÓN DEFINITIVA SEGÚN EL ACTIVO SELECCIONADO |
-| Comunidad e IBI | PENDIENTES DE CUANTIFICACIÓN DEFINITIVA SEGÚN EL ACTIVO SELECCIONADO |
-| Seguro | PENDIENTE DE CUANTIFICACIÓN DEFINITIVA SEGÚN EL ACTIVO SELECCIONADO |
-| Mantenimiento y pequeñas reparaciones | PENDIENTES DE CUANTIFICACIÓN DEFINITIVA SEGÚN EL ACTIVO SELECCIONADO |
-| Posibles obligaciones administrativas y adecuaciones | PENDIENTES DE CUANTIFICACIÓN DEFINITIVA SEGÚN EL ACTIVO SELECCIONADO |
+Los riesgos principales son la cuantía y condiciones del pago único, la disponibilidad simultánea de fondos, el activo aún no seleccionado, la concentración de recursos en inmovilizado y los costes efectivos de adquisición y funcionamiento. La operación solo se realizará si las verificaciones y la tesorería actualizada preservan el circulante.
 
-Estas partidas deberán integrarse en la tesorería antes de formalizar la compra. No se presupone que la ausencia de alquiler elimine los costes de la sede ni que la reserva inicial de acondicionamiento cubra todas las adecuaciones necesarias.
+## 15. Modelo económico-financiero y previsión de explotación
 
-La tesorería recogerá pagos y cobros por sus importes efectivos, incluido el impuesto indirecto cuando corresponda. No se presume una devolución inmediata de IVA ni una deducibilidad automática. Los fondos propios y el pago único son fuentes de financiación, no facturación por servicios. La amortización fiscal definitiva del inmueble deberá determinarse una vez identificado el activo adquirido y conocida la distribución aplicable entre suelo y construcción; no se asigna un valor de suelo ni una amortización sin esos datos.
+### 15.1. Criterios del modelo
 
-### 14.4. Prueba de tensión e indicadores de liquidez
+El modelo representa la explotación inicial de una persona autónoma sin plantilla y con sede profesional propia prevista. Separa inversión, financiación, resultado y caja. Las cifras comerciales se expresan sin IVA salvo indicación: el IVA repercutido no constituye ingreso y el soportado deducible dependerá de cada gasto y de su tratamiento fiscal. El IRPF corresponde al profesional y la cuenta se presenta antes de IRPF; no se aplica Impuesto sobre Sociedades.
 
-Se incorpora la siguiente prueba de tensión simplificada como **control de riesgo**, no como modelo financiero definitivo:
+**Las previsiones comerciales constituyen estimaciones razonables del plan de empresa y no representan contratos, clientes ni ventas ya aseguradas.** El escenario se revisará con la contratación real.
 
-| Hipótesis o indicador | Valor | Alcance |
-| --- | --- | --- |
-| Costes variables | 15 % de ventas | Hipótesis aportada |
-| Costes fijos históricos ajustados | Aproximadamente 1.400,00 €/mes | Sin desglose actualizado completo |
-| Retirada personal | 800,00 €/mes | Salida de tesorería personal |
-| Cobros | Mes siguiente al de facturación | Hipótesis de desfase |
-| Circulante inicial necesario en la prueba | 7.200,00 € | Resultado aportado de la prueba limitada |
-| Remanente del escenario estadístico | 4.887,10 € | Cálculo presupuestario |
-| **Diferencia respecto de la prueba** | **2.312,90 €** | **7.200,00 € − 4.887,10 €** |
-| Mes crítico en la prueba | Mes 6 | Referencia relativa del resultado aportado, no fecha administrativa |
+Las fórmulas principales son: ventas igual a unidades por precio medio; costes variables igual al 15 % de ventas en el escenario base; margen de contribución igual a ventas menos variables; EBITDA igual a margen menos costes fijos desembolsables; y caja final igual a caja inicial más cobros menos pagos operativos y retiradas. El pago único y los fondos propios son financiación, nunca ventas.
 
-La diferencia de 2.312,90 € **no es un déficit definitivo**. La prueba ilustra que la existencia de un remanente aritmético después de la inversión no garantiza por sí sola liquidez operativa suficiente.
+### 15.2. Precios y líneas de servicio
 
-No se dispone de la serie mensual de facturación y pagos que origina los 7.200,00 € ni el mes crítico 6. Ambos se conservan como resultados aportados para el control de riesgo; no se presentan como resultados recalculados a partir de la información disponible. Sí se ha comprobado la diferencia aritmética de 2.312,90 €. Las hipótesis agregadas, por sí solas, no permiten reconstruir el momento de la tensión de caja.
+| Línea | Precio medio previsto |
+| --- | ---: |
+| Auditoría o diagnóstico | 3.000,00 € |
+| Sprint de automatización o IA | 6.000,00 € |
+| Implantación | 8.000,00 € |
+| Desarrollo o integración | 4.000,00 € |
+| Soporte o mantenimiento de entrada | 1.000,00 €/mes |
 
-### 14.5. Tesorería mensual y decisión de adquisición
+Son referencias para elaborar propuestas. El precio final dependerá del alcance, hitos, dedicación, licencias, servicios cloud y condiciones de soporte de cada encargo.
 
-No se construye una tabla de doce meses con ventas inventadas. La tesorería mensual definitiva deberá ajustarse al calendario real de facturación y cobro, a los vencimientos de los gastos, a la tributación y al importe y fecha efectivos del pago único.
+### 15.3. Capacidad productiva
 
-Para cada mes se conciliará: saldo inicial + cobros + financiación efectivamente ingresada − pagos de inversión − pagos operativos − pagos tributarios − retiradas personales = saldo final. La financiación ya incluida en el saldo inicial no se volverá a sumar. El circulante necesario se determinará a partir de la mayor necesidad acumulada de caja y de los pagos pendientes identificados, sin confundirlo con el resultado contable.
+La comprobación de carga parte de unas **120 horas profesionales disponibles al mes** y de un objetivo máximo aproximado del **70 % directamente facturable**, equivalente a unas 84 horas como referencia de planificación. No es una restricción matemática rígida: auditorías y proyectos pueden ejecutarse por hitos, los servicios tienen intensidades distintas y una cuota de soporte no implica dedicación completa.
 
-La selección del local deberá revisarse si el remanente no cubre esas necesidades. El menor precio de algunas alternativas, una negociación acreditada o una compra directa sin coste de intermediación pueden mejorar la caja, pero no se cuentan como ahorros ya obtenidos. Cualquier reducción de desembolso o nueva aportación deberá acreditarse antes de comprometer la operación. No se presume financiación adicional para resolver la diferencia de la prueba.
+El tiempo restante se reserva a prospección, propuestas, administración, formación, gestión, documentación y soporte interno. Antes de aceptar trabajos concurrentes se estimarán horas e hitos para evitar superar la capacidad. Solo se recurrirá a colaboración o subcontratación externa cuando exista demanda contratada y margen suficiente; no se presupone plantilla.
 
-### 14.6. Sensibilidad de Águilas con las reservas centrales
+### 15.4. Previsión comercial del primer año
 
-El precio anunciado de Águilas es de **40.000,00 €**. Manteniendo las demás partidas del escenario estadístico, el análisis de sensibilidad es:
+| Mes | Auditorías | Sprints | Implantaciones | Desarrollos | Mantenimiento | Total |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 2 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 3 | 3.000 | 0 | 0 | 0 | 0 | 3.000 |
+| 4 | 0 | 6.000 | 0 | 0 | 0 | 6.000 |
+| 5 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 6 | 3.000 | 0 | 8.000 | 0 | 0 | 11.000 |
+| 7 | 0 | 0 | 0 | 4.000 | 1.000 | 5.000 |
+| 8 | 0 | 6.000 | 0 | 0 | 1.000 | 7.000 |
+| 9 | 3.000 | 0 | 0 | 0 | 1.000 | 4.000 |
+| 10 | 0 | 0 | 8.000 | 0 | 2.000 | 10.000 |
+| 11 | 3.000 | 0 | 0 | 4.000 | 2.000 | 9.000 |
+| 12 | 0 | 6.000 | 0 | 0 | 2.000 | 8.000 |
+| **Año 1** | **12.000** | **18.000** | **16.000** | **8.000** | **9.000** | **63.000** |
 
-| Magnitud | Importe |
-| --- | --- |
-| Precio anunciado de Águilas | 40.000,00 € |
-| Reservas centrales de costes asociados | 7.252,00 € |
-| Informática, mobiliario y gestoría | 2.143,52 € |
-| **Desembolso de sensibilidad** | **49.395,52 €** |
-| Fuentes previstas | 51.257,62 € |
-| **Remanente aritmético** | **1.862,10 €** |
+El total corresponde a cuatro auditorías, tres sprints, dos implantaciones, dos desarrollos y nueve mensualidades de mantenimiento; estas últimas no equivalen necesariamente a nueve clientes. Los meses 1 y 2 se reservan a constitución administrativa, acondicionamiento, configuración tecnológica, prospección, captación, reuniones y preparación de propuestas. La secuencia es un objetivo comercial, no un calendario de contratos cerrados.
 
-Es únicamente un análisis de sensibilidad. No acredita selección, preferencia, reserva ni futura compra de Águilas. Se diferencia de la simulación territorial del anexo II, que utiliza 3.100,00 € de TPO supuesto en lugar de la reserva fiscal central de 3.600,00 €.
+### 15.5. Previsión de ingresos a tres años
 
-### 14.7. Sensibilidad del escenario de El Ejido
+| Mes | Año 1 | Mes | Año 2 | Mes | Año 3 |
+| ---: | ---: | ---: | ---: | ---: | ---: |
+| 1 | 0 | 13 | 6.000 | 25 | 8.000 |
+| 2 | 0 | 14 | 6.000 | 26 | 8.000 |
+| 3 | 3.000 | 15 | 7.000 | 27 | 9.000 |
+| 4 | 6.000 | 16 | 7.000 | 28 | 9.000 |
+| 5 | 0 | 17 | 7.000 | 29 | 9.000 |
+| 6 | 11.000 | 18 | 7.000 | 30 | 9.000 |
+| 7 | 5.000 | 19 | 7.000 | 31 | 9.000 |
+| 8 | 7.000 | 20 | 7.000 | 32 | 10.000 |
+| 9 | 4.000 | 21 | 8.000 | 33 | 10.000 |
+| 10 | 10.000 | 22 | 8.000 | 34 | 10.000 |
+| 11 | 9.000 | 23 | 9.000 | 35 | 11.000 |
+| 12 | 8.000 | 24 | 9.200 | 36 | 11.400 |
+| **Total** | **63.000** | **Total** | **88.200** | **Total** | **113.400** |
 
-La simulación comparable de El Ejido del anexo II asciende a **44.170,32 €**, incluyendo precio anunciado, TPO supuesto, agencia hipotética, reservas de formalización y acondicionamiento y los documentos comerciales. Frente a las fuentes previstas de 51.257,62 €, arroja un **remanente aritmético de 7.087,30 €**.
+El crecimiento previsto no es automático. Depende de consolidar cartera, obtener referencias, repetir con clientes satisfechos, aumentar contratos recurrentes, mejorar la penetración comercial, estandarizar progresivamente la entrega y captar proyectos sin rebasar la capacidad. Las previsiones se reducirán si esos indicadores no evolucionan conforme al plan.
 
-No es presupuesto contractual ni oferta, no acredita aptitud del inmueble, no garantiza que la base final del TPO sea el precio de venta y no demuestra por sí sola liquidez suficiente. Tampoco sustituye ni se suma al escenario estadístico. Los costes todavía no cuantificados y el calendario de cobros y pagos deben integrarse antes de decidir.
+### 15.6. Estructura de costes
 
-Los principales riesgos siguen siendo la cuantía y condiciones del pago único, la disponibilidad simultánea de fondos propios, la concentración de recursos en inmovilizado, la ubicación profesional pendiente, las diferencias entre anuncios y registros y el acondicionamiento y funcionamiento aún por presupuestar. El control consiste en mantener abierta la selección y condicionar la compra a la aptitud y a la tesorería, sin declarar resuelta la viabilidad operativa por el mero encaje de la inversión.
+Los costes variables se estiman agregadamente en el **15 % de la facturación**. Pueden comprender cloud y licencias vinculados al proyecto, colaboración técnica puntual, terceros, comisiones, desplazamientos y otros costes directos. El porcentaje no es contractual y se sustituirá por el presupuesto de cada trabajo.
 
-## 15. Puesta en marcha
+Los costes fijos desembolsables del año 1 se planifican en 14.000,00 €:
+
+| Coste fijo anual | Año 1 | Criterio |
+| --- | ---: | --- |
+| RETA | 3.600,00 € | Estimación prudente de 300,00 €/mes; pendiente de encuadramiento real |
+| Software, licencias internas y hosting | 1.800,00 € | Estimación de planificación |
+| Comunicaciones profesionales | 600,00 € | Estimación de planificación |
+| Marketing y captación | 1.800,00 € | Estimación de planificación |
+| Formación | 600,00 € | Estimación de planificación |
+| Administración, jurídico y seguridad | 600,00 € | Estimación de planificación |
+| Electricidad del local | 1.200,00 € | Provisión hasta seleccionar el activo |
+| Agua | 240,00 € | Provisión hasta seleccionar el activo |
+| Internet del local | 480,00 € | Provisión hasta contratar |
+| Comunidad | 600,00 € | Provisión hasta seleccionar el activo |
+| IBI | 400,00 € | Provisión hasta seleccionar el activo |
+| Seguro | 500,00 € | Provisión hasta contratar |
+| Mantenimiento ordinario | 900,00 € | Provisión hasta seleccionar el activo |
+| Otros gastos generales | 680,00 € | Margen de planificación |
+| **Total** | **14.000,00 €** | **1.166,67 €/mes de media** |
+
+La gestoría PR026-0351, por 348,48 € IVA incluido y doce meses de servicio, ya está incluida como desembolso inicial en los 46.370,52 € y **no se duplica** en los costes fijos ni en la tesorería del año 1. Su eventual renovación sí deberá incorporarse desde el año 2. Las provisiones del local se sustituirán por recibos, condiciones de comunidad, tributos, póliza y consumos del inmueble adquirido.
+
+Para los años 2 y 3 se prevén costes fijos de 16.800,00 € y 19.600,00 €, respectivamente, por renovación de asesoría, actualización de cuotas y precios, mayor captación, licencias y soporte operativo. No incluyen empleados y se revisarán según actividad real.
+
+### 15.7. Cuenta de explotación a tres años
+
+| Concepto | Año 1 | Año 2 | Año 3 |
+| --- | ---: | ---: | ---: |
+| Ventas | 63.000,00 € | 88.200,00 € | 113.400,00 € |
+| Costes variables (15 %) | (9.450,00 €) | (13.230,00 €) | (17.010,00 €) |
+| **Margen bruto** | **53.550,00 €** | **74.970,00 €** | **96.390,00 €** |
+| Costes fijos desembolsables | (14.000,00 €) | (16.800,00 €) | (19.600,00 €) |
+| **EBITDA de gestión** | **39.550,00 €** | **58.170,00 €** | **76.790,00 €** |
+| Amortización estimativa de equipo y mobiliario | (598,35 €) | (598,35 €) | (598,35 €) |
+| Intereses | 0,00 € | 0,00 € | 0,00 € |
+| **Resultado antes de IRPF** | **38.951,65 €** | **57.571,65 €** | **76.191,65 €** |
+
+La amortización distribuye, solo a efectos de planificación, los 1.795,04 € comerciales de informática y mobiliario en tres años; se ajustará a base deducible, fecha de puesta en servicio y criterio fiscal reales. No se calcula amortización del inmueble hasta conocer el activo y separar fiscalmente suelo y construcción. La retirada personal no reduce EBITDA ni resultado: es una salida de caja. El cash flow operativo antes de IRPF coincide con el EBITDA al añadir de nuevo la amortización no desembolsable.
+
+### 15.8. Tesorería mensual del primer año
+
+La inversión se considera pagada antes del mes 1 y deja 4.887,10 € de remanente inicial. Se cobra la venta al mes siguiente, los variables se pagan en el mes de facturación, los fijos se mensualizan y el promotor retira 800,00 €/mes. La tabla no suma de nuevo las fuentes iniciales ni la gestoría ya incluida en la inversión.
+
+| Mes | Caja inicial | Cobros | Variables | Fijos | Retirada personal | Caja final |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 1 | 4.887,10 | 0,00 | 0,00 | 1.166,67 | 800,00 | 2.920,43 |
+| 2 | 2.920,43 | 0,00 | 0,00 | 1.166,67 | 800,00 | 953,76 |
+| 3 | 953,76 | 0,00 | 450,00 | 1.166,67 | 800,00 | **(1.462,91)** |
+| 4 | (1.462,91) | 3.000,00 | 900,00 | 1.166,67 | 800,00 | (1.329,58) |
+| 5 | (1.329,58) | 6.000,00 | 0,00 | 1.166,67 | 800,00 | 2.703,75 |
+| 6 | 2.703,75 | 0,00 | 1.650,00 | 1.166,67 | 800,00 | (912,92) |
+| 7 | (912,92) | 11.000,00 | 750,00 | 1.166,67 | 800,00 | 7.370,41 |
+| 8 | 7.370,41 | 5.000,00 | 1.050,00 | 1.166,67 | 800,00 | 9.353,74 |
+| 9 | 9.353,74 | 7.000,00 | 600,00 | 1.166,67 | 800,00 | 13.787,07 |
+| 10 | 13.787,07 | 4.000,00 | 1.500,00 | 1.166,67 | 800,00 | 14.320,40 |
+| 11 | 14.320,40 | 10.000,00 | 1.350,00 | 1.166,67 | 800,00 | 21.003,73 |
+| 12 | 21.003,73 | 9.000,00 | 1.200,00 | 1.166,63 | 800,00 | **26.837,10** |
+| **Total flujo** |  | **55.000,00** | **9.450,00** | **14.000,00** | **9.600,00** |  |
+
+Los 8.000,00 € facturados en diciembre se cobrarían en el mes 13. El saldo final de 26.837,10 € se presenta antes de IVA e IRPF y no equivale a disponibilidad personal neta.
+
+### 15.9. Circulante y liquidez
+
+Sin remanente inicial, la necesidad acumulada máxima hasta el primer cobro suficiente es 6.350,00 €. Con los 4.887,10 € del escenario central, la caja alcanza un mínimo de −1.462,90 € (la tabla muestra −1.462,91 € por redondeo mensual). La medida prudente es cerrar **al menos 1.462,90 € adicionales antes de comprar**, sin confiar en descubierto bancario o ventas no contratadas.
+
+La inversión inicial, la financiación y la explotación quedan así relacionadas: el activo concentra 44.227,00 €, el equipo, mobiliario y gestoría 2.143,52 €, y solo el excedente financiado queda disponible para absorber el desfase entre ejecución, facturación y cobro. Este control se actualizará con la fecha real de inicio, pagos fiscales, condiciones de cliente y coste definitivo del local.
+
+### 15.10. Punto de equilibrio e indicadores
+
+El margen de contribución es **85 %** (`1 − 15 %`). Con 14.000,00 € de costes fijos desembolsables, el punto de equilibrio operativo es **16.470,59 €** (`14.000 / 0,85`): facturación anual aproximada necesaria para cubrir los costes previstos antes de remuneración personal e IRPF.
+
+| Indicador del año 1 | Valor | Lectura |
+| --- | ---: | --- |
+| Margen de contribución | 85 % | Ventas menos variables sobre ventas |
+| Punto de equilibrio operativo | 16.470,59 € | No incluye retirada personal ni IRPF |
+| Margen sobre punto de equilibrio | 46.529,41 € / 282,50 % | Diferencia y porcentaje sobre el umbral |
+| Cash flow operativo antes de IRPF | 39.550,00 € | Resultado + amortización |
+| Circulante mínimo para el calendario | 6.350,00 € | Mayor necesidad acumulada sin caja inicial |
+| Necesidad adicional sobre remanente | 1.462,90 € | Debe cerrarse antes de adquirir |
+| Endeudamiento financiero | 0 % | No se contempla préstamo |
+| Capacidad de devolución | NO APLICA | No existe servicio de deuda |
+
+### 15.11. Escenarios y sensibilidad
+
+| Escenario año 1 | Ventas | Variables | Costes fijos | Amortización | Resultado antes de IRPF |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Conservador | 44.100,00 € | 7.938,00 € (18 %) | 14.000,00 € | 598,35 € | **21.563,65 €** |
+| Base | 63.000,00 € | 9.450,00 € (15 %) | 14.000,00 € | 598,35 € | **38.951,65 €** |
+| Crecimiento | 85.050,00 € | 15.309,00 € (18 %) | 17.500,00 € | 598,35 € | **51.642,65 €** |
+
+El conservador reduce ventas un 30 % y eleva la presión variable. El crecimiento aumenta ventas un 35 % y añade 3.500,00 € de estructura, pero solo sería viable tras comprobar capacidad y margen contratado; no es una previsión garantizada.
+
+| Sensibilidad sobre el año 1 base | Resultado antes de IRPF |
+| --- | ---: |
+| Ventas −20 %; variables proporcionales; fijos sin cambio | 28.241,65 € |
+| Costes variables y fijos +20 %; ventas sin cambio | 34.261,65 € |
+| Ventas −20 % y costes variables y fijos +20 % | 23.929,65 € |
+
+Las sensibilidades miden resultado, no aseguran tesorería: un retraso adicional en cobros puede aumentar el circulante aunque el resultado anual sea positivo.
+
+### 15.12. Seguimiento y control financiero
+
+Mensualmente se revisarán oportunidades, pipeline ponderado, propuestas emitidas, contratos adjudicados, ventas, cobros, margen, costes, tesorería, concentración de clientes y capacidad disponible. Se comparará real frente a presupuesto y se reestimarán los doce meses siguientes. Este sistema convierte la previsión en una herramienta de decisión: no en una promesa de ingresos.
+
+## 16. Puesta en marcha
 
 La solicitud de capitalización se presentará antes del alta e inicio de la actividad. La fecha de esta memoria no acredita por sí sola el registro de la solicitud. Según declara el promotor, no existe compra, reserva, arras, contrato de compraventa ni compromiso vinculante previo.
 
-Como criterio de ejecución del proyecto, se prevé formalizar la compra tras la resolución favorable y la acreditación de recursos. Las comprobaciones del local y de su coste se prepararán con antelación para hacer viable el calendario de inicio. Esta secuencia es una decisión de prudencia: el SEPE permite iniciar la actividad después de solicitar el pago único y antes de recibir la resolución, lo que no garantiza su concesión. [SEPE — Capitaliza tu prestación](https://www.sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion.html).
+Como criterio de ejecución del proyecto, se prevé formalizar la compra tras la resolución favorable y la acreditación de recursos. Las comprobaciones del local y de su coste se prepararán con antelación. Esta secuencia es una decisión de prudencia: el SEPE permite iniciar la actividad después de solicitar el pago único y antes de recibir la resolución, lo que no garantiza su concesión. [SEPE — Capitaliza tu prestación](https://www.sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion.html).
 
-La ejecución se realizará respetando los plazos y condiciones que establezca la resolución del SEPE. Cuando las referencias generales disponibles utilicen hitos temporales distintos, la planificación se ajustará al criterio más conservador y a las instrucciones concretas notificadas. Como referencias generales, el SEPE indica un mes desde la resolución concesoria para iniciar y un mes desde el cobro para acreditar el destino. No se presupone una fecha de resolución o ingreso. [SEPE — Requisitos y destino del pago único](https://www.sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion.html). Consulta: 2 de septiembre de 2026.
+La ejecución respetará los plazos y condiciones de la resolución. Como referencias generales, el SEPE indica un mes desde la resolución concesoria para iniciar y un mes desde el cobro para acreditar el destino. No se presupone una fecha de resolución o ingreso. [SEPE — Requisitos y destino del pago único](https://www.sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion.html). Consulta: 2 de septiembre de 2026.
 
-Solo se formalizará la operación si la aptitud del local, la financiación, el circulante y los plazos permiten ejecutar el proyecto. Se coordinarán las altas, las actuaciones administrativas, el acondicionamiento y la instalación de mobiliario y equipos con las condiciones notificadas.
+Solo se formalizará la operación si la aptitud del local, la financiación y un circulante actualizado de al menos 6.350,00 € —o el importe superior que resulte de datos reales— permiten ejecutar el proyecto. Se conservarán los justificantes bancarios, tributarios, notariales, registrales y comerciales. [SEPE — Justificación](https://www.sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion/documentacion-justificacion.html).
 
-Se conservarán los justificantes bancarios, tributarios, notariales, registrales y comerciales que correspondan. La ejecución y el destino de los fondos se acreditarán con documentos de la operación y de sus pagos, sin confundir las proformas o los anuncios con inversiones realizadas. [SEPE — Justificación](https://www.sepe.es/HomeSepe/autonomos/capitaliza-tu-prestacion/documentacion-justificacion.html).
+## 17. Conclusión
 
-## 16. Conclusión
+Allsetic AI Automation Studio plantea una consultoría tecnológica coherente con la experiencia declarada del promotor y una estructura inicial contenida como profesional autónomo sin empleados. La sede es un activo instrumental para infraestructura, custodia, administración, separación de usos y atención profesional.
 
-Allsetic AI Automation Studio plantea una actividad de consultoría tecnológica coherente con la experiencia declarada del promotor y una estructura inicial contenida, como profesional autónomo sin empleados. La sede responde a funciones concretas de infraestructura, custodia, administración, separación de usos y atención profesional.
+La inversión central asciende a 46.370,52 € frente a 51.257,62 € de fuentes previstas. El plan proyecta ventas de 63.000,00 €, 88.200,00 € y 113.400,00 € en tres años, un EBITDA de 39.550,00 € en el primero y un punto de equilibrio de 16.470,59 €. Son previsiones no contractuales sujetas a captación, capacidad y control mensual.
 
-La inversión inmobiliaria se apoya en cuatro ofertas referenciadas y en una media estadística de planificación de 36.975,00 €, que no representa el precio de un inmueble concreto. La selección permanece abierta para comprobar la aptitud del activo y conciliar el coste total con las fuentes previstas y las necesidades de circulante. El remanente presupuestario no acredita por sí solo continuidad operativa.
-
-Se solicita la capitalización para destinar prioritariamente el importe concedido a la adquisición del local afecto a la actividad. Los fondos propios complementarán la financiación. La operación solo se ejecutará si la resolución, las verificaciones y el coste definitivo permiten preservar la viabilidad y formalizar correctamente el inicio de la actividad.
+El remanente inicial de 4.887,10 € no alcanza por sí solo el circulante mínimo modelizado de 6.350,00 €. Esta diferencia de 1.462,90 € impone una condición concreta antes de comprar: reducir desembolsos, acreditar recursos adicionales o adaptar cobros y pagos. De ese modo, la adquisición y la puesta en marcha se evalúan conjuntamente con la capacidad de la actividad para sostener costes y generar caja, sin convertir estimaciones en hechos.
 
 # BLOQUE II — ANEXOS EXPLICATIVOS
 
@@ -503,7 +623,7 @@ Cada desembolso suma precio anunciado + TPO supuesto + agencia hipotética + 700
 
 Los cálculos tienen finalidad comparativa y no son presupuestos acreditados. La fiscalidad definitiva dependerá del territorio, la base imponible, el valor de referencia cuando corresponda, el transmitente y el régimen TPO/IVA/AJD de la operación. Se mantienen costes comunes para aislar diferencias de precio y fiscalidad; eso no acredita que las necesidades reales de acondicionamiento sean iguales.
 
-La fila de Águilas utiliza 3.100,00 € de TPO supuesto. El análisis del apartado 14.6 mantiene 3.600,00 € de reserva fiscal central y por eso muestra 500,00 € más de desembolso y 500,00 € menos de remanente. Son dos sensibilidades distintas, no importes acumulables.
+La fila de Águilas utiliza 3.100,00 € de TPO supuesto. El análisis del apartado 14.3 mantiene 3.600,00 € de reserva fiscal central y por eso muestra 500,00 € más de desembolso y 500,00 € menos de remanente. Son dos sensibilidades distintas, no importes acumulables.
 
 Ningún remanente acredita por sí solo circulante suficiente. La comparación no selecciona un inmueble y no se suma al escenario estadístico principal.
 
@@ -677,12 +797,12 @@ La asignación hipotética de las fuentes a los desembolsos es 29.000,00 € de 
 
 | Indicador | Importe o referencia |
 | --- | --- |
-| Circulante inicial necesario según la prueba limitada aportada | 7.200,00 € |
+| Circulante mínimo según la tesorería mensual | 6.350,00 € |
 | Remanente estadístico | 4.887,10 € |
-| Diferencia de control | 2.312,90 € |
-| Mes crítico indicado en la prueba | Mes 6 |
+| Necesidad adicional por cerrar | 1.462,90 € |
+| Mes crítico | Mes 3 |
 
-La prueba utiliza costes variables del 15 %, costes fijos aproximados de 1.400,00 €/mes, retiradas personales de 800,00 €/mes y cobro al mes siguiente. Los 7.200,00 € y el mes 6 son resultados aportados que no pueden reconstruirse sin la serie mensual ausente; la diferencia de 2.312,90 € sí está recalculada. Es una señal de riesgo, no un déficit definitivo ni una exigencia administrativa universal.
+El control procede de la serie reproducible del apartado 15.8: costes variables del 15 %, costes fijos de 14.000,00 € al año, retiradas personales de 800,00 €/mes y cobro al mes siguiente. La necesidad de 6.350,00 € es el máximo desfase acumulado sin caja inicial; frente al remanente central deja 1.462,90 € por cerrar. Es una necesidad de planificación, no una exigencia administrativa universal.
 
 No se adquirirá un activo que deje al negocio sin circulante suficiente. La tesorería se ajustará antes de la compra a los costes recurrentes, RETA, impuestos y calendario comercial que finalmente correspondan.
 
