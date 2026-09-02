@@ -133,3 +133,9 @@
 - **Efecto:** sustituye DEC-A16 en composición, rango y preferencia entre las dos incorporaciones. HYP-A26 conserva solo El Ejido; EVD-017 y preguntas 49–50 quedan retirados del alcance, sin reutilizar sus identificadores. Se conserva el histórico de decisiones y cambios.
 - **Criterio:** distinguir precios anunciados, superficies construidas/útiles, conservación comercial y comprobación técnica. No ordenar los cinco activos solo por precio; conservar selección abierta, presupuesto de referencia de 40.000 € y cuadro central HYP-A25.
 - **Estado:** PROPUESTA DOCUMENTAL PARA VALIDACIÓN MANUAL EN PR; no implica compra, reserva, aptitud certificada ni aprobación del SEPE. No se modifican binarios.
+
+## DEC-A18 · 2026-09-02 · Prevalencia de la memoria final y clasificación documental
+
+- **Decisión:** `MEMORIA_SEPE_PRESENTACION_FINAL.md` pasa a ser la única fuente canónica del expediente SEPE; todo documento presentable es derivado. Los modelos incompatibles se conservan como históricos con aviso y las evidencias originales no se editan.
+- **Motivo:** eliminar divergencias sin falsear la evolución ni transformar evidencia, estimaciones o simulaciones en hechos.
+- **Efectos:** cuatro alternativas vigentes; cifras y prueba de liquidez HYP-A27–A30; dossier, aplicación pública, modelo de inversión, estado, índices y trazabilidad alineados.

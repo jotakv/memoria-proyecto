@@ -97,3 +97,12 @@ Los 40.000 € constituyen el **presupuesto de referencia** del escenario financ
 - **Alcance vigente:** un escenario alternativo; se retira el segundo cálculo conforme a DEC-A17.
 - **Límites:** no sumar esta alternativa al escenario central; no sustituir el escenario central de 49.990,84 €; no presumir obras suficientes, gastos corrientes cubiertos, financiación SEPE aprobada ni circulante. La mayor base fiscal o gastos efectivos pueden alterar el resultado.
 - **Estado:** [HIPÓTESIS / CÁLCULO] de comparación, sujeto a validación del promotor; no inversión comprometida.
+
+## Hipótesis vigentes de la memoria SEPE · HYP-A27 a HYP-A30 · 2026-09-02
+
+> Sustituyen para el expediente vigente a HYP-A18–A26, que quedan como antecedentes históricos.
+
+- **HYP-A27:** `[ESTIMADO / PENDIENTE DE RESOLUCIÓN / NO CONCEDIDO / NO COBRADO]` pago único de 29.000,00 €. Fondos propios nominalmente documentados: `[CONFIRMADO]` 22.257,62 €. Fuentes previstas: `[CÁLCULO]` 51.257,62 €.
+- **HYP-A28:** `[ESTIMADO]` media estadística 36.975,00 €, fiscalidad 3.600,00 €, notaría/Registro 700,00 €, intermediación 1.452,00 € y acondicionamiento 1.500,00 €. Fiscalidad e intermediación son reservas prudenciales, no porcentajes exactos; acondicionamiento no es presupuesto técnico.
+- **HYP-A29:** `[CONFIRMADO como referencias comerciales]` informática 1.317,48 €, mobiliario 477,56 € y gestoría PR026-0351 348,48 €. No acreditan pago o adquisición; informática mantiene incidencias formales.
+- **HYP-A30:** `[HIPÓTESIS / CONTROL DE RIESGO]` 15 % variable, aproximadamente 1.400 €/mes fijos históricos ajustados, retirada de 800 €/mes y cobro al mes siguiente: circulante 7.200,00 €, diferencia 2.312,90 €, mes crítico 6. No es déficit definitivo.

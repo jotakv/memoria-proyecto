@@ -1,25 +1,16 @@
 # Índice de anexos y trazabilidad
 
-| ID | Documento o evidencia | Afirmación respaldada | Estado | Ubicación segura |
+Las referencias siguientes registran evidencia; no afirman reproducirla íntegramente ni convertirla en compromiso. Los binarios originales no se editan.
+
+| Código | Evidencia | Uso vigente | Estado | Ruta |
 |---|---|---|---|---|
-| EVD-001 | Resolución de prestación | Derecho, duración y cuantía | [PENDIENTE] | No registrada |
-| EVD-002 | Resolución de procedimiento impugnado, si existe | Secuencia de solicitud | [PENDIENTE] | No registrada |
-| EVD-003 | CV revisado | Experiencia del promotor | [PENDIENTE] | No registrado |
-| EVD-004 | Presupuestos de inversión | Necesidad e importes | [PENDIENTE] | No registrados |
-| EVD-005 | Acreditación de fondos | Fuentes de financiación | [PENDIENTE] | No registrada |
-| EVD-006 | Alta fiscal y Seguridad Social | Inicio de actividad | [PENDIENTE] | No registrada |
-| EVD-007 | Facturas y contratos | Ejecución de inversión | [PENDIENTE] | No registrados |
-| EVD-008 | Justificantes bancarios | Traspaso efectivo de fondos | [PENDIENTE] | No registrados |
-| EVD-009 | Modelo de viabilidad | Sostenibilidad económica | [PENDIENTE] | `financial-model/` |
-| EVD-010 | Memoria presentada y justificante de registro | Contenido y fecha oficial | [PENDIENTE] | No registrados |
-| EVD-011 | Ficha comercial de Águilas, ref. 00286 | Oferta de mercado: 40.000 €, 60 m² construidos anunciados, centro de Águilas | [CONFIRMADO como ficha comercial; no compromiso] | `locales/Aguilas Ficha.pdf` |
-| EVD-012 | Fichas comerciales de Castellón, San Fernando y Talavera de la Reina | Disponibilidad, horquilla anunciada de 32.900–45.000 € y proporcionalidad inicial del presupuesto | [CONFIRMADO como fichas comerciales; vigencia y comparabilidad PENDIENTES; no compromiso] | `locales/Castellon ficha.pdf`; `locales/San Fernando ficha.pdf`; `locales/Talavera ficha.pdf` |
-| EVD-013 | Notas simples de Castellón y Talavera e información catastral de Castellón | Contraste preliminar registral y descriptivo; identificación de discrepancias | [CONFIRMADO como documentos de contraste; correspondencia e idoneidad PENDIENTES; no compromiso] | `locales/Castellon NOTA SIMPLE.pdf`; `locales/Talavera nota simple.pdf`; `locales/castellon catastro.pdf` |
-| EVD-014 | Nota simple, Catastro e informe técnico vigentes del inmueble finalmente seleccionado | Diligencia jurídica, descriptiva, urbanística y técnica definitiva | [PENDIENTE] | No registrados para el activo definitivo |
-| EVD-015 | Expediente textual ordenado para preparación SEPE | Correspondencia entre memoria, plan, anexos, inversión y evidencias | [CONFIRMADO como dossier derivado; presentación PENDIENTE] | `docupresentarsepe/` |
-| EVD-016 | Ficha de El Ejido ref. 21496 y consulta catastral | 36.000 € anunciados; 37 m² construidos y uso comercial catastral | [CONFIRMADO como documentos; correspondencia, vigencia y aptitud PENDIENTES] | `locales/EL EJIDO CALLE GRANADA.pdf`; `locales/EL EJIDO CALLE GRANADA catrastro 6298604WF1669N0014TX.pdf` |
-| EVD-017 | Evidencia retirada del estudio | Identificador conservado por trazabilidad; ver DEC-A17 | [RETIRADA DEL ALCANCE] | Sin documentos vigentes en el inventario |
+| III.A.1 | Ficha de Águilas | Precio anunciado 40.000,00 € | `[CONFIRMADO como ficha / PENDIENTE de contraste]` | `locales/Aguilas Ficha.pdf` |
+| III.B.1–3 | Ficha, nota simple y Catastro de Castellón | Precio anunciado 39.000,00 € y diligencia | `[CONFIRMADO como documentos / PENDIENTE de conciliación]` | `locales/Castellon ficha.pdf`; `locales/Castellon NOTA SIMPLE.pdf`; `locales/castellon catastro.pdf` |
+| III.C.1–2 | Ficha y nota simple de Talavera | Precio anunciado 32.900,00 € y diligencia | `[CONFIRMADO como documentos / PENDIENTE de validación]` | `locales/Talavera ficha.pdf`; `locales/Talavera nota simple.pdf` |
+| III.D.1–2 | Ficha y Catastro de El Ejido | Precio anunciado 36.000,00 € y diligencia | `[CONFIRMADO como documentos / PENDIENTE de nota simple]` | `locales/EL EJIDO CALLE GRANADA.pdf`; `locales/EL EJIDO CALLE GRANADA catrastro 6298604WF1669N0014TX.pdf` |
+| V.1 | Documento comercial informático | Referencia 1.317,48 € | `[PENDIENTE de aclarar/sustituir]`; no prueba encargo, entrega o pago | `proformas/Proforma material informatico Order - 41385515.pdf` |
+| VI.1 | Presupuesto de mobiliario 872963 | Referencia 477,56 € | `[CONFIRMADO como presupuesto]`; no prueba compra | `proformas/Proforma Presupuesto_materialOficinaLM_Rivas-2_872963_17877464254793490750457521514107.pdf` |
+| VII.1 | Proforma gestoría PR026-0351 | 12 meses; total 348,48 € | `[CONFIRMADO como proforma]`; no prueba contratación/pago | `proformas/PROFORMA GESTORIA.pdf` |
+| IX.1 | Saldos BBVA e ING | 12.653,67 € + 9.603,95 € | `[CONFIRMADO como evidencia aportada]` | `fondos_propios/bbva cuenta saldo.pdf`; `fondos_propios/ing saldo cuenta sept.pdf` |
 
-## Regla de cierre
-
-Una afirmación crítica solo se marcará `[CONFIRMADO]` cuando exista una fuente adecuada o declaración expresa, se conozca su fecha y no contradiga el resto del expediente. Los documentos personales se archivarán fuera de la versión pública y el índice indicará una ubicación segura, no el contenido sensible.
+`locales/San Fernando ficha.pdf` es evidencia histórica preservada y no forma parte de III.A–III.D ni de la muestra vigente.

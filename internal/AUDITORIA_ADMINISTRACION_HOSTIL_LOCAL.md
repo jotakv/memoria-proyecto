@@ -1,3 +1,7 @@
+> **HISTÓRICO / SUSTITUIDO — NO PRESENTAR**
+>
+> Este documento corresponde a una versión anterior del proyecto. La versión vigente se encuentra en [`MEMORIA_SEPE_PRESENTACION_FINAL.md`](../MEMORIA_SEPE_PRESENTACION_FINAL.md). Sus cifras se conservan únicamente como trazabilidad histórica y no constituyen la previsión oficial vigente del expediente.
+
 # Auditoría interna · Administración hostil · local Allsetic
 
 **Fecha:** 2026-08-29 · **Uso:** interno; objeciones para resolver, no conclusión administrativa.

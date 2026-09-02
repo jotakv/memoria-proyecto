@@ -1,3 +1,7 @@
+> **HISTÓRICO / SUSTITUIDO — NO PRESENTAR**
+>
+> Este documento corresponde a una versión anterior del proyecto. La versión vigente se encuentra en [`MEMORIA_SEPE_PRESENTACION_FINAL.md`](../MEMORIA_SEPE_PRESENTACION_FINAL.md). Sus cifras se conservan únicamente como trazabilidad histórica y no constituyen la previsión oficial vigente del expediente.
+
 # Hipótesis, pendientes y fuentes
 
 **Corte:** 27 de agosto de 2026. Este registro central complementa `docs/ASSUMPTIONS.md`; en caso de diferencia prevalece el registro corporativo. Responsable por defecto: **promotor**, con asesor fiscal/jurídico cuando se indica.

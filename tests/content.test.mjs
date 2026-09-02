@@ -22,11 +22,16 @@ test('ofertas, plazos y precios están marcados como hipótesis', () => {
   assert.match(canonical, /no representan ventas obtenidas ni facturación garantizada/i);
 });
 
-test('la inversión del local separa datos, pendientes y brecha', () => {
+test('la inversión vigente concilia fuentes, usos y control de liquidez', () => {
   const section = canonical.match(/## 15\. Inversión prevista([\s\S]*?)## 16\./)?.[1] ?? '';
   assert.ok(section);
-  assert.match(section, /40\.000 € como \*\*presupuesto de referencia\*\*, no como precio definitivo/i);
-  assert.match(section, /\*\*Subtotal proformas\*\*[\s\S]*\*\*2\.738,84 €\*\*/);
-  assert.match(section, /BRECHA DE FINANCIACIÓN PENDIENTE/);
-  assert.match(section, /no ha adquirido, reservado ni pagado el local/i);
+  assert.match(section, /Media estadística[\s\S]*36\.975,00 €/i);
+  assert.match(section, /46\.370,52 €/);
+  assert.match(section, /22\.257,62 €/);
+  assert.match(section, /PENDIENTE DE RESOLUCIÓN \/ NO CONCEDIDO \/ NO COBRADO/);
+
+  const viability = canonical.match(/## 18\. Viabilidad([\s\S]*?)## 19\./)?.[1] ?? '';
+  assert.match(viability, /7\.200,00 €/);
+  assert.match(viability, /2\.312,90 €/);
+  assert.match(viability, /no un déficit definitivo/i);
 });

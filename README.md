@@ -1,73 +1,33 @@
-# Allsetic AI Automation Studio — Memoria descriptiva
+# Allsetic AI Automation Studio — expediente maestro
 
-Repositorio maestro de la memoria profesional de **Allsetic AI Automation Studio**, una consultoría técnica especializada en inteligencia artificial aplicada a procesos empresariales, automatización, Microsoft 365, Dynamics 365, Power Platform, Azure y CRM.
+Repositorio documental del proyecto de autoempleo y de su eventual solicitud de capitalización ante el SEPE.
 
-El repositorio conserva en un único lugar:
+## Fuente de verdad y estado documental
 
-- la [memoria descriptiva canónica](docs/memoria-descriptiva-allsetic.md);
-- el [plan de empresa para jurado y financiación](plan-empresa/README.md);
-- una aplicación web estática, responsive e imprimible generada desde esa memoria;
-- el estado, las hipótesis, las decisiones y los pendientes del expediente;
-- las fuentes oficiales y controles para una eventual solicitud de pago único ante el SEPE;
-- plantillas textuales para inversión, financiación y evidencia.
-- un [expediente Markdown ordenado para preparar la presentación SEPE](docupresentarsepe/README.md), derivado de las fuentes canónicas y enlazado a las evidencias originales.
+- **Memoria SEPE canónica, vigente y presentable:** [`MEMORIA_SEPE_PRESENTACION_FINAL.md`](MEMORIA_SEPE_PRESENTACION_FINAL.md).
+- **Aplicación pública derivada:** [`docs/memoria-descriptiva-allsetic.md`](docs/memoria-descriptiva-allsetic.md); debe mantenerse coherente con la memoria SEPE, pero no la sustituye.
+- **Clasificación completa:** [`docs/DOCUMENT_REGISTER.md`](docs/DOCUMENT_REGISTER.md).
+- **Estado y pendientes:** [`docs/STATUS.md`](docs/STATUS.md) y [`docs/OPEN_QUESTIONS.md`](docs/OPEN_QUESTIONS.md).
 
-## Estado
+La versión vigente estudia cuatro alternativas —Águilas, Castellón, Talavera de la Reina y El Ejido—, sin selección, reserva, arras ni compra. Los PDF y demás documentos de terceros son evidencia original y no se editan.
 
-La memoria descriptiva contiene las 22 secciones previstas y puede utilizarse como borrador profesional. El expediente económico y administrativo sigue **pendiente de completar** con resolución de prestación, cronología, presupuestos, financiación, costes y previsiones documentadas. No se presenta ninguna concesión, cliente o ingreso como confirmado.
+## Cifras vigentes
 
-## Fuente de verdad
+| Concepto | Estado | Importe |
+|---|---|---:|
+| Fondos propios nominalmente documentados | `[CONFIRMADO]` BBVA 12.653,67 € + ING 9.603,95 € | **22.257,62 €** |
+| Pago único SEPE | `[ESTIMADO / PENDIENTE DE RESOLUCIÓN / NO CONCEDIDO / NO COBRADO]` | **29.000,00 €** |
+| Fuentes previstas | `[CÁLCULO]` | **51.257,62 €** |
+| Escenario estadístico de inversión | `[ESTIMADO]` | **46.370,52 €** |
+| Remanente aritmético | `[CÁLCULO]`; no demuestra circulante suficiente | **4.887,10 €** |
+| Prueba limitada de circulante | `[HIPÓTESIS]` | **7.200,00 €** |
+| Diferencia de control | `[CÁLCULO]`; señal de riesgo, no déficit definitivo | **2.312,90 €** |
 
-`docs/memoria-descriptiva-allsetic.md` es la única fuente editorial del contenido mostrado por la aplicación. `scripts/build.mjs` la transforma en `index.html` y prepara `dist/` para publicación. No se debe editar manualmente la copia generada.
-
-## Requisitos
-
-- Node.js 20 o posterior.
-- npm, utilizado únicamente para ejecutar scripts; no hay dependencias de producción.
-
-## Instalación y desarrollo
+## Desarrollo y validación
 
 ```bash
 npm install
-npm run dev
+npm run check
 ```
 
-La aplicación queda disponible en `http://127.0.0.1:4173/`.
-
-## Comprobaciones
-
-```bash
-npm run lint
-npm run typecheck
-npm test
-npm run build
-```
-
-`npm run check` ejecuta todas las comprobaciones en orden.
-
-## Impresión y PDF
-
-La interfaz incluye la acción **Imprimir / Guardar como PDF** y una hoja de estilos específica para impresión A4. No se genera ni versiona ningún PDF: la exportación se realiza desde el cuadro de impresión del navegador.
-
-## Estructura
-
-- `assets/`: estilos y comportamiento progresivo de la interfaz.
-- `docs/`: memoria canónica, estado y trazabilidad.
-- `documentos_sepe/`: copias oficiales preexistentes, conservadas sin cambios.
-- `evidence/`: índice de documentos y controles probatorios.
-- `financial-model/`: inversión y viabilidad pendientes de completar.
-- `legal/`: reglas administrativas y controles de privacidad/contratación.
-- `plan-empresa/`: plan integral, resumen ejecutivo, modelo financiero y trazabilidad de plantillas.
-- `research/`: fuentes oficiales verificadas.
-- `roadmap/`: secuencia de negocio y expediente.
-- `scripts/`: generación, servidor local y validación.
-- `technology/`: arquitectura de la aplicación documental.
-- `tests/`: pruebas de contenido, coherencia y build.
-
-## Principios
-
-- Los precios orientativos son `[HIPÓTESIS]`, no ventas ni previsiones garantizadas.
-- Las partidas sin evidencia muestran `[PENDIENTE]` o “Pendiente de presupuesto”.
-- No se atribuyen al promotor credenciales o casos no aportados.
-- Toda afirmación administrativa debe revalidarse con fuente oficial antes de presentar.
-- No se versionan binarios generados, capturas ni exportaciones.
+`npm run build` genera `index.html` y `dist/` desde `docs/memoria-descriptiva-allsetic.md`; no se edita `index.html` manualmente. No se generan ni versionan DOCX/PDF: los binarios existentes son evidencias originales preservadas.
