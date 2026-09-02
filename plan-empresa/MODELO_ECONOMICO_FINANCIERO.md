@@ -1,3 +1,7 @@
+> **HISTÓRICO / SUSTITUIDO — NO PRESENTAR**
+>
+> Este documento corresponde a una versión anterior del proyecto. La versión vigente se encuentra en [`MEMORIA_SEPE_PRESENTACION_FINAL.md`](../MEMORIA_SEPE_PRESENTACION_FINAL.md). Sus cifras se conservan únicamente como trazabilidad histórica y no constituyen la previsión oficial vigente del expediente.
+
 # Modelo económico-financiero
 
 **Versión:** 1.1 · 29 de agosto de 2026

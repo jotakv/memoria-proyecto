@@ -1,47 +1,15 @@
-# 05 · Anexo III · Fichas y documentación de locales analizados
+# 05 · Anexo III — Fichas y evidencias de los cuatro locales
 
-Este índice enlaza los documentos originales sin copiarlos. Las notas simples pueden contener datos personales o registrales; se referencian para revisión autorizada y no se transcriben íntegramente.
+## III.A — Águilas
+Precio anunciado 40.000,00 €. Evidencia: `locales/Aguilas Ficha.pdf`. Sin contraste registral/catastral aportado ni selección.
 
-## Águilas
+## III.B — Castellón
+Precio anunciado 39.000,00 €. Evidencias: ficha, nota simple y Catastro. Identidad, superficies, situación y aptitud deben conciliarse.
 
-- [Ficha comercial ref. 00286](../locales/Aguilas%20Ficha.pdf).
-- **Estado:** ficha comercial disponible; deben verificarse vigencia, nota simple, Catastro, inspección y compatibilidad.
-- **Uso en el expediente:** oferta inmobiliaria y evidencia de mercado; no factura proforma ni compromiso.
+## III.C — Talavera de la Reina
+Precio anunciado 32.900,00 €. Evidencias: ficha y nota simple. Reforma, identidad y aptitud siguen pendientes.
 
-## Castellón
+## III.D — El Ejido
+Precio anunciado 36.000,00 €. Evidencias: ficha y consulta catastral. Falta nota simple y comprobación técnica/urbanística.
 
-- [Ficha comercial ref. L040](../locales/Castellon%20ficha.pdf).
-- [Nota simple](../locales/Castellon%20NOTA%20SIMPLE.pdf).
-- [Certificación catastral](../locales/castellon%20catastro.pdf).
-- **Estado:** documentación de contraste disponible; debe comprobarse la correspondencia entre finca, dirección, superficie, uso y oferta.
-- **Uso en el expediente:** estudio previo jurídico-descriptivo; no acredita selección ni adquisición.
-
-## San Fernando
-
-- [Ficha comercial](../locales/San%20Fernando%20ficha.pdf).
-- **Estado:** ficha comercial disponible; deben verificarse identificación completa, vigencia, Registro, Catastro, inspección y compatibilidad.
-- **Uso en el expediente:** oferta inmobiliaria y evidencia de mercado; no factura proforma ni compromiso.
-
-## Talavera de la Reina
-
-- [Ficha comercial](../locales/Talavera%20ficha.pdf).
-- [Nota simple](../locales/Talavera%20nota%20simple.pdf).
-- **Estado:** documentación de contraste disponible; deben verificarse vigencia, superficie anunciada y registral y revisión técnica y urbanística.
-- **Uso en el expediente:** oferta y diligencia registral preliminar; no acredita selección ni adquisición.
-
-## El Ejido · calle Granada · ref. 21496
-
-- [Ficha comercial de Murgicasa](../locales/EL%20EJIDO%20CALLE%20GRANADA.pdf): 36.000 €, 37 m² construidos y un baño; fecha de emisión no visible.
-- [Consulta catastral de 01/09/2026](../locales/EL%20EJIDO%20CALLE%20GRANADA%20catrastro%206298604WF1669N0014TX.pdf): uso comercial, año 1982, 32 m² de comercio + 5 m² comunes; no es certificación catastral.
-- **Estado:** coincidencia de superficie total; correspondencia ficha/finca, nota simple, superficie útil, permisos y costes pendientes.
-- **Uso en el expediente:** alternativa con precio inferior a la referencia de 40.000 € para diligencia; no acredita selección, operación o aptitud.
-
-## Documentos requeridos para el activo definitivo
-
-- [ ] ficha/oferta vigente y condiciones de negociación;
-- [ ] nota simple vigente;
-- [ ] información catastral reconciliada;
-- [ ] comprobación urbanística y título habilitante;
-- [ ] inspección técnica y presupuesto de acondicionamiento;
-- [ ] cálculo documentado de fiscalidad y formalización;
-- [ ] documentación efectiva de adquisición y pago, solo si se ejecuta.
+Las evidencias son originales de terceros, no compromisos ni presupuestos contractuales. San Fernando se conserva solo como evidencia histórica y no integra esta muestra.

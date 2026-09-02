@@ -116,3 +116,10 @@
 
 - Reconciliada la memoria canónica con la modalidad principalmente remota y sin local comercial inicial.
 - El validador excluye `referencias/` del control de términos incompatibles porque contienen ejemplos históricos obligatorios e intactos; el contenido activo continúa validándose.
+
+## 2026-09-02 · Alineación integral con la memoria final canónica
+
+- Se declara `MEMORIA_SEPE_PRESENTACION_FINAL.md` única fuente de verdad del expediente y se crea el registro A–E de clasificación documental.
+- Se alinean dossier, presentación pública y plan de inversión con cuatro locales, fondos propios de 22.257,62 €, gestoría de 348,48 €, fuentes de 51.257,62 € e inversión estadística de 46.370,52 €.
+- Se explicitan reservas, escenarios alternativos, remanente de 4.887,10 € y prueba limitada de liquidez (7.200,00 € / diferencia 2.312,90 €) sin presentarla como déficit definitivo.
+- Se marcan como históricos los modelos de cinco locales, financiación anterior y ventas de 63.000 €. No se modifica evidencia original de terceros.

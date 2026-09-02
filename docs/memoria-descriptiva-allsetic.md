@@ -226,73 +226,34 @@ La selección dependerá de requisitos, licencias, seguridad, coste y arquitectu
 
 ## 14. Recursos necesarios
 
-| Categoría | Necesidad prevista | Estado |
-|---|---|---|
-| Equipamiento informático | Portátil profesional, monitor, periféricos, auriculares, webcam y accesorios | [PENDIENTE] inventario y presupuesto |
-| Conectividad | Internet estable y conectividad móvil de respaldo si resulta necesaria | [PENDIENTE] proveedor y coste |
-| Software y licencias | Productividad, desarrollo, automatización, seguridad y documentación | [PENDIENTE] plan de licencias |
-| Servicios cloud | Entornos de desarrollo, pruebas, demostración y operación cuando proceda | [PENDIENTE] dimensionamiento y límites |
-| Dominio, hosting y correo | Presencia web y comunicaciones profesionales | [PENDIENTE] dominio y proveedor |
-| CRM y prospección | Gestión de oportunidades, seguimiento y contacto comercial lícito | [PENDIENTE] herramienta y coste |
-| Personas y colaboradores | Apoyo especializado sujeto a demanda, alcance y capacidad financiera | [HIPÓTESIS] sin contratación comprometida |
+La actividad tendrá **operativa híbrida**, remota y presencial. La sede profesional prevista funcionará como puesto técnico permanente, administración, preparación de proyectos, demostraciones, custodia, archivo, reuniones, formación y recepción puntual. Aunque técnicamente puede trabajarse desde vivienda, la sede se justifica por organización empresarial y continuidad.
 
-Aunque una parte importante de la prestación continuará siendo remota, Allsetic necesita una sede profesional propia como base operativa. El espacio permitirá mantener un puesto técnico permanente, instalar y custodiar equipos y periféricos, archivar documentación, separar vivienda y actividad, organizar reuniones presenciales, demostraciones, análisis de procesos, implantaciones y formación a clientes, y recibir puntualmente a colaboradores o proveedores. Estas funciones son instrumentales a los servicios existentes; no añaden actividad inmobiliaria ni uso personal.
+El local será un **medio de producción y activo instrumental**, sin finalidad residencial, arrendadora, especulativa, de reventa o inmobiliaria. No existe inmueble seleccionado, reserva, arras, contrato o compra. La muestra vigente contiene exactamente cuatro alternativas:
 
-### 14.1 Necesidad, afectación y compra frente a alquiler
+| Alternativa | Precio anunciado |
+|---|---:|
+| Águilas | 40.000,00 € |
+| Castellón | 39.000,00 € |
+| Talavera de la Reina | 32.900,00 € |
+| El Ejido | 36.000,00 € |
 
-La sede aporta disponibilidad y continuidad para proyectos que combinan desarrollo, pruebas, documentación y sesiones con clientes. La compra se contempla a largo plazo por estabilidad del establecimiento y posibilidad de adaptar técnicamente el espacio, no como patrimonio, reventa, alquiler, vivienda o expectativa de revalorización. La afectación prevista es exclusivamente profesional.
-
-La adquisición no se presume superior al alquiler. Antes de comprometerla se compararán `[PENDIENTE]` precio y costes accesorios de compra, rentas y oferta disponible, horizonte de uso, obras, flexibilidad, liquidez, proporcionalidad para una persona autónoma y concentración financiera. La estabilidad potencial debe ponderarse frente al riesgo de inmovilizar casi todos los recursos y dejar insuficiente circulante.
-
-Entre las alternativas documentadas figura la **ficha comercial de inmueble candidato** ref. 00286: centro de Águilas, precio ofertado 40.000 €, 60 m² construidos anunciados, un baño y antigüedad indicada de 1960. No existe reserva, arras, contrato, derecho de adquisición, precio pactado, compromiso del vendedor o compra respecto de este ni de los demás activos analizados. En el caso de Águilas, superficie, titularidad y estado quedan `[PENDIENTE]` de Catastro, nota simple, plano, escritura, documentación del vendedor, medición e inspección técnica; cualquier referencia a 41 m² u otra superficie se tratará como discrepancia, sin selección arbitraria.
-
-### 14.2 Adquisición del local comercial y metodología de selección
-
-A fecha de esta memoria no hay ningún local comprado ni se ha formalizado reserva, arras, contrato de compraventa u otro compromiso vinculante. El promotor se encuentra en una fase previa de búsqueda, comparación y comprobación de activos. Las fichas de Águilas, Castellón, San Fernando, Talavera de la Reina y El Ejido son **ofertas / fichas comerciales / evidencias de mercado utilizadas para la estimación previa de inversión**: sirven para acreditar oferta disponible, observar precios y dimensionar un presupuesto de referencia, pero no identifican una compra decidida ni constituyen facturas proforma. Las notas simples y la información catastral incorporadas para algunas alternativas son documentación de contraste previo, no títulos del promotor ni compromisos de adquisición.
-
-La selección definitiva será posterior y podrá recaer en cualquiera de las alternativas documentadas o en otro inmueble funcional y económicamente equivalente. Se comprobarán, como mínimo, precio y negociación final, superficie, ubicación, disponibilidad, adecuación a la actividad, estado físico, situación registral y urbanística, costes de adquisición y eventual acondicionamiento, y viabilidad económica global. Existen varias alternativas reales documentadas y una horquilla preliminar de precios anunciados; siguen `[PENDIENTE]` su comparabilidad territorial y funcional, la vigencia de cada oferta y la diligencia jurídica, urbanística y técnica completa del activo finalmente seleccionado.
-
-El orden de decisión es **necesidad operativa → requisitos del espacio → contraste de mercado y diligencia previa → inversión empresarial → financiación**. El importe de 40.000 € se mantiene como presupuesto de planificación: queda dentro de la horquilla preliminar observada de **32.900 € a 45.000 €**, está sujeto a selección y negociación definitiva y no es un precio contractual máximo ni cerrado. Los aproximadamente 29.000 € del pago único `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` se destinarían prioritariamente a financiar parcialmente el precio del inmueble afecto, y los fondos propios declarados cubrirían la parte restante del precio y los demás usos en la medida indicada en la sección 15. Esta previsión no implica aprobación previa del SEPE ni elimina la brecha de financiación ya identificada.
-
-Tras una eventual adquisición se conservará la documentación efectiva de la operación —como escritura, justificante bancario, liquidación de impuestos y demás documentos que correspondan— para acreditar su ejecución, sin anticipar en esta memoria requisitos que dependerán del inmueble, territorio y criterio aplicables.
-
-### 14.3 Estudio preliminar de mercado inmobiliario
-
-La comparativa se limita a evidencia real incorporada al expediente. Los precios y superficies siguientes son datos anunciados o contenidos en los documentos disponibles, no mediciones verificadas, valoraciones ni ofertas vinculantes. La dispersión geográfica permite observar disponibilidad y orden de magnitud, pero no demuestra por sí sola que todos los activos sean comparables con la ubicación profesional que finalmente se determine.
-
-| Alternativa documentada | Precio anunciado | Superficie anunciada | Ubicación | Estado documental | Fuente / documento | Observaciones |
-|---|---:|---:|---|---|---|---|
-| Águilas · ref. 00286 | 40.000 € | 60 m² construidos | Centro de Águilas | `[PENDIENTE]` contraste jurídico, técnico y urbanístico | `locales/Aguilas Ficha.pdf` | Oferta no vinculante; no reservada; cualquier referencia a 41 m² queda pendiente de resolver |
-| Castellón · ref. L040 | 39.000 € | 53/54 m² construidos en anuncio; 40,50 m² construidos registrales | Calle de Sant Mateu 4, Castellón | Ficha comercial, nota simple y Catastro; correspondencia exacta `[PENDIENTE]` | `locales/Castellon ficha.pdf`; `locales/Castellon NOTA SIMPLE.pdf`; `locales/castellon catastro.pdf` | La nota simple describe 40,50 m² y calle San Mateo 2; Catastro localiza San Mateo 4 y uso almacén-estacionamiento. Deben reconciliarse finca, dirección, superficie, uso y aptitud |
-| San Fernando | 45.000 € | 31 m² construidos y 24 m² útiles | A dos minutos del Ayuntamiento de San Fernando | Solo ficha comercial; resto `[PENDIENTE]` | `locales/San Fernando ficha.pdf` | Oferta no vinculante; anuncio indica reformado y accesible, sin comprobación independiente |
-| Talavera de la Reina · Carretas 12 | 32.900 € | 50 m² construidos y 41 m² útiles anunciados; nota simple: 40,75 m² útiles | Calle Carretas 12, Talavera de la Reina | Ficha comercial y nota simple; contraste técnico y urbanístico `[PENDIENTE]` | `locales/Talavera ficha.pdf`; `locales/Talavera nota simple.pdf` | Oferta no vinculante; comparación de superficies útiles pendiente de verificar; la nota simple informa de ausencia de cargas a su fecha |
-| El Ejido · ref. 21496 | 36.000 € | 37 m² anunciados; 32 m² comercio + 5 m² comunes en Catastro | Ejido sur; calle Granada 37 según Catastro | Ficha y consulta catastral; identidad/aptitud `[PENDIENTE]` | `locales/EL EJIDO CALLE GRANADA.pdf`; `locales/EL EJIDO CALLE GRANADA catrastro 6298604WF1669N0014TX.pdf` | Un baño; uso comercial y año 1982 catastrales; falta nota simple y superficie útil medida |
-
-Las cinco ofertas permiten establecer una **horquilla preliminar observada de 32.900 € a 45.000 €** y sitúan el presupuesto de referencia de 40.000 € dentro del mercado documentado. Este contraste acredita alternativas y razonabilidad inicial, no una tasación ni la idoneidad definitiva. Deberán verificarse `[PENDIENTE]` vigencia, comparabilidad territorial, disponibilidad, características, titularidad, cargas, uso, compatibilidad urbanística, estado y costes de cada activo que avance en el proceso. Los anuncios, fichas comerciales, notas simples, información catastral, informes técnicos o comparativas son soporte del estudio previo y no compromisos de compra.
-
-La revisión de 01/09/2026 recoge las cinco alternativas vigentes en [el anexo II del dossier](https://github.com/jotakv/memoria-proyecto/blob/main/docupresentarsepe/04_ANEXO_II_ESTUDIO_MERCADO_INMOBILIARIO.md). La simulación de El Ejido utiliza HYP-A25/HYP-A26 y las fuentes previstas de 48.000 € de la memoria final; no equivale a aprobación de financiación ni sustituye los supuestos históricos del modelo general. Su precio permite estudiar el encaje económico, sin darle prioridad sobre las otras opciones ni acreditar aptitud o liquidez suficiente.
+La media aritmética `(40.000 + 39.000 + 32.900 + 36.000) / 4` es **36.975,00 €**. Es una referencia estadística orientativa, no el precio de Águilas ni de otro inmueble, oferta, tasación o precio negociado. La compra se comparará metodológicamente con alquiler y solo se formalizará si el coste integral preserva circulante suficiente.
 
 ## 15. Inversión prevista
 
-El detalle conciliado se mantiene en `financial-model/PLAN_INVERSION.md`. El escenario financiero conserva 40.000 € como **presupuesto de referencia**, no como precio definitivo; no representa el coste total. Se prevé aplicar al precio aproximadamente 29.000 € de pago único `[ESTIMADO / PENDIENTE DE RESOLUCIÓN]` y aproximadamente 11.000 € de los 12.000 € propios declarados `[PENDIENTE de acreditación]`. El remanente provisional aproximado de 1.000 € no cubre por sí solo las proformas ni los costes accesorios.
+| Concepto | Estado | Importe |
+|---|---|---:|
+| Media estadística del activo | `[ESTIMADO]` | 36.975,00 € |
+| Fiscalidad | `[ESTIMADO]` reserva prudencial, no fórmula exacta | 3.600,00 € |
+| Notaría y Registro | `[ESTIMADO]` | 700,00 € |
+| Intermediación | `[ESTIMADO]` reserva prudencial, no fórmula exacta | 1.452,00 € |
+| Inspección/acondicionamiento | `[ESTIMADO]` reserva inicial, no presupuesto técnico | 1.500,00 € |
+| Informática | `[CONFIRMADO como referencia comercial]` | 1.317,48 € |
+| Mobiliario | `[CONFIRMADO como referencia comercial]` | 477,56 € |
+| Gestoría PR026-0351 | `[CONFIRMADO como proforma]` | 348,48 € |
+| **Total** | `[CÁLCULO]` | **46.370,52 €** |
 
-Como aclaración de planificación, los 40.000 € son un **presupuesto de referencia** respaldado por la comparativa y por el precio anunciado de una de sus alternativas, no un precio contractual; el inmueble seleccionado podría ser cualquiera de los analizados u otro equivalente y el importe queda sujeto a selección y negociación. La cifra representa solo el precio de compra: el **coste total de adquisición** añadirá los impuestos, notaría, Registro, intermediación y otros gastos que efectivamente correspondan, todavía `[PENDIENTE]` de inmueble y territorio definitivos.
-
-| Bloque | Importe | Estado y evidencia |
-|---|---:|---|
-| Presupuesto de referencia del inmueble | 40.000,00 € | dentro de la horquilla documentada; selección, negociación y operación futuras y condicionadas |
-| Impuestos, notaría, Registro y agencia | Pendiente | cálculo, presupuestos y condiciones `[PENDIENTE]` |
-| Inspección y acondicionamiento | Pendiente | instalaciones, humedades/estado, accesibilidad, incendios y presupuesto `[PENDIENTE]` |
-| Mobiliario | 477,56 € | proforma; no encargado, recibido ni pagado |
-| Equipo informático | 1.317,48 € | documento a subsanar; no encargado, recibido ni pagado según declaración |
-| Gestoría | 943,80 € | proforma; no contratada ni pagada |
-| Licencias, suministros, seguro y puesta en marcha | Pendiente | compatibilidad, título habilitante y ofertas `[PENDIENTE]` |
-| Fondo de maniobra | Pendiente | tesorería revisada `[PENDIENTE]` |
-| **Subtotal proformas** | **2.738,84 €** | fuente distinta del pago único reservado al precio |
-
-**BRECHA DE FINANCIACIÓN PENDIENTE:** tras completar solo el precio quedaría un remanente estimado de 1.000 € frente a 2.738,84 € de proformas, una diferencia mínima visible de 1.738,84 €, más todos los costes todavía sin cuantificar. No existe financiación bancaria ni otras ayudas concedidas.
-
-A fecha de elaboración de la memoria, el promotor no ha adquirido, reservado ni pagado el local; tampoco ha firmado arras, contrato de compraventa o compromiso vinculante. Las restantes partidas se apoyan únicamente en presupuestos, fichas comerciales o facturas proforma. No se ha adquirido, encargado, recibido ni pagado ningún equipo, mobiliario o servicio incluido en el plan de inversión.
+Las fuentes previstas son **51.257,62 €**: pago único aproximado de 29.000,00 € `[ESTIMADO / PENDIENTE DE RESOLUCIÓN / NO CONCEDIDO / NO COBRADO]` y 22.257,62 € de fondos propios nominalmente documentados. El remanente aritmético de 4.887,10 € no prueba liquidez. Electricidad, agua, internet, comunidad, IBI, seguro, mantenimiento, reparaciones, obligaciones y adecuaciones están `[PENDIENTE]` según el activo.
 
 ## 16. Estrategia comercial
 
@@ -332,17 +293,11 @@ Las fechas concretas dependen de alta, financiación, disponibilidad del promoto
 
 ## 18. Viabilidad
 
-La viabilidad cualitativa se apoya en:
+No existe información suficiente para construir sin hipótesis adicionales una previsión comercial anual o una tesorería mensual completa. El modelo preliminar de 63.000 € se conserva como histórico, no como previsión oficial.
 
-- [CONFIRMADO] experiencia previa del promotor directamente relacionada con el servicio;
-- estructura inicial de una sola persona, con prestación remota y sede profesional propia prevista;
-- posibilidad de mantener costes fijos controlados y contratar capacidad externa solo cuando exista demanda;
-- especialización en un ecosistema empresarial implantado, sin cuantificar el mercado mediante estadísticas no verificadas;
-- combinación prevista de proyectos y servicios recurrentes;
-- prestación remota para España y clientes internacionales;
-- reutilización prudente de componentes, documentación y metodología sin vender activos futuros como productos existentes.
+La prueba limitada usa costes variables del 15 %, costes fijos históricos ajustados de aproximadamente 1.400 €/mes, retirada personal de 800 €/mes y cobro al mes siguiente. Estima circulante inicial de **7.200,00 €**, frente al remanente estadístico de **4.887,10 €**: diferencia de control **2.312,90 €**, con mes crítico 6. Es una señal de riesgo de liquidez derivada de una prueba simplificada, no un déficit definitivo.
 
-La viabilidad económica final está [PENDIENTE]. Antes de presentar el expediente deberán completarse inversión, fuentes de financiación, costes mensuales, capacidad facturable, hipótesis comerciales, previsión de tesorería y escenarios. Esta memoria no afirma rentabilidad, punto de equilibrio ni facturación sin esos datos.
+La inversión solo avanzará cuando precio, tributación, formalización, intermediación, acondicionamiento, equipamiento, puesta en marcha y necesidades operativas sean compatibles con la tesorería inicial.
 
 ## 19. Riesgos y mitigación
 

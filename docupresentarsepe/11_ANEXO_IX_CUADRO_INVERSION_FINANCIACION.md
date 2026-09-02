@@ -1,49 +1,18 @@
-# 11 · Anexo IX · Cuadro consolidado de inversión y financiación
+# 11 · Anexo IX — Cuadro de inversión, financiación y liquidez
 
-## A. Fuentes de financiación
+| Fuentes previstas | Estado | Importe |
+|---|---|---:|
+| Pago único SEPE | `[ESTIMADO / PENDIENTE DE RESOLUCIÓN / NO CONCEDIDO / NO COBRADO]` | 29.000,00 € |
+| BBVA | `[CONFIRMADO]` nominalmente documentado | 12.653,67 € |
+| ING | `[CONFIRMADO]` nominalmente documentado | 9.603,95 € |
+| **Total** | `[CÁLCULO]` | **51.257,62 €** |
 
-| Fuente | Estado | Importe | Observaciones |
-|---|---|---:|---|
-| Pago único SEPE | Estimado; pendiente de resolución | ≈29.000 € | Destino prioritario previsto: precio del inmueble |
-| Fondos propios | Declarados por el promotor; evidencia a incorporar | 19.000 € | Aportación propia al proyecto |
-| Financiación bancaria concedida | No contemplada | 0 € | No se incorpora financiación bancaria al escenario |
-| Otras ayudas concedidas | No contempladas | 0 € | No se incorporan al escenario |
-| **Total de fuentes previstas** | Escenario de referencia | **≈48.000 €** | No equivale todavía a disponibilidad íntegramente acreditada |
+| Conciliación estadística | Importe |
+|---|---:|
+| Fuentes | 51.257,62 € |
+| Desembolsos | 46.370,52 € |
+| **Remanente aritmético** | **4.887,10 €** |
 
-## B. Aplicación de fondos
+El remanente no acredita caja actual, circulante suficiente ni viabilidad. La prueba limitada usa costes variables del 15 %, costes fijos históricos ajustados de aproximadamente 1.400 €/mes, retirada personal de 800 €/mes y cobro al mes siguiente: circulante necesario 7.200,00 €, diferencia de control 2.312,90 € y mes crítico 6. Es una **señal de riesgo de liquidez derivada de una prueba simplificada**, no un déficit definitivo.
 
-| Concepto | Estado | Importe | Fuente o criterio |
-|---|---|---:|---|
-| Precio del local · presupuesto de referencia | Estimación; no es precio contractual | 40.000,00 € | Cinco ofertas anunciadas entre 32.900 y 45.000 € |
-| Fiscalidad de adquisición | Estimación sujeta al activo definitivo | 3.600,00 € | Escenario central del 9 %; rango territorial de planificación 2.800–4.000 € |
-| Notaría y Registro | Estimación sujeta a la operación | 700,00 € | Rango de planificación 500–900 € |
-| Intermediación | Escenario prudente con agencia | 1.452,00 € | 3 % más IVA sobre 40.000 €; compra directa: 0 € |
-| Inspección y acondicionamiento | Estimación inicial mínima | 1.500,00 € | Rango de planificación 1.000–2.000 €; sin reforma integral |
-| Equipos informáticos | Importe de documento comercial; actualización documental necesaria | 1.317,48 € | Documento comercial existente |
-| Mobiliario | Presupuesto disponible | 477,56 € | Presupuesto existente |
-| Gestoría | Proforma disponible | 943,80 € | Proforma existente |
-| **Subtotal de proformas/documentos conocidos** |  | **2.738,84 €** | Informática + mobiliario + gestoría |
-| **Total del escenario de referencia** |  | **49.990,84 €** | 40.000 € + 7.252 € + 2.738,84 € |
-
-## C. Conciliación
-
-- Fuentes previstas: aproximadamente **48.000 €**.
-- Aplicaciones del escenario de referencia: **49.990,84 €**.
-- Diferencia de planificación: **1.990,84 €** por encima de las fuentes previstas.
-
-El escenario no se fuerza para cuadrar ni incorpora financiación adicional. Manteniendo fijos los demás importes, un precio del local de **38.009,16 €** equilibraría aritméticamente el cuadro. Si la fiscalidad se recalcula al 9 % sobre el precio reducido, el precio máximo aproximado sería **38.173,54 €**. Ambos valores son referencias de negociación, no ofertas ni precios contractuales.
-
-La horquilla de mercado ya contiene alternativas por debajo de esos umbrales. La selección deberá conciliar el precio negociado, la fiscalidad territorial, la existencia o no de comisión de intermediación y el acondicionamiento real.
-
-## D. Observaciones y condiciones
-
-- El pago único no se asigna dos veces: su destino prioritario previsto es el precio del inmueble.
-- Los 19.000 € de fondos propios son una aportación declarada cuya evidencia documental debe incorporarse.
-- Los costes asociados son estimaciones de planificación y se sustituirán por liquidaciones, minutas, facturas y presupuestos del activo definitivo.
-- No existe compra, reserva, arras, contrato de compraventa ni compromiso vinculante.
-- El inmueble definitivo podrá ser uno de los analizados u otro funcional y económicamente equivalente.
-- Las cuestiones abiertas se controlan en [PreguntasPendientes.md](PreguntasPendientes.md), documento interno previo.
-
-## E. Sensibilidad de El Ejido
-
-Sin modificar las fuentes o el escenario central, el [anexo II](04_ANEXO_II_ESTUDIO_MERCADO_INMOBILIARIO.md) calcula El Ejido en 44.765,64 € bajo HYP-A26: saldo frente a 48.000 € de +3.234,36 €. Es una simulación con base fiscal y comisión supuestas; faltan partidas y circulante por presupuestar. El saldo favorable no demuestra viabilidad operativa.
+Los escenarios estadístico, sensibilidad de Águilas y comparativo territorial son alternativos y no acumulables. La compra solo se formalizará si precio, fiscalidad, formalización, intermediación, acondicionamiento, equipo, puesta en marcha y necesidades operativas preservan circulante suficiente.

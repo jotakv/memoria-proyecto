@@ -1,40 +1,16 @@
-# 00 · Índice del expediente SEPE
+# 00 · Índice estructural sin paginación
 
-**Estado general:** expediente concretado para revisión previa; la resolución del SEPE, la acreditación de fondos y la operación inmobiliaria definitiva se incorporarán cuando existan.
+**Fuente canónica:** [`MEMORIA_SEPE_PRESENTACION_FINAL.md`](../MEMORIA_SEPE_PRESENTACION_FINAL.md). La paginación definitiva pertenece a la maquetación Word/PDF.
 
-## Orden de lectura y presentación
-
-1. [Memoria explicativa SEPE](01_MEMORIA_EXPLICATIVA_SEPE.md).
-2. [Plan de empresa ampliado](02_PLAN_EMPRESA_AMPLIADO.md).
-3. [Anexo I · Necesidad y justificación funcional del local](03_ANEXO_I_NECESIDAD_JUSTIFICACION_LOCAL.md).
-4. [Anexo II · Estudio de mercado inmobiliario](04_ANEXO_II_ESTUDIO_MERCADO_INMOBILIARIO.md).
-5. [Anexo III · Fichas de los locales analizados](05_ANEXO_III_FICHAS_LOCALES_ANALIZADOS.md).
-6. [Anexo IV · Presupuesto de adquisición del local](06_ANEXO_IV_PRESUPUESTO_ADQUISICION_LOCAL.md).
-7. [Anexo V · Equipos informáticos](07_ANEXO_V_PROFORMAS_EQUIPOS_INFORMATICOS.md).
+1. [Memoria explicativa](01_MEMORIA_EXPLICATIVA_SEPE.md).
+2. [Plan de empresa](02_PLAN_EMPRESA_AMPLIADO.md).
+3. [Anexo I · Necesidad del local](03_ANEXO_I_NECESIDAD_JUSTIFICACION_LOCAL.md).
+4. [Anexo II · Mercado inmobiliario](04_ANEXO_II_ESTUDIO_MERCADO_INMOBILIARIO.md).
+5. [Anexo III · Cuatro fichas](05_ANEXO_III_FICHAS_LOCALES_ANALIZADOS.md).
+6. [Anexo IV · Presupuesto](06_ANEXO_IV_PRESUPUESTO_ADQUISICION_LOCAL.md).
+7. [Anexo V · Informática](07_ANEXO_V_PROFORMAS_EQUIPOS_INFORMATICOS.md).
 8. [Anexo VI · Mobiliario](08_ANEXO_VI_PROFORMAS_MOBILIARIO.md).
 9. [Anexo VII · Gestoría](09_ANEXO_VII_PRESUPUESTO_GESTORIA.md).
-10. [Anexo IX · Cuadro de inversión y financiación](11_ANEXO_IX_CUADRO_INVERSION_FINANCIACION.md).
+10. [Anexo IX · Inversión y financiación](11_ANEXO_IX_CUADRO_INVERSION_FINANCIACION.md).
 
-El archivo [PreguntasPendientes.md](PreguntasPendientes.md) es un control interno previo y no un anexo administrativo del paquete.
-
-## Evidencias externas al dossier
-
-- [Documentos oficiales SEPE conservados en el repositorio](../documentos_sepe/).
-- [Fuentes oficiales registradas](../research/FUENTES_OFICIALES.md).
-- [Evidencia inmobiliaria original](../locales/).
-- [Proformas y presupuestos originales](../proformas/).
-- [Índice maestro de anexos y trazabilidad](../evidence/INDICE_ANEXOS_Y_TRAZABILIDAD.md).
-
-## Control antes de presentar
-
-- [ ] Resolución, saldo y modalidad de capitalización acreditados.
-- [ ] Cronología de solicitud, alta e inicio validada.
-- [ ] Importe solicitado y fondos propios acreditados.
-- [ ] Inmueble definitivo seleccionado después de las comprobaciones previstas.
-- [ ] Precio negociado y coste total de adquisición documentados.
-- [ ] Costes asociados sustituidos por presupuestos o liquidaciones del activo definitivo.
-- [ ] Presupuestos identificables y documentación a nombre correcto.
-- [ ] Medios de pago y archivo justificativo preparados.
-- [ ] Formulario oficial vigente, firmas y declaraciones completados.
-
-Este índice organiza el expediente; no declara por sí mismo admisibilidad ni aprobación de ninguna partida.
+`PreguntasPendientes.md` es control interno y no anexo presentable. El bloque de evidencias contiene **registro y referencias**, no necesariamente reproducciones íntegras. No existe resolución SEPE, inmueble seleccionado, compra, reserva, arras o contrato vinculante.
