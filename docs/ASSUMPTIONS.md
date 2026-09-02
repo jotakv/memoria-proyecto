@@ -105,4 +105,11 @@ Los 40.000 € constituyen el **presupuesto de referencia** del escenario financ
 - **HYP-A27:** `[ESTIMADO / PENDIENTE DE RESOLUCIÓN / NO CONCEDIDO / NO COBRADO]` pago único de 29.000,00 €. Fondos propios nominalmente documentados: `[CONFIRMADO]` 22.257,62 €. Fuentes previstas: `[CÁLCULO]` 51.257,62 €.
 - **HYP-A28:** `[ESTIMADO]` media estadística 36.975,00 €, fiscalidad 3.600,00 €, notaría/Registro 700,00 €, intermediación 1.452,00 € y acondicionamiento 1.500,00 €. Fiscalidad e intermediación son reservas prudenciales, no porcentajes exactos; acondicionamiento no es presupuesto técnico.
 - **HYP-A29:** `[CONFIRMADO como referencias comerciales]` informática 1.317,48 €, mobiliario 477,56 € y gestoría PR026-0351 348,48 €. No acreditan pago o adquisición; informática mantiene incidencias formales.
-- **HYP-A30:** `[HIPÓTESIS / CONTROL DE RIESGO]` 15 % variable, aproximadamente 1.400 €/mes fijos históricos ajustados, retirada de 800 €/mes y cobro al mes siguiente: circulante 7.200,00 €, diferencia 2.312,90 €, mes crítico 6. No es déficit definitivo.
+- **HYP-A30:** `[HIPÓTESIS / CONTROL DE RIESGO]` Sustituida por HYP-A31–A34. Se conserva como trazabilidad la prueba previa de 7.200,00 €, que carecía de serie mensual reproducible y ya no es el control vigente.
+
+## Modelo de explotación integrado · HYP-A31 a HYP-A34 · 2026-09-02
+
+- **HYP-A31:** `[ESTIMADO]` Precios medios y ventas sin IVA: 3.000 € auditoría, 6.000 € sprint, 8.000 € implantación, 4.000 € desarrollo/integración y 1.000 €/mensualidad de soporte; ventas de 63.000 €, 88.200 € y 113.400 € en años 1–3. Son previsiones no contractuales.
+- **HYP-A32:** `[ESTIMADO]` Costes variables del 15 % de ventas y costes fijos desembolsables de 14.000 €, 16.800 € y 19.600 € en años 1–3. El año 1 incluye provisiones del local y excluye la gestoría de 348,48 € ya presupuestada en la inversión; RETA y costes reales del inmueble se sustituirán al conocerse.
+- **HYP-A33:** `[ESTIMADO]` Cobro al mes siguiente, variables pagados en el mes de venta, fijos mensualizados y retirada personal de 800 €/mes. La serie genera circulante mínimo de 6.350,00 €, saldo mínimo de −1.462,90 € frente al remanente de 4.887,10 € y mes crítico 3.
+- **HYP-A34:** `[ESTIMADO]` Capacidad de control de 120 horas/mes y máximo orientativo del 70 % facturable; amortización de planificación de equipo y mobiliario por 598,35 €/año durante tres años, sujeta al tratamiento fiscal real.

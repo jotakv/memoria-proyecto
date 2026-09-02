@@ -15,6 +15,6 @@
 | Gestoría PR026-0351 | `[CONFIRMADO como proforma]` | 348,48 € |
 | **Total** | `[CÁLCULO]` | **46.370,52 €** |
 
-Fuentes previstas: pago único **29.000,00 €** `[ESTIMADO / PENDIENTE / NO CONCEDIDO / NO COBRADO]` y fondos propios nominalmente documentados **22.257,62 €**, total **51.257,62 €**. El remanente aritmético de **4.887,10 €** no demuestra circulante suficiente. La prueba limitada requiere **7.200,00 €** y arroja una diferencia de control de **2.312,90 €**, señal de riesgo y no déficit definitivo.
+Fuentes previstas: pago único **29.000,00 €** `[ESTIMADO / PENDIENTE / NO CONCEDIDO / NO COBRADO]` y fondos propios nominalmente documentados **22.257,62 €**, total **51.257,62 €**. El remanente aritmético de **4.887,10 €** no demuestra circulante suficiente. La tesorería reproducible de la memoria requiere **6.350,00 €** y arroja una necesidad adicional de **1.462,90 €**, señal de riesgo y no déficit definitivo.
 
-No se formalizará una compra que deje al negocio sin circulante suficiente. Todos los gastos recurrentes y el coste efectivo del activo siguen pendientes de evidencia.
+No se formalizará una compra que deje al negocio sin circulante suficiente. Los gastos recurrentes disponen de provisiones de planificación en el apartado 15; sus costes efectivos y los del activo siguen pendientes de evidencia.
